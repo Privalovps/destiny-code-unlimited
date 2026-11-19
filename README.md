@@ -25,28 +25,26 @@ If dependencies are already installed here, run `npm run dev` directly. Open the
 
 ## Independent Vercel project
 
-1. Install the reviewed framework update and run the checks below before publishing. The deployment guard blocks the existing Next.js 16.2.0 pin and requires a stable Next.js 16 release at or above 16.4.5.
-2. When ready to publish, create a fresh Git repository here and push it to a separate GitHub repository for Unlimited. The ignore rules exclude installed dependencies, build output, local environment files, and generated PDFs.
+1. Repair the npm lockfile and run the checks below before publishing. The deployment guard requires a stable Next.js 16 release at or above 16.4.5.
+2. When ready to publish, push to the separate GitHub repository for Unlimited. The ignore rules exclude installed dependencies, build output, local environment files, and generated PDFs.
 3. In Vercel, choose **Add New → Project** and import the Unlimited repository into a new project. Set Node.js to 24.x. Use the committed `vercel.json`, which runs `npm ci` and `npm run build`. Use the new project's own `vercel.app` address. Vercel can supply the origin automatically, or set `NEXT_PUBLIC_SITE_URL` to the Unlimited project's HTTPS origin without a trailing slash. See [Vercel Git project setup](https://vercel.com/docs/git).
 4. Before opening public access, review the operator details in the privacy and terms templates and the host's request-log retention. Configure a project-specific firewall rate limit for the report and PDF paths if limits must hold across instances. See [Vercel WAF rate limiting](https://vercel.com/docs/vercel-firewall/vercel-waf/rate-limiting).
 
-### Framework update before deployment
+### Repair the npm lockfile before deployment
 
-Next.js 16.4.6 is the reviewed upgrade target as of November 19, 2026. The install attempt failed because this environment could not resolve `registry.npmjs.org`, so the manifest and lockfile still pin 16.2.0. Review current advisories before publishing. [Next.js 16.4.6 release](https://github.com/vercel/next.js/releases/tag/v16.4.6) · [November security release](https://nextjs.org/blog/november-2026-security-release) · [Current advisories](https://github.com/vercel/next.js/security/advisories)
-
-Run these commands from a network-enabled terminal with Node.js 24 active. Review the npm-generated `package.json` and `package-lock.json` together before committing them to the Unlimited repository.
+Next.js is pinned to 16.4.6. The current lockfile omits Sharp's Linux arm64 musl package, which causes `npm ci` to reject the tree even on macOS. Use Node.js 24 and a network-enabled terminal. The repair script repairs the existing lockfile in an isolated directory using the missing package’s official npm tarball, checks the optional Next.js and Sharp packages, and runs a clean install before copying the result back.
 
 ```sh
 cd "$HOME/Desktop/Isoteric - Unlimited" &&
 export NODE_OPTIONS=--max-old-space-size=384 &&
-npm install --save-exact next@16.4.6 &&
-npm install --save-dev --save-exact eslint-config-next@16.4.6 &&
-npm ls next eslint-config-next react react-dom --depth=0 &&
-node scripts/check-customer-release.mjs &&
-npm test -- src/lib src/components/chart.test.tsx --maxWorkers=1 &&
-npm run typecheck &&
+sh scripts/repair-npm-lock.sh &&
+npm run prebuild &&
+npm test -- src/lib/server/deployment-policy.test.ts src/lib/report-route.test.ts src/lib/methodology/matrix-layout.test.tsx --maxWorkers=1 &&
+npm run typecheck -- --incremental false &&
 npm run lint
 ```
+
+Review the generated lockfile diff and current advisories before publishing. The Vercel project uses Node.js 24.x, `npm ci`, and the Webpack build script. Confirm the Linux install and build in the Vercel deployment log. [Next.js 16.4.6 release](https://github.com/vercel/next.js/releases/tag/v16.4.6) · [Current advisories](https://github.com/vercel/next.js/security/advisories)
 
 ## Privacy and capacity
 
