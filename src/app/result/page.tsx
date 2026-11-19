@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { redirect } from 'next/navigation';
 import { BirthForm } from '@/components/birth-form';
-import { dateSchema } from '@/lib/numerology';
+import { parseBirthDateEntry } from '@/lib/birth-date-entry';
 
 export const dynamic = 'force-dynamic';
 export const metadata: Metadata = {
@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 
 export default async function Result({ searchParams }: { searchParams: Promise<{ date?: string | string[] }> }) {
   const { date } = await searchParams;
-  const parsed = dateSchema().safeParse(date);
+  const parsed = parseBirthDateEntry(date);
   if (parsed.success) redirect(`/report/${parsed.data}`);
 
   return <section className="shell section narrow">

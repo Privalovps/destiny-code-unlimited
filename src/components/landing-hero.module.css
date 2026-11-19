@@ -30,13 +30,11 @@
 .description{max-width:330px;margin-left:7px;color:var(--hero-muted);font-size:15px;line-height:1.85;animation:copy-enter .7s .2s ease-out both}
 .form{max-width:550px;margin-left:7px}
 .form :global(.birth-form){max-width:none;margin-top:24px}
-.form :global(.birth-form label){color:var(--hero-muted);font-size:9px;letter-spacing:2px}
-.form :global(.form-row){gap:22px;align-items:center}
-.form :global(input){height:54px;width:46%;background:transparent;border:0;border-bottom:1px solid var(--hero-gold);border-radius:0;padding:12px 0;color:var(--hero-ink);font-size:15px}
+.form :global(.form-row){gap:14px;align-items:center}
+.form :global(input){min-height:54px;width:46%;background:var(--hero-surface);border:1px solid var(--hero-gold);border-radius:4px;padding:12px 16px;color:var(--hero-ink);font-size:16px}
 .form :global(.button){min-height:54px;gap:28px;padding:14px 25px;border-radius:999px;border:1px solid var(--hero-gold);background:transparent;color:var(--hero-ink);font-size:12px;font-weight:400;white-space:nowrap;transition:background .2s,color .2s,transform .2s}
 .form :global(.button:hover:not(:disabled)){background:var(--hero-gold);color:var(--hero-bg)}
 .form :global(.button:active:not(:disabled)){transform:translateY(1px)}
-.form :global(.fine){font-size:10px;line-height:1.8;margin-top:13px;color:var(--hero-muted)}
 .form :global(.error){font-size:12px}
 .form :global(input:focus-visible),.hero a:focus-visible,.hero summary:focus-visible{outline:2px solid var(--hero-gold);outline-offset:6px}
 .disclaimer{margin:28px 0 0 7px;font:italic 15px/1.6 'Bodoni 72',Didot,Georgia,serif;color:var(--hero-muted)}
@@ -60,22 +58,22 @@
 @media(min-width:1600px){.wheel{left:55%;width:1050px;height:1050px;top:-100px}.ornament{left:71%;width:385px;top:108px}.inner{min-height:830px}.copy{padding-top:88px}}
 @media(max-width:1100px){.inner{width:calc(100% - 72px);min-height:740px}.copy{padding-top:60px}.headline{font-size:clamp(95px,11.5vw,126px)}.wheel{width:800px;height:800px;left:50%;top:-12px}.ornament{width:300px;left:69%;top:160px}.form{max-width:480px}.form :global(.form-row){gap:15px}.form :global(.button){padding-inline:20px;gap:18px}.artCaption{bottom:116px;max-width:205px}}
 @media(max-width:768px){.inner{width:calc(100% - 48px);min-height:0;padding-top:24px}.copy{padding-top:65px}.eyebrow{margin-bottom:30px}.headline{font-size:clamp(85px,12.7vw,100px);margin-bottom:30px}.secondLine{margin-left:36px}.wheel{width:690px;height:690px;left:41%;top:0;opacity:.42}.ornament{width:235px;left:68%;top:185px}.description{max-width:320px}.form{max-width:460px}.disclaimer{margin-top:24px}.artCaption{position:relative;right:auto;bottom:auto;margin-top:38px;text-align:left;max-width:none;flex-direction:row;align-items:flex-end;gap:25px}.bottomLine{margin-top:24px}.folio{font-size:8px;letter-spacing:1.6px}.folio>span:last-child{max-width:150px}}
-@media(max-width:540px){
+@media(max-width:640px){
  .inner{width:calc(100% - 40px);padding:23px 0 20px}
  .folio{font-size:7px;letter-spacing:1.5px;align-items:flex-start}.folio>span:last-child{max-width:124px;margin:0}
  .copy{padding-top:46px;max-width:none;pointer-events:auto}
  .eyebrow{font-size:8px;letter-spacing:2.3px;margin:0 0 26px 2px}
- .headline{font-size:clamp(68px,19vw,102px);line-height:.91;letter-spacing:-.065em;margin-left:-2px;margin-bottom:0;padding-bottom:.16em}
+ .headline{font-size:clamp(62px,19vw,102px);line-height:.91;letter-spacing:-.065em;margin-left:-2px;margin-bottom:0;padding-bottom:.16em}
  .secondLine{margin-left:clamp(16px,6vw,30px);margin-top:-.035em;letter-spacing:-.075em}
  /* A dedicated art interval preserves scale without placing the form behind a sculpture. */
- .description{max-width:250px;margin:206px 0 0 2px;font-size:14px;line-height:1.8}
+ .description{max-width:250px;margin:180px 0 0 2px;font-size:14px;line-height:1.8}
  .wheel{width:480px;height:480px;left:20%;top:126px;opacity:.38;animation-name:mobile-wheel-enter}
- .ornament{width:138px;left:auto;right:3%;top:clamp(250px,calc(100px + 43vw),330px);transform:rotate(-10deg);animation-name:mobile-ornament-enter}
- .form{max-width:none;margin-left:2px}.form :global(.birth-form){margin-top:23px}.form :global(.form-row){flex-direction:column;align-items:stretch;gap:16px;flex-wrap:nowrap}.form :global(input){width:100%;min-height:54px;padding:12px 0}.form :global(.button){width:100%;height:54px;justify-content:space-between;padding:13px 22px;font-size:12px}.form :global(.fine){max-width:280px;font-size:10px}
+ .ornament{width:118px;left:auto;right:3%;top:clamp(222px,calc(110px + 35vw),282px);transform:rotate(-10deg);animation-name:mobile-ornament-enter}
+ .form{max-width:none;margin-left:2px}.form :global(.birth-form){margin-top:23px}.form :global(.form-row){flex-direction:column;align-items:stretch;gap:12px;flex-wrap:nowrap}.form :global(input){width:100%;min-height:54px}.form :global(.button){width:100%;min-height:54px;justify-content:space-between;padding:13px 18px;font-size:12px;white-space:normal;text-align:left}
  .disclaimer{margin:24px 0 0 2px;font-size:14px}.artCaption{margin-top:28px;align-items:flex-start;gap:16px;justify-content:space-between;font-size:7px;letter-spacing:1.4px}.artCaption>span:last-child{max-width:170px;font-size:8px;text-align:right}
  .bottomLine{gap:16px;margin-top:24px;flex-wrap:wrap;padding-top:9px}.explore{font-size:9px;gap:15px}.matrixExample{width:100%;max-width:none;font-size:10px}.matrixExample summary{justify-content:space-between}.previewNote{flex-direction:column;gap:2px;font-size:7px;letter-spacing:.7px}.previewNote a{min-height:44px;display:inline-flex;align-items:center}
 }
 @keyframes mobile-wheel-enter{from{opacity:0;transform:rotate(-6deg)}to{opacity:.38;transform:rotate(0)}}
 @keyframes mobile-ornament-enter{from{opacity:0;transform:translateY(10px) rotate(-12deg)}to{opacity:1;transform:translateY(0) rotate(-10deg)}}
 @media(prefers-reduced-motion:reduce){.headline>span,.description,.wheel,.ornament{animation:none!important}.form :global(.button){transition:none}.wheel{opacity:.65}}
-@media(prefers-reduced-motion:reduce) and (max-width:540px){.wheel{opacity:.38}}
+@media(prefers-reduced-motion:reduce) and (max-width:640px){.wheel{opacity:.38}}

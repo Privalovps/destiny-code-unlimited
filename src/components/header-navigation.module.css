@@ -17,7 +17,7 @@
  .navigation .mobileLinks a{display:flex;justify-content:space-between;align-items:center;gap:16px;width:100%;min-height:48px;padding:12px;color:var(--text);border-bottom:1px solid var(--rule)}
  .navigation .mobileLinks a:hover{background:var(--surface-soft);color:var(--accent)}
  .navigation .mobileLinks li:last-child a{border-bottom:0}
- .navigation .mobileLinks span{padding:0;color:var(--accent)}
+ .navigation .mobileLinks svg{color:var(--accent)}
 }
 @keyframes menu-enter{from{opacity:0;transform:translateY(-4px)}to{opacity:1;transform:translateY(0)}}
 @media(prefers-reduced-motion:reduce){.menuButton,.navigation .panel{animation:none;transition:none}}
