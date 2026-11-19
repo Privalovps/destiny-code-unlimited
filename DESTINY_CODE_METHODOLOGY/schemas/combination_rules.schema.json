@@ -1,0 +1,71 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "classification",
+      "inputs",
+      "applicability",
+      "logic",
+      "sourceRefs",
+      "example",
+      "exceptions"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^COM-"
+      },
+      "classification": {
+        "enum": [
+          "shared",
+          "source_specific",
+          "conflicting",
+          "editorial_synthesis",
+          "unsupported"
+        ]
+      },
+      "sourceRefs": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": [
+            "sourceId",
+            "pdfPages"
+          ],
+          "properties": {
+            "sourceId": {
+              "enum": [
+                "A",
+                "B",
+                "C"
+              ]
+            },
+            "pdfPages": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 352
+              }
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "inputs": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "logic": {
+        "type": "string",
+        "minLength": 10
+      }
+    }
+  }
+}

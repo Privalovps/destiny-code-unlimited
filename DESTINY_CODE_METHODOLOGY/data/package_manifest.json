@@ -1,0 +1,287 @@
+{
+  "methodologyVersion": "dc-symbolic-1.0.0-proposed",
+  "calculationProfile": "C-family-center-v1",
+  "status": "source-supported-calculation-and-editorial-proposal; exhaustive narrative review not completed",
+  "files": [
+    {
+      "path": "00_README.md",
+      "bytes": 9399,
+      "sha256": "1592c101121db34bb6119db26608f06d5c146471295629d11b8d5a57ef95c151"
+    },
+    {
+      "path": "CODEX_IMPLEMENTATION_PROMPT.md",
+      "bytes": 10666,
+      "sha256": "fd3110ac165eea558ee4b8b27f5dfa67f85d422c79df5f056d9dc02701e52844"
+    },
+    {
+      "path": "RESEARCH_SUMMARY_RU.md",
+      "bytes": 6072,
+      "sha256": "d495c60bff1f24711f42006ea243c1333094df07cbcf0d295aae59e023beb713"
+    },
+    {
+      "path": "data/access_policy.json",
+      "bytes": 847,
+      "sha256": "2e5eb8d0c645d7b23a373ad13499f41030d9f384766a37fca42dcf5fa0a06392"
+    },
+    {
+      "path": "data/arcana.json",
+      "bytes": 200600,
+      "sha256": "f3232f5291ce6183c623ac162c690533bbcc0e8c21b844f8646e7bb977daff62"
+    },
+    {
+      "path": "data/calculation_rules.json",
+      "bytes": 28702,
+      "sha256": "49ce5cbde3bc3ed132b2f4ddc4e75b2163838ffb6e2a260d960ec674b5b968fe"
+    },
+    {
+      "path": "data/channels.json",
+      "bytes": 17887,
+      "sha256": "1786b2ddd3603647036d2283dc8909bbece355ebd964b10d17ac1b6bb65a0723"
+    },
+    {
+      "path": "data/combination_rules.json",
+      "bytes": 5186,
+      "sha256": "e4b88a1a302b401d370f96321412f6fe9e029f74e302a6f4c6a1a4d9bf2ffea8"
+    },
+    {
+      "path": "data/comparison.json",
+      "bytes": 8110,
+      "sha256": "439a184fdd9f97a965413fd119868706891e64036944e249aa85f84a08d72085"
+    },
+    {
+      "path": "data/contrast_pairs.json",
+      "bytes": 1228,
+      "sha256": "ae4986412f6f81d93f442f835ad67bfddce6d9dbc893a255dcc93cd201bfb13d"
+    },
+    {
+      "path": "data/coverage_summary.json",
+      "bytes": 578,
+      "sha256": "17ce4f0065e21d09898190f303b62e4103b10836e54df9553ccfac1efec45eab"
+    },
+    {
+      "path": "data/data_validation_results.json",
+      "bytes": 824,
+      "sha256": "7ac5b2a5ef19fa4a9cda0e45aa72ffc33a4ad702615fc4ca9625b6a4dfa4396c"
+    },
+    {
+      "path": "data/decisions.json",
+      "bytes": 6514,
+      "sha256": "70cd5e32b98e57fea4075a1974b9c894a7661169f1a2f129c52eabc61587bdff"
+    },
+    {
+      "path": "data/invalid_dates.json",
+      "bytes": 187,
+      "sha256": "947c6f9bfc391778008abad499ce686931b0ca7e3679a0781d52b1c5cd3fdaf3"
+    },
+    {
+      "path": "data/karmic_patterns.json",
+      "bytes": 25732,
+      "sha256": "802ff95b218cacfdd2e3f671dcdc0ab1c706cdfc677586d39b7b812fe0f3075d"
+    },
+    {
+      "path": "data/positions.json",
+      "bytes": 43379,
+      "sha256": "6ca50cffb9005c16eeae6f60c72af59a80e7d679ca19b5956946732c064b07b5"
+    },
+    {
+      "path": "data/reference_validation_results.json",
+      "bytes": 1603,
+      "sha256": "b6a0d9a957f539b17f193cbaf28d18e8c2cd98a4fd615b5e0aeb73ceb38f4a75"
+    },
+    {
+      "path": "data/report_sections.json",
+      "bytes": 12321,
+      "sha256": "a4280585c1fb2dd4c0572430d0e163dbef140024e9a691c5d1add295ee69570b"
+    },
+    {
+      "path": "data/sample_report_model.json",
+      "bytes": 107806,
+      "sha256": "17e8e11d06aeb386e7fa9ae34b35005c66c9a2eef0167c1820326ec68a28650b"
+    },
+    {
+      "path": "data/source_code_catalog.json",
+      "bytes": 32276,
+      "sha256": "837fd6c849b140b06df6938b1be33950e7233382bc051644c6360a2efa3dc5ee"
+    },
+    {
+      "path": "data/source_example_assertions.json",
+      "bytes": 2939,
+      "sha256": "325e7bc89bfe8f3dd36dcfdef94a5ddb93e16d0fa7e62bf16b77391bab994ddd"
+    },
+    {
+      "path": "data/sources.json",
+      "bytes": 2662,
+      "sha256": "7c24f769a8086453218739db68a75858d513abe3925933b0bebae8e28e1c0410"
+    },
+    {
+      "path": "data/test_cases.json",
+      "bytes": 147382,
+      "sha256": "2ade7e64e92833f50c9e300ae64f3053e6e0cd881fc712799e27351bfea90d9f"
+    },
+    {
+      "path": "implementation/08_PREMIUM_REPORT_STRUCTURE.md",
+      "bytes": 3834,
+      "sha256": "8872ce6a850b0e704089570bb6aa62d88b27e84290c5dd842a0676aaadfbc3a1"
+    },
+    {
+      "path": "implementation/09_SAMPLE_REPORT_SPEC.md",
+      "bytes": 1859,
+      "sha256": "db63a6b2c0a2f1954bddb27682efa717492e4533c9d328513f7beb448d2448e9"
+    },
+    {
+      "path": "implementation/10_MIGRATION_PLAN.md",
+      "bytes": 4452,
+      "sha256": "59687bb268bc6f35fa87236518f61e5c42c22ff3a2bed7a13f321a5236205eed"
+    },
+    {
+      "path": "implementation/11_QUALITY_AND_TESTING.md",
+      "bytes": 4100,
+      "sha256": "33d868a085668564f6e8955db19bc960dcfaf02af2c7cb6b4888644846d57b3d"
+    },
+    {
+      "path": "implementation/SAMPLE_COMPLETE_READING.md",
+      "bytes": 15444,
+      "sha256": "c7a27ab7f8bf455fbd010ed0b1c9d31481252609ca9c55237959f88ab77a9a9b"
+    },
+    {
+      "path": "implementation/SAMPLE_FREE_PREVIEW.md",
+      "bytes": 239,
+      "sha256": "098f4dde2681692c4bd84d95d6c97601860bbe488bbd6b00c2de4a362c8e6e37"
+    },
+    {
+      "path": "implementation/TECHNICAL_IMPLEMENTATION_SPEC.md",
+      "bytes": 6420,
+      "sha256": "c9236625b6a67c52b4e9376c2e9c0446c8449fcacedea404594784d38767cb37"
+    },
+    {
+      "path": "implementation/types.ts",
+      "bytes": 3790,
+      "sha256": "d402921c2714d77e45bd22c1e578f1891440a8fe4f58db95a66ba590809506b3"
+    },
+    {
+      "path": "reference/calculator.mjs",
+      "bytes": 2376,
+      "sha256": "b93fdb8e3694cfe05a8f1b25b712647d0edf2b517dd5321ebe0e3ce5a7335301"
+    },
+    {
+      "path": "reference/report-composer.mjs",
+      "bytes": 11813,
+      "sha256": "bdd1abb5c00a51358f6670d1b284d85ede21c7b393cc6ef38cf357cece6aafbb"
+    },
+    {
+      "path": "reference/validate.mjs",
+      "bytes": 6493,
+      "sha256": "5089d07efc427ae5f436eca2f97c81d000c4d9aea1ff89e5d1c9207fd7a128c5"
+    },
+    {
+      "path": "reference/validate_data.py",
+      "bytes": 3058,
+      "sha256": "75590e0900165594289421b3536d10bd71b7472e07880cb8dd045df9e3877752"
+    },
+    {
+      "path": "research/01_SOURCE_AUDIT.md",
+      "bytes": 8014,
+      "sha256": "eb172460d3c29771c87c6886285c55e942e974ea954f5e1cbe397ee1c8d5617c"
+    },
+    {
+      "path": "research/02_THREE_BOOK_COMPARISON.md",
+      "bytes": 7111,
+      "sha256": "1478b5e7aa3867e90dd534c340b6c1eb69cfe2e5e74f5c5832b0e3ae7efaacbb"
+    },
+    {
+      "path": "research/03_FINAL_METHODOLOGY.md",
+      "bytes": 5377,
+      "sha256": "ea195522fc2af9fbc11c1aa9e79936a990027c59c553bd97c15e86c1d4cb543c"
+    },
+    {
+      "path": "research/04_FORMULAS.md",
+      "bytes": 6240,
+      "sha256": "8298f2224f03ae0f1c387d2ecd976786e87d098c205db9d6f828b3de56debcf3"
+    },
+    {
+      "path": "research/05_POSITIONS_AND_CHANNELS.md",
+      "bytes": 7555,
+      "sha256": "d5985206cd55901e9ea0ea40c8480e1cdbeb1380452a4e99bf4f57d2e5604f63"
+    },
+    {
+      "path": "research/06_ARCANA_INTERPRETATIONS.md",
+      "bytes": 30266,
+      "sha256": "05c3a884671de7e9c36fb26125a7221cf572834684b2b83758aa6a262514b60e"
+    },
+    {
+      "path": "research/07_COMBINATION_RULES.md",
+      "bytes": 5162,
+      "sha256": "c7bfcac2439e17cc5ad620bdaab3747f6a08e58526022f91d0e699cf15b1eef7"
+    },
+    {
+      "path": "research/12_SOURCE_TRACEABILITY.md",
+      "bytes": 6929,
+      "sha256": "6fff4a0a507610db45d731900541c5f3351ed03944f25b1f481cc945a410f3f7"
+    },
+    {
+      "path": "research/13_UNRESOLVED_DECISIONS.md",
+      "bytes": 3656,
+      "sha256": "748ad36168e16d7f8af0f99fc72ee76ccc9387d988107b0b01c62f0476e3708f"
+    },
+    {
+      "path": "research/PAGE_COVERAGE.csv",
+      "bytes": 86186,
+      "sha256": "41b1b60d8ba0739eda4e4429dd6a811e6b6377a545855accc6cbff5e7c63d6b2"
+    },
+    {
+      "path": "research/REFERENCE_CALCULATIONS.md",
+      "bytes": 16945,
+      "sha256": "1c6f3ff9c522b9fbdaf7249fb747d8940f4e3a5b78d62602cbbec253c65be023"
+    },
+    {
+      "path": "research/SOURCE_A_ANALYSIS.md",
+      "bytes": 4659,
+      "sha256": "41eab3016d234e4d18f7c181b36a5a5adbcc3066f29a51b0f1a987495515c9e2"
+    },
+    {
+      "path": "research/SOURCE_B_ANALYSIS.md",
+      "bytes": 4054,
+      "sha256": "fec3826a07b70a54ff4d6115c6969096ac490756a014e8652b1f3a57f260e076"
+    },
+    {
+      "path": "research/SOURCE_C_ANALYSIS.md",
+      "bytes": 4642,
+      "sha256": "013a808cc00fa3c692781bd41f99c1dc44e30f678a3491643c496fd8da55fdc6"
+    },
+    {
+      "path": "schemas/arcana.schema.json",
+      "bytes": 3103,
+      "sha256": "e2de3a0061de7ca67b214dfc53d9fa569eb901c6439e366d02cf4256cbcf9eb0"
+    },
+    {
+      "path": "schemas/calculation_rules.schema.json",
+      "bytes": 2831,
+      "sha256": "0e572bbb97286ca4dca075cc97c3da5618941383039af131b64e0f49c5496dd8"
+    },
+    {
+      "path": "schemas/combination_rules.schema.json",
+      "bytes": 1429,
+      "sha256": "883063f2a43ba6b977895cbfb91b562532b6031f8b246a6b843f4b92257ce917"
+    },
+    {
+      "path": "schemas/karmic_patterns.schema.json",
+      "bytes": 2200,
+      "sha256": "43116c6ffab06e370a162775f52bfd6ac2e465bf141886a4d348968de481d7d9"
+    },
+    {
+      "path": "schemas/positions.schema.json",
+      "bytes": 2415,
+      "sha256": "f2d73ee4c70810dbc99600c01e631abdcf00defe027c9642ed80e0a5c89eff76"
+    },
+    {
+      "path": "schemas/report_sections.schema.json",
+      "bytes": 2062,
+      "sha256": "871b2d119f6d4ba053ad41fe14311b8259ad1c50f6c6c8d3b6b5a9fb133436e8"
+    },
+    {
+      "path": "schemas/test_cases.schema.json",
+      "bytes": 1625,
+      "sha256": "0153b2660813ab085f4fe020355baa1a29bf313828a7e1264e1cf67eefcff4be"
+    }
+  ]
+}

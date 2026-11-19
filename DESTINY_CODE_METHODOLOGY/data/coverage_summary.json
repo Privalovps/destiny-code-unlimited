@@ -1,0 +1,20 @@
+{
+  "totalPages": 630,
+  "processedPages": 630,
+  "exhaustiveLineByLineReadingClaimed": false,
+  "reviewDefinition": "Every PDF page was extracted or OCR-processed and indexed. Method-critical text, selected archetypal passages, and important diagrams were inspected. Indexed/section-screened pages are not represented as exhaustively read.",
+  "counts": {
+    "A": {
+      "pages": 143,
+      "directlyReviewedPages": 49
+    },
+    "B": {
+      "pages": 135,
+      "directlyReviewedPages": 39
+    },
+    "C": {
+      "pages": 352,
+      "directlyReviewedPages": 72
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "free": {
+    "positionIds": [
+      "day",
+      "core"
+    ],
+    "narrativeFields": [
+      "coreSymbolicMeaning"
+    ],
+    "maximumStatementsPerPosition": 1,
+    "includeMethodologyDisclosure": true,
+    "includePremiumDomainCopy": false
+  },
+  "paid": {
+    "sectionIds": [
+      "orientation",
+      "core",
+      "talents",
+      "relationships",
+      "resources",
+      "parenting",
+      "ancestry",
+      "learning",
+      "purpose",
+      "integration",
+      "reference"
+    ]
+  },
+  "sample": {
+    "date": "1991-12-09",
+    "publicPremiumAllowedOnlyForThisFixedFixture": true,
+    "acceptArbitraryDob": false
+  },
+  "price": {
+    "amountMinor": 1290,
+    "currency": "USD"
+  },
+  "entitlementModel": "Preserve existing server-side authorization; do not implement a new payment or permission model from this reference file."
+}

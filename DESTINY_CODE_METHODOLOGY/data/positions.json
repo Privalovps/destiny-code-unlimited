@@ -1,0 +1,1465 @@
+[
+  {
+    "id": "day",
+    "displayName": "Birth-day portrait",
+    "originalTerm": "Портрет",
+    "formulaId": "day",
+    "domain": "portrait",
+    "diagramCoordinates": [
+      -1,
+      0
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "How the archetype can appear in ordinary self-expression.",
+    "readingConstraint": "Describe a visible approach, not a verified personality trait.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            14
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            10
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "portrait",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "month",
+    "displayName": "Month / spiritual inspiration",
+    "originalTerm": "Связь с Вышним",
+    "formulaId": "month",
+    "domain": "talent",
+    "diagramCoordinates": [
+      0,
+      -1
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "What may feel inspiring or worth practicing.",
+    "readingConstraint": "Use talent as a symbolic direction; do not certify innate ability.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            14
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            11,
+            12
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "talent",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "year",
+    "displayName": "Year / material learning",
+    "originalTerm": "Задача души",
+    "formulaId": "year",
+    "domain": "money",
+    "diagramCoordinates": [
+      1,
+      0
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "How resources and material responsibilities can be approached.",
+    "readingConstraint": "Do not predict income, illness, or financial outcomes.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            15
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            12,
+            13
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "money",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "bottom",
+    "displayName": "Main learning point",
+    "originalTerm": "Главная проработка",
+    "formulaId": "bottom",
+    "domain": "growth",
+    "diagramCoordinates": [
+      0,
+      1
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "A recurring learning theme in the source tradition.",
+    "readingConstraint": "A shadow is a possibility, never evidence of wrongdoing or a past-life event.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            16
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            13,
+            14
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "growth",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "core",
+    "displayName": "Personal center",
+    "originalTerm": "Центр личной силы / зона комфорта",
+    "formulaId": "core",
+    "domain": "core",
+    "diagramCoordinates": [
+      0,
+      0
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "The organizing preference used to connect the reading.",
+    "readingConstraint": "Describe a recurring preference, not a score for strength or worth.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            17
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            14,
+            15
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "core",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "nw",
+    "displayName": "Paternal upper corner",
+    "originalTerm": null,
+    "formulaId": "nw",
+    "domain": "family",
+    "diagramCoordinates": [
+      -0.72,
+      -0.72
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "The paternal upper family theme in the diagram.",
+    "readingConstraint": "Symbolic lineage language does not establish an event or inherited defect.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            18
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            17,
+            18
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "family",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "ne",
+    "displayName": "Maternal upper corner",
+    "originalTerm": null,
+    "formulaId": "ne",
+    "domain": "family",
+    "diagramCoordinates": [
+      0.72,
+      -0.72
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "The maternal upper family theme in the diagram.",
+    "readingConstraint": "Symbolic lineage language does not establish an event or inherited defect.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            18
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            17,
+            18
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "family",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "se",
+    "displayName": "Paternal lower corner",
+    "originalTerm": null,
+    "formulaId": "se",
+    "domain": "family",
+    "diagramCoordinates": [
+      0.72,
+      0.72
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "The paternal lower family theme in the diagram.",
+    "readingConstraint": "Symbolic lineage language does not establish an event or inherited defect.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            18
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            17,
+            18
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "family",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "sw",
+    "displayName": "Maternal lower corner",
+    "originalTerm": null,
+    "formulaId": "sw",
+    "domain": "family",
+    "diagramCoordinates": [
+      -0.72,
+      0.72
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "The maternal lower family theme in the diagram.",
+    "readingConstraint": "Symbolic lineage language does not establish an event or inherited defect.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            18
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            17,
+            18
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "family",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "family_center",
+    "displayName": "Ancestral resource aggregate",
+    "originalTerm": "Сила рода",
+    "formulaId": "family_center",
+    "domain": "family",
+    "diagramCoordinates": null,
+    "coordinateProvenance": "off_chart_aggregate",
+    "role": "A symbolic summary of the four family corners.",
+    "readingConstraint": "Keep separate from the personal center and from actual family history.",
+    "provenance": {
+      "classification": "source_specific",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            20,
+            21
+          ]
+        }
+      ],
+      "editorialNote": "Separate from core, even when numerical values coincide. Not the social-purpose calculation: grouping and intermediate reduction differ."
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "family",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "day_inner",
+    "displayName": "Family relationship inner point",
+    "originalTerm": null,
+    "formulaId": "day_inner",
+    "domain": "family",
+    "diagramCoordinates": [
+      -0.55,
+      0.0
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "The inner component of the family relationship channel.",
+    "readingConstraint": "Read with the anchor and other component; interpretation is position dependent.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            25
+          ]
+        },
+        {
+          "sourceId": "B",
+          "pdfPages": [
+            20
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            31,
+            32
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "family",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "day_mid",
+    "displayName": "Family relationship middle point",
+    "originalTerm": null,
+    "formulaId": "day_mid",
+    "domain": "family",
+    "diagramCoordinates": [
+      -0.78,
+      0.0
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "The mid component of the family relationship channel.",
+    "readingConstraint": "Read with the anchor and other component; interpretation is position dependent.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            25
+          ]
+        },
+        {
+          "sourceId": "B",
+          "pdfPages": [
+            20
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            31,
+            32
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "family",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "month_inner",
+    "displayName": "Talent: self-expression",
+    "originalTerm": null,
+    "formulaId": "month_inner",
+    "domain": "talent",
+    "diagramCoordinates": [
+      0.0,
+      -0.55
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "How a skill or idea can be expressed and communicated.",
+    "readingConstraint": "Read with the anchor and other component; interpretation is position dependent.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            23
+          ]
+        },
+        {
+          "sourceId": "B",
+          "pdfPages": [
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            28,
+            29
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "talent",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "month_mid",
+    "displayName": "Talent: skills and practice",
+    "originalTerm": null,
+    "formulaId": "month_mid",
+    "domain": "talent",
+    "diagramCoordinates": [
+      0.0,
+      -0.78
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "A skill pattern to develop through practice.",
+    "readingConstraint": "Read with the anchor and other component; interpretation is position dependent.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            23
+          ]
+        },
+        {
+          "sourceId": "B",
+          "pdfPages": [
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            28,
+            29
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "talent",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "year_inner",
+    "displayName": "Money-channel entry",
+    "originalTerm": null,
+    "formulaId": "year_inner",
+    "domain": "money",
+    "diagramCoordinates": [
+      0.55,
+      0.0
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "The entry theme linking material habits to present resource choices.",
+    "readingConstraint": "Read with the anchor and other component; interpretation is position dependent.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            24
+          ]
+        },
+        {
+          "sourceId": "B",
+          "pdfPages": [
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            29,
+            30
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "money",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "year_mid",
+    "displayName": "Material use and spending theme",
+    "originalTerm": null,
+    "formulaId": "year_mid",
+    "domain": "money",
+    "diagramCoordinates": [
+      0.78,
+      0.0
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "How resources can be used and what priorities shape spending.",
+    "readingConstraint": "Read with the anchor and other component; interpretation is position dependent.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            24
+          ]
+        },
+        {
+          "sourceId": "B",
+          "pdfPages": [
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            29,
+            30
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "money",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "bottom_inner",
+    "displayName": "Relationship-channel entry",
+    "originalTerm": null,
+    "formulaId": "bottom_inner",
+    "domain": "growth",
+    "diagramCoordinates": [
+      0.0,
+      0.55
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "The learning theme carried into reciprocal partnership.",
+    "readingConstraint": "Read with the anchor and other component; interpretation is position dependent.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            22
+          ]
+        },
+        {
+          "sourceId": "B",
+          "pdfPages": [
+            9,
+            10
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            21,
+            22
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "growth",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "bottom_mid",
+    "displayName": "Karmic pattern middle point",
+    "originalTerm": null,
+    "formulaId": "bottom_mid",
+    "domain": "growth",
+    "diagramCoordinates": [
+      0.0,
+      0.78
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "The mid component of the learning channel.",
+    "readingConstraint": "Read with the anchor and other component; interpretation is position dependent.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            22
+          ]
+        },
+        {
+          "sourceId": "B",
+          "pdfPages": [
+            9,
+            10
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            21,
+            22
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "growth",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "nw_inner",
+    "displayName": "Paternal upper inner point",
+    "originalTerm": null,
+    "formulaId": "nw_inner",
+    "domain": "family",
+    "diagramCoordinates": [
+      -0.396,
+      -0.396
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "The inner component of the paternal upper triad.",
+    "readingConstraint": "Interpret in this exact branch; do not use a generic karmic-tail label.",
+    "provenance": {
+      "classification": "conflicting",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            33
+          ]
+        }
+      ],
+      "editorialNote": "C profile. A:26 and B:21 use core instead. Never silently substitute the other center."
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "family",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "nw_mid",
+    "displayName": "Paternal upper middle point",
+    "originalTerm": null,
+    "formulaId": "nw_mid",
+    "domain": "family",
+    "diagramCoordinates": [
+      -0.562,
+      -0.562
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "The mid component of the paternal upper triad.",
+    "readingConstraint": "Interpret in this exact branch; do not use a generic karmic-tail label.",
+    "provenance": {
+      "classification": "conflicting",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            33
+          ]
+        }
+      ],
+      "editorialNote": "Middle derived from already selected branch; preserve the profile throughout."
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "family",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "ne_inner",
+    "displayName": "Maternal upper inner point",
+    "originalTerm": null,
+    "formulaId": "ne_inner",
+    "domain": "family",
+    "diagramCoordinates": [
+      0.396,
+      -0.396
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "The inner component of the maternal upper triad.",
+    "readingConstraint": "Interpret in this exact branch; do not use a generic karmic-tail label.",
+    "provenance": {
+      "classification": "conflicting",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            33,
+            34
+          ]
+        }
+      ],
+      "editorialNote": "C profile. A:26 and B:21 use core instead. Never silently substitute the other center."
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "family",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "ne_mid",
+    "displayName": "Maternal upper middle point",
+    "originalTerm": null,
+    "formulaId": "ne_mid",
+    "domain": "family",
+    "diagramCoordinates": [
+      0.562,
+      -0.562
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "The mid component of the maternal upper triad.",
+    "readingConstraint": "Interpret in this exact branch; do not use a generic karmic-tail label.",
+    "provenance": {
+      "classification": "conflicting",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            34,
+            35
+          ]
+        }
+      ],
+      "editorialNote": "Middle derived from already selected branch; preserve the profile throughout."
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "family",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "se_inner",
+    "displayName": "Paternal lower inner point",
+    "originalTerm": null,
+    "formulaId": "se_inner",
+    "domain": "family",
+    "diagramCoordinates": [
+      0.396,
+      0.396
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "The inner component of the paternal lower triad.",
+    "readingConstraint": "Interpret in this exact branch; do not use a generic karmic-tail label.",
+    "provenance": {
+      "classification": "conflicting",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            33,
+            34,
+            35,
+            36
+          ]
+        }
+      ],
+      "editorialNote": "C profile. A:26 and B:21 use core instead. Never silently substitute the other center."
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "family",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "se_mid",
+    "displayName": "Paternal lower middle point",
+    "originalTerm": null,
+    "formulaId": "se_mid",
+    "domain": "family",
+    "diagramCoordinates": [
+      0.562,
+      0.562
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "The mid component of the paternal lower triad.",
+    "readingConstraint": "Interpret in this exact branch; do not use a generic karmic-tail label.",
+    "provenance": {
+      "classification": "conflicting",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            36
+          ]
+        }
+      ],
+      "editorialNote": "Middle derived from already selected branch; preserve the profile throughout."
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "family",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "sw_inner",
+    "displayName": "Maternal lower inner point",
+    "originalTerm": null,
+    "formulaId": "sw_inner",
+    "domain": "family",
+    "diagramCoordinates": [
+      -0.396,
+      0.396
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "The inner component of the maternal lower triad.",
+    "readingConstraint": "Interpret in this exact branch; do not use a generic karmic-tail label.",
+    "provenance": {
+      "classification": "conflicting",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        }
+      ],
+      "editorialNote": "C profile. A:26 and B:21 use core instead. Never silently substitute the other center."
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "family",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "sw_mid",
+    "displayName": "Maternal lower middle point",
+    "originalTerm": null,
+    "formulaId": "sw_mid",
+    "domain": "family",
+    "diagramCoordinates": [
+      -0.562,
+      0.562
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "The mid component of the maternal lower triad.",
+    "readingConstraint": "Interpret in this exact branch; do not use a generic karmic-tail label.",
+    "provenance": {
+      "classification": "conflicting",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            37
+          ]
+        }
+      ],
+      "editorialNote": "Middle derived from already selected branch; preserve the profile throughout."
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "family",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "heart_earth",
+    "displayName": "Heart desire, Earth axis",
+    "originalTerm": null,
+    "formulaId": "heart_earth",
+    "domain": "desire",
+    "diagramCoordinates": [
+      -0.28,
+      0
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "What feels meaningful in daily material life.",
+    "readingConstraint": "This is a symbolic desire, not a medical heart measurement.",
+    "provenance": {
+      "classification": "source_specific",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            38,
+            39
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "desire",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "heart_sky",
+    "displayName": "Heart desire, Sky axis",
+    "originalTerm": null,
+    "formulaId": "heart_sky",
+    "domain": "desire",
+    "diagramCoordinates": [
+      0,
+      -0.28
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "What feels meaningful in inspiration and inner life.",
+    "readingConstraint": "A separate perspective from the Earth heart point.",
+    "provenance": {
+      "classification": "source_specific",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            38,
+            39
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "desire",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "bridge",
+    "displayName": "Shared relationship–resource bridge",
+    "originalTerm": "Линия благополучия: точка пересечения",
+    "formulaId": "bridge",
+    "domain": "balance",
+    "diagramCoordinates": [
+      0.28,
+      0.28
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "How relationship commitments and resource commitments affect one another.",
+    "readingConstraint": "Name a practical tradeoff; do not infer partner wealth or a meeting location.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            24
+          ]
+        },
+        {
+          "sourceId": "B",
+          "pdfPages": [
+            17
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            39
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "balance",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "money_center",
+    "displayName": "Money-channel midpoint",
+    "originalTerm": null,
+    "formulaId": "money_center",
+    "domain": "money",
+    "diagramCoordinates": [
+      0.415,
+      0.14
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "Work settings and skills associated with a resource theme.",
+    "readingConstraint": "Career examples are possibilities for exploration, not professional advice.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            24
+          ]
+        },
+        {
+          "sourceId": "B",
+          "pdfPages": [
+            17,
+            18
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            40
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "money",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "love_center",
+    "displayName": "Relationship-channel midpoint",
+    "originalTerm": null,
+    "formulaId": "love_center",
+    "domain": "relationship",
+    "diagramCoordinates": [
+      0.14,
+      0.415
+    ],
+    "coordinateProvenance": "editorial_layout",
+    "role": "Qualities valued in reciprocal partnership.",
+    "readingConstraint": "No guaranteed partner profile, gender, appearance, or compatibility percentage.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            24
+          ]
+        },
+        {
+          "sourceId": "B",
+          "pdfPages": [
+            17,
+            18
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            41
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "relationship",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "earth",
+    "displayName": "Earth aggregate",
+    "originalTerm": null,
+    "formulaId": "earth",
+    "domain": "purpose",
+    "diagramCoordinates": null,
+    "coordinateProvenance": "off_chart_aggregate",
+    "role": "Material side of personal-purpose synthesis.",
+    "readingConstraint": "Preserve its intermediate reduction.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            21
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            23,
+            24
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "purpose",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "sky",
+    "displayName": "Sky aggregate",
+    "originalTerm": null,
+    "formulaId": "sky",
+    "domain": "purpose",
+    "diagramCoordinates": null,
+    "coordinateProvenance": "off_chart_aggregate",
+    "role": "Inner or spiritual side of personal-purpose synthesis.",
+    "readingConstraint": "Preserve its intermediate reduction.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            21
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            23,
+            24
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "purpose",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "purpose_personal",
+    "displayName": "Personal purpose",
+    "originalTerm": null,
+    "formulaId": "purpose_personal",
+    "domain": "purpose",
+    "diagramCoordinates": null,
+    "coordinateProvenance": "off_chart_aggregate",
+    "role": "Integration of inner and material development.",
+    "readingConstraint": "Source age emphasis 20–40 is a symbolic framework, not a deadline.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            21
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            24
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "purpose",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "paternal",
+    "displayName": "Paternal aggregate",
+    "originalTerm": null,
+    "formulaId": "paternal",
+    "domain": "purpose",
+    "diagramCoordinates": null,
+    "coordinateProvenance": "off_chart_aggregate",
+    "role": "Aggregate of the opposite paternal corners.",
+    "readingConstraint": "Not a new genetic measurement.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            21
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            25
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "purpose",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "maternal",
+    "displayName": "Maternal aggregate",
+    "originalTerm": null,
+    "formulaId": "maternal",
+    "domain": "purpose",
+    "diagramCoordinates": null,
+    "coordinateProvenance": "off_chart_aggregate",
+    "role": "Aggregate of the opposite maternal corners.",
+    "readingConstraint": "Not an inference about a real parent.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            21
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            25
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "purpose",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "purpose_social",
+    "displayName": "Social purpose",
+    "originalTerm": null,
+    "formulaId": "purpose_social",
+    "domain": "purpose",
+    "diagramCoordinates": null,
+    "coordinateProvenance": "off_chart_aggregate",
+    "role": "Contribution and exchange with other people.",
+    "readingConstraint": "Source age emphasis 40–60 is not a required life timetable.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            21
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            25,
+            26
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "purpose",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  },
+  {
+    "id": "purpose_spiritual",
+    "displayName": "Spiritual purpose",
+    "originalTerm": null,
+    "formulaId": "purpose_spiritual",
+    "domain": "purpose",
+    "diagramCoordinates": null,
+    "coordinateProvenance": "off_chart_aggregate",
+    "role": "Integration of personal and social purpose.",
+    "readingConstraint": "Relevant throughout life; do not assert punishment after age 60.",
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            21
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            27
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "interpretationRecipe": {
+      "sourceDomain": "purpose",
+      "constructive": "Select domain-specific constructive text from arcana library; prepend actual position name and number.",
+      "shadow": "Present as a contrast to examine, never as a condition inferred from date.",
+      "interaction": "Use only declared channel or composition rule."
+    }
+  }
+]

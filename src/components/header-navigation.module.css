@@ -1,0 +1,23 @@
+.navigation{flex:0 0 auto;min-width:0}
+.navigation .links{display:flex;align-items:center;gap:36px;font-size:12px;letter-spacing:.5px;flex-wrap:nowrap}
+.navigation a{white-space:nowrap;flex-shrink:0}
+.menuButton{display:none}
+.navigation .panel,.navigation .panel[hidden]{display:none}
+@media(min-width:640px) and (max-width:900px){.navigation .links{gap:20px}}
+@media(max-width:639px){
+ .navigation .links{display:none}
+ .menuButton{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-width:68px;min-height:44px;padding:10px;border:1px solid var(--rule-strong);border-radius:999px;background:transparent;color:var(--accent);font-size:11px;line-height:1;letter-spacing:.3px;white-space:nowrap;flex-shrink:0;transition:background .2s,transform .18s}
+ .menuButton svg{width:12px;height:12px;flex-shrink:0}
+ .menuButton:hover,.menuButton[aria-expanded="true"]{background:var(--surface)}
+ .menuButton:active{transform:scale(.97)}
+ .menuButton:focus-visible,.navigation .panel a:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+ /* Anchored to the header, not the button: always inside the header's viewport gutters. */
+ .navigation .panel{position:absolute;z-index:30;top:calc(100% + 8px);right:0;display:block;width:min(280px,100%);padding:12px;background:var(--page);color:var(--text);border:1px solid var(--rule-strong);box-shadow:0 12px 28px var(--shadow);font-size:13px;animation:menu-enter .18s ease-out}
+ .navigation .mobileLinks{display:flex;flex-direction:column;gap:12px;list-style:none;margin:0;padding:0}
+ .navigation .mobileLinks a{display:flex;justify-content:space-between;align-items:center;gap:16px;width:100%;min-height:48px;padding:12px;color:var(--text);border-bottom:1px solid var(--rule)}
+ .navigation .mobileLinks a:hover{background:var(--surface-soft);color:var(--accent)}
+ .navigation .mobileLinks li:last-child a{border-bottom:0}
+ .navigation .mobileLinks span{padding:0;color:var(--accent)}
+}
+@keyframes menu-enter{from{opacity:0;transform:translateY(-4px)}to{opacity:1;transform:translateY(0)}}
+@media(prefers-reduced-motion:reduce){.menuButton,.navigation .panel{animation:none;transition:none}}

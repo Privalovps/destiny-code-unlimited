@@ -1,0 +1,4019 @@
+{
+  "dateOnly": "1991-12-09",
+  "methodologyVersion": "dc-symbolic-1.0.0-proposed",
+  "calculationProfile": "C-family-center-v1",
+  "contentVersion": "en-US-editorial-1.0.0-proposed",
+  "reportSchemaVersion": "1.0.0",
+  "sourceDataHash": "fbf88d53e18925ab9fee4158e32c574fddb4de91d7ddaca6b65daf98bd38f520",
+  "locale": "en-US",
+  "values": {
+    "day": 9,
+    "month": 12,
+    "year": 20,
+    "bottom": 5,
+    "core": 10,
+    "nw": 21,
+    "ne": 5,
+    "se": 7,
+    "sw": 14,
+    "family_center": 11,
+    "day_inner": 19,
+    "day_mid": 10,
+    "month_inner": 22,
+    "month_mid": 7,
+    "year_inner": 3,
+    "year_mid": 5,
+    "bottom_inner": 15,
+    "bottom_mid": 20,
+    "nw_inner": 5,
+    "nw_mid": 8,
+    "ne_inner": 16,
+    "ne_mid": 21,
+    "se_inner": 18,
+    "se_mid": 7,
+    "sw_inner": 7,
+    "sw_mid": 21,
+    "heart_earth": 11,
+    "heart_sky": 5,
+    "bridge": 18,
+    "money_center": 21,
+    "love_center": 6,
+    "earth": 11,
+    "sky": 17,
+    "purpose_personal": 10,
+    "paternal": 10,
+    "maternal": 19,
+    "purpose_social": 11,
+    "purpose_spiritual": 21
+  },
+  "sections": [
+    {
+      "id": "orientation",
+      "title": "How to read this matrix",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "An archetype is a symbolic pattern associated with one of 22 numbered themes. A position gives that theme a role; a channel joins specified positions. Constructive and shadow readings are alternative possibilities to consider, not states diagnosed from your birthday. This reading uses the C-family-center convention and original English editorial interpretations.",
+          "nodeIds": [],
+          "formulaIds": [],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "Your date produces a diagram with 30 named nodes, a separate family-resource aggregate, and seven line/purpose aggregates. Repeated values arise partly because the numbers are calculated from one another. They are not independent evidence about you.",
+          "nodeIds": [],
+          "formulaIds": [],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [],
+            "editorialNote": "Original role-based report composition."
+          }
+        }
+      ]
+    },
+    {
+      "id": "core",
+      "title": "Core patterns and outward expression",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "The center describes an organizing preference; the birth-day point describes outward expression. The two roles can show different ways to approach the same situation.",
+          "nodeIds": [],
+          "formulaIds": [],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Personal center [core] = 10 — The Wheel of Fortune. The organizing preference used to connect the reading. The organizing symbolic theme is cycles and responsive opportunity. Notice changing conditions, cooperate with available openings, and adjust without losing your direction. For example: A project changes direction, and you revise the plan while keeping the original delivery promise visible. ",
+          "nodeIds": [
+            "core"
+          ],
+          "formulaIds": [
+            "core"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  17
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  14,
+                  15
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  129
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  115
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  84,
+                  85,
+                  86,
+                  87
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Birth-day portrait [day] = 9 — The Hermit. How the archetype can appear in ordinary self-expression. Study patiently, form a considered view, and offer knowledge without needing constant attention. ",
+          "nodeIds": [
+            "day"
+          ],
+          "formulaIds": [
+            "day"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  14
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  10
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  127,
+                  128
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  114
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  79,
+                  80,
+                  81,
+                  82,
+                  83
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "5 (learning and transmission) occurs at distinct primary nodes bottom, ne. The role changes with each position. This is structural recurrence, not a multiplier for a measured trait.",
+          "nodeIds": [
+            "bottom",
+            "ne"
+          ],
+          "formulaIds": [
+            "bottom",
+            "ne"
+          ],
+          "ruleIds": [
+            "COM-REPEAT"
+          ],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  16
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  13,
+                  14
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  122,
+                  123
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  109
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  60,
+                  61,
+                  62,
+                  63,
+                  64
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  18
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  17,
+                  18
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "A shadow possibility to examine: Waiting for luck to do the work, changing plans at every fluctuation, or avoiding commitments in pursuit of ease. This is a contrast to test against experience, not a conclusion about your current behavior.",
+          "nodeIds": [
+            "core"
+          ],
+          "formulaIds": [
+            "core"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  17
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  14,
+                  15
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  129
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  115
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  84,
+                  85,
+                  86,
+                  87
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        }
+      ]
+    },
+    {
+      "id": "talents",
+      "title": "Talents, skills, and expression",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "The top arm separates inspiration, expression, and skills. These are practices to explore in combination, rather than a list of abilities your birthday certifies.",
+          "nodeIds": [],
+          "formulaIds": [],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Month / spiritual inspiration [month] = 12 — The Hanged Man. What may feel inspiring or worth practicing. Reframing, creative interpretation, careful support, and service design. This describes a practice to explore, not a certified ability. For example: You help a friend for an agreed hour rather than silently canceling your own commitments. ",
+          "nodeIds": [
+            "month"
+          ],
+          "formulaIds": [
+            "month"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  14
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  11,
+                  12
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  131
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  117
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  93,
+                  94,
+                  95,
+                  96,
+                  97
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Talent: self-expression [month_inner] = 22 — The Fool. How a skill or idea can be expressed and communicated. Improvisation, experimentation, play, and generating fresh alternatives. This describes a practice to explore, not a certified ability. ",
+          "nodeIds": [
+            "month_inner"
+          ],
+          "formulaIds": [
+            "month_inner"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  23
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  13,
+                  14,
+                  15
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  28,
+                  29
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  142,
+                  143
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  133,
+                  134,
+                  135
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  134,
+                  135,
+                  136,
+                  137,
+                  138
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Talent: skills and practice [month_mid] = 7 — The Chariot. A skill pattern to develop through practice. Execution, logistics, motivation, and coordinating action. This describes a practice to explore, not a certified ability. ",
+          "nodeIds": [
+            "month_mid"
+          ],
+          "formulaIds": [
+            "month_mid"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  23
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  13,
+                  14,
+                  15
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  28,
+                  29
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  125
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  112
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  69,
+                  70,
+                  71,
+                  72,
+                  73
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "Work experiment: combine improvisation, experimentation, play, and generating fresh alternatives with the breadth and integration theme at money_center=21. Test it in a small useful deliverable before deciding whether it suits you.",
+          "nodeIds": [
+            "month_inner",
+            "money_center"
+          ],
+          "formulaIds": [
+            "month_inner",
+            "money_center"
+          ],
+          "ruleIds": [
+            "COM-TALENT-WORK"
+          ],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  23
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  13,
+                  14,
+                  15
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  28,
+                  29
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  142,
+                  143
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  133,
+                  134,
+                  135
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  134,
+                  135,
+                  136,
+                  137,
+                  138
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  24
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  17,
+                  18
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  40
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  141
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  132
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  130,
+                  131,
+                  132,
+                  133
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "A shadow possibility to examine: Making yourself indispensable through sacrifice, staying indefinitely suspended, or expecting gratitude for unrequested help. This is a contrast to test against experience, not a conclusion about your current behavior.",
+          "nodeIds": [
+            "month"
+          ],
+          "formulaIds": [
+            "month"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  14
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  11,
+                  12
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  131
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  117
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  93,
+                  94,
+                  95,
+                  96,
+                  97
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        }
+      ]
+    },
+    {
+      "id": "relationships",
+      "title": "Love and reciprocal partnership",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "This channel connects an entry theme, qualities valued in partnership, and a shared point where relationships and resources meet.",
+          "nodeIds": [],
+          "formulaIds": [],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Relationship-channel entry [bottom_inner] = 15 — The Devil. The learning theme carried into reciprocal partnership. Attraction benefits from explicit consent and freedom to say no. For example: When a shared plan changes, state what you want directly and ask the other person what they want, while leaving room for either person to say no. ",
+          "nodeIds": [
+            "bottom_inner"
+          ],
+          "formulaIds": [
+            "bottom_inner"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  22
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  9,
+                  10
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  21,
+                  22
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  134,
+                  135
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  121
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  105,
+                  106,
+                  107,
+                  108
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Relationship-channel midpoint [love_center] = 6 — The Lovers. Qualities valued in reciprocal partnership. Choose reciprocal connection over performing an ideal version of yourself. ",
+          "nodeIds": [
+            "love_center"
+          ],
+          "formulaIds": [
+            "love_center"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  24
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  17,
+                  18
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  41
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  124
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  110,
+                  111
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  65,
+                  66,
+                  67,
+                  68
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Shared relationship–resource bridge [bridge] = 18 — The Moon. How relationship commitments and resource commitments affect one another. Consider the theme of imagination and uncertainty when negotiating both time and resources. Ask for clarity before turning an ambiguous event into a relationship narrative. ",
+          "nodeIds": [
+            "bridge"
+          ],
+          "formulaIds": [
+            "bridge"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  24
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  17
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  39
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  138
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  125,
+                  126,
+                  127
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  118,
+                  119,
+                  120,
+                  121
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "A practical bridge exercise is to compare the facts of a shared commitment with the assumptions each person brought to it: what time or money was actually agreed, and what did each person only expect?",
+          "nodeIds": [
+            "bridge"
+          ],
+          "formulaIds": [
+            "bridge"
+          ],
+          "ruleIds": [
+            "COM-BALANCE"
+          ],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  24
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  17
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  39
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  138
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  125,
+                  126,
+                  127
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  118,
+                  119,
+                  120,
+                  121
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "A shadow possibility to examine: Letting approval decide for you, idealizing a partner, or postponing a choice to avoid disappointment. This is a contrast to test against experience, not a conclusion about your current behavior.",
+          "nodeIds": [
+            "love_center"
+          ],
+          "formulaIds": [
+            "love_center"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  24
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  17,
+                  18
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  41
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  124
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  110,
+                  111
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  65,
+                  66,
+                  67,
+                  68
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        }
+      ]
+    },
+    {
+      "id": "resources",
+      "title": "Money, work, and material habits",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "The right arm describes material habits; the money midpoint adds a work theme. Keeping these roles separate is more useful than treating every number here as a career prediction.",
+          "nodeIds": [],
+          "formulaIds": [],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Year / material learning [year] = 20 — Judgment. How resources and material responsibilities can be approached. Shared knowledge can be a resource; a family connection does not prove a business is suitable. For example: You preserve a useful family practice while changing a rule that no longer fits your circumstances. ",
+          "nodeIds": [
+            "year"
+          ],
+          "formulaIds": [
+            "year"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  15
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  12,
+                  13
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  140
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  130,
+                  131
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  126,
+                  127,
+                  128,
+                  129
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Money-channel entry [year_inner] = 3 — The Empress. The entry theme linking material habits to present resource choices. Comfort and quality can be worthwhile uses of money; status is a poor substitute for deciding what is enough. ",
+          "nodeIds": [
+            "year_inner"
+          ],
+          "formulaIds": [
+            "year_inner"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  24
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  17,
+                  18,
+                  19
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  29,
+                  30
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  119,
+                  120
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  107
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  51,
+                  52,
+                  53,
+                  54
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Material use and spending theme [year_mid] = 5 — The Hierophant. How resources can be used and what priorities shape spending. Knowledge can become a useful service when it solves a real problem; authority alone does not establish value. ",
+          "nodeIds": [
+            "year_mid"
+          ],
+          "formulaIds": [
+            "year_mid"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  24
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  17,
+                  18,
+                  19
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  29,
+                  30
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  122,
+                  123
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  109
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  60,
+                  61,
+                  62,
+                  63,
+                  64
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Money-channel midpoint [money_center] = 21 — The World. Work settings and skills associated with a resource theme. A larger market or network creates complexity as well as possibilities; the chart does not validate expansion. ",
+          "nodeIds": [
+            "money_center"
+          ],
+          "formulaIds": [
+            "money_center"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  24
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  17,
+                  18
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  40
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  141
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  132
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  130,
+                  131,
+                  132,
+                  133
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "The shared bridge is again 18 (The Moon). Use the same relationship–resource interpretation described in the relationships chapter, now when agreeing on work time, spending, or shared responsibilities.",
+          "nodeIds": [
+            "bridge"
+          ],
+          "formulaIds": [
+            "bridge"
+          ],
+          "ruleIds": [
+            "COM-BALANCE"
+          ],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  24
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  17
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  39
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  138
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  125,
+                  126,
+                  127
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  118,
+                  119,
+                  120,
+                  121
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "A shadow possibility to examine: Expanding before finishing, dismissing local needs as too small, or mistaking broad interest for a workable plan. This is a contrast to test against experience, not a conclusion about your current behavior.",
+          "nodeIds": [
+            "money_center"
+          ],
+          "formulaIds": [
+            "money_center"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  24
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  17,
+                  18
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  40
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  141
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  132
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  130,
+                  131,
+                  132,
+                  133
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        }
+      ]
+    },
+    {
+      "id": "parenting",
+      "title": "Parents, children, and daily family patterns",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "The left arm offers a way to consider patterns of care, independence, and family communication. Apply a theme only where it fits your experience.",
+          "nodeIds": [],
+          "formulaIds": [],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Birth-day portrait [day] = 9 — The Hermit. How the archetype can appear in ordinary self-expression. The depth and independent understanding theme appears again in a different role. For example: You spend time studying a problem, then give a colleague a short and usable explanation. ",
+          "nodeIds": [
+            "day"
+          ],
+          "formulaIds": [
+            "day"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  14
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  10
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  127,
+                  128
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  114
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  79,
+                  80,
+                  81,
+                  82,
+                  83
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Family relationship inner point [day_inner] = 19 — The Sun. The inner component of the family relationship channel. Notice whether achievement and approval became inseparable in the family. ",
+          "nodeIds": [
+            "day_inner"
+          ],
+          "formulaIds": [
+            "day_inner"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  25
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  20
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  31,
+                  32
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  139
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  128,
+                  129
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  122,
+                  123,
+                  124,
+                  125
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Family relationship middle point [day_mid] = 10 — The Wheel of Fortune. The mid component of the family relationship channel. Identify which routines help and which merely repeat themselves. ",
+          "nodeIds": [
+            "day_mid"
+          ],
+          "formulaIds": [
+            "day_mid"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  25
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  20
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  31,
+                  32
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  129
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  115
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  84,
+                  85,
+                  86,
+                  87
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Heart desire, Earth axis [heart_earth] = 11 — Strength. What feels meaningful in daily material life. A meaningful outlet for determination and enough room to recover. ",
+          "nodeIds": [
+            "heart_earth"
+          ],
+          "formulaIds": [
+            "heart_earth"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  38,
+                  39
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  130
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  116
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  88,
+                  89,
+                  90,
+                  91,
+                  92
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "A shadow possibility to examine: Withdrawing before others can know you, using expertise to dismiss them, or waiting for complete knowledge before contributing. This is a contrast to test against experience, not a conclusion about your current behavior.",
+          "nodeIds": [
+            "day"
+          ],
+          "formulaIds": [
+            "day"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  14
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  10
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  127,
+                  128
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  114
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  79,
+                  80,
+                  81,
+                  82,
+                  83
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ancestry",
+      "title": "Family branches and inherited stories",
+      "blocks": [
+        {
+          "kind": "position",
+          "text": "Ancestral resource aggregate [family_center] = 11 — Strength. A symbolic summary of the four family corners. Notice whether effort, toughness, or endurance became a condition of acceptance. ",
+          "nodeIds": [
+            "family_center"
+          ],
+          "formulaIds": [
+            "family_center"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  20,
+                  21
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  130
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  116
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  88,
+                  89,
+                  90,
+                  91,
+                  92
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Paternal upper corner: 21 (breadth and integration) → 5 (learning and transmission) → 8 (fair exchange and accountability), in calculation order. Explore identities beyond the family while keeping the connections you actually value. The second and third values qualify this symbolic branch; they do not identify traits or events in your relatives. C calculates its inner value with family_center, not core.",
+          "nodeIds": [
+            "nw",
+            "nw_inner",
+            "nw_mid"
+          ],
+          "formulaIds": [
+            "nw",
+            "nw_inner",
+            "nw_mid"
+          ],
+          "ruleIds": [
+            "COM-CHANNEL"
+          ],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  18
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  17,
+                  18
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  141
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  132
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  130,
+                  131,
+                  132,
+                  133
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  33
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  122,
+                  123
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  109
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  60,
+                  61,
+                  62,
+                  63,
+                  64
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  126
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  113
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  74,
+                  75,
+                  76,
+                  77,
+                  78
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Maternal upper corner: 5 (learning and transmission) → 16 (reassessment and rebuilding) → 21 (breadth and integration), in calculation order. Keep a tradition because it serves people, rather than because disagreement feels disloyal. The second and third values qualify this symbolic branch; they do not identify traits or events in your relatives. C calculates its inner value with family_center, not core.",
+          "nodeIds": [
+            "ne",
+            "ne_inner",
+            "ne_mid"
+          ],
+          "formulaIds": [
+            "ne",
+            "ne_inner",
+            "ne_mid"
+          ],
+          "ruleIds": [
+            "COM-CHANNEL"
+          ],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  18
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  17,
+                  18
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  122,
+                  123
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  109
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  60,
+                  61,
+                  62,
+                  63,
+                  64
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  33,
+                  34
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  136
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  122
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  109,
+                  110,
+                  111,
+                  112,
+                  113
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  34,
+                  35
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  141
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  132
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  130,
+                  131,
+                  132,
+                  133
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Paternal lower corner: 7 (direction and coordinated movement) → 18 (imagination and uncertainty) → 7 (direction and coordinated movement), in calculation order. Notice whether achievement became the only accepted way to earn recognition. The second and third values qualify this symbolic branch; they do not identify traits or events in your relatives. C calculates its inner value with family_center, not core.",
+          "nodeIds": [
+            "se",
+            "se_inner",
+            "se_mid"
+          ],
+          "formulaIds": [
+            "se",
+            "se_inner",
+            "se_mid"
+          ],
+          "ruleIds": [
+            "COM-CHANNEL"
+          ],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  18
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  17,
+                  18
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  125
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  112
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  69,
+                  70,
+                  71,
+                  72,
+                  73
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  33,
+                  34,
+                  35,
+                  36
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  138
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  125,
+                  126,
+                  127
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  118,
+                  119,
+                  120,
+                  121
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  36
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Maternal lower corner: 14 (integration and proportion) → 7 (direction and coordinated movement) → 21 (breadth and integration), in calculation order. Notice how disagreement was moderated and whether anyone's preference was lost. The second and third values qualify this symbolic branch; they do not identify traits or events in your relatives. C calculates its inner value with family_center, not core.",
+          "nodeIds": [
+            "sw",
+            "sw_inner",
+            "sw_mid"
+          ],
+          "formulaIds": [
+            "sw",
+            "sw_inner",
+            "sw_mid"
+          ],
+          "ruleIds": [
+            "COM-CHANNEL"
+          ],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  18
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  17,
+                  18
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  133
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  119,
+                  120
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  102,
+                  103,
+                  104
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  33,
+                  34,
+                  35,
+                  36,
+                  37
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  125
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  112
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  69,
+                  70,
+                  71,
+                  72,
+                  73
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  37
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  141
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  132
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  130,
+                  131,
+                  132,
+                  133
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "A useful family reflection concerns a choice you can observe now: which expectation do you want to retain, revise, or decline? The chart does not require contact with a relative or establish an obligation to repair another person's history.",
+          "nodeIds": [],
+          "formulaIds": [],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [],
+            "editorialNote": "Original role-based report composition."
+          }
+        }
+      ]
+    },
+    {
+      "id": "learning",
+      "title": "Recurring lessons and the ordered tail",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "The ordered learning key is 5–15–20: bottom, inner, then middle. The physical bottom-to-center order is 5–20–15; it is not the catalog lookup order.",
+          "nodeIds": [
+            "bottom",
+            "bottom_inner",
+            "bottom_mid"
+          ],
+          "formulaIds": [
+            "bottom",
+            "bottom_inner",
+            "bottom_mid"
+          ],
+          "ruleIds": [
+            "COM-TAIL-C"
+          ],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  16
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  13,
+                  14
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  122,
+                  123
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  109
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  60,
+                  61,
+                  62,
+                  63,
+                  64
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  22
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  9,
+                  10
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  21,
+                  22
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  134,
+                  135
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  121
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  105,
+                  106,
+                  107,
+                  108
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  140
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  130,
+                  131
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  126,
+                  127,
+                  128,
+                  129
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "pattern",
+          "text": "Knowledge, influence, and belonging. Consider whether teaching becomes a way to control approval or defend a family expectation. Share what you know while allowing a listener to disagree. This is an original present-life reflection on a source-specific key, not a statement that you performed a particular act in a past life.",
+          "nodeIds": [
+            "bottom",
+            "bottom_inner",
+            "bottom_mid"
+          ],
+          "formulaIds": [
+            "bottom",
+            "bottom_inner",
+            "bottom_mid"
+          ],
+          "ruleIds": [
+            "COM-TAIL-C"
+          ],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  16
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  13,
+                  14
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  122,
+                  123
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  109
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  60,
+                  61,
+                  62,
+                  63,
+                  64
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  22
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  9,
+                  10
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  21,
+                  22
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  134,
+                  135
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  121
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  105,
+                  106,
+                  107,
+                  108
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  140
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  130,
+                  131
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  126,
+                  127,
+                  128,
+                  129
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Main learning point [bottom] = 5 — The Hierophant. A recurring learning theme in the source tradition. Update one belief when evidence or experience challenges it. ",
+          "nodeIds": [
+            "bottom"
+          ],
+          "formulaIds": [
+            "bottom"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  16
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  13,
+                  14
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  122,
+                  123
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  109
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  60,
+                  61,
+                  62,
+                  63,
+                  64
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "The supporting themes are desire and the use of power and inheritance and renewal. Interpret these in the learning channel; do not borrow a partner or work profile simply because the same numbers occur elsewhere.",
+          "nodeIds": [
+            "bottom",
+            "bottom_inner",
+            "bottom_mid"
+          ],
+          "formulaIds": [
+            "bottom",
+            "bottom_inner",
+            "bottom_mid"
+          ],
+          "ruleIds": [
+            "COM-CHANNEL"
+          ],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  16
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  13,
+                  14
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  122,
+                  123
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  109
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  60,
+                  61,
+                  62,
+                  63,
+                  64
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  22
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  9,
+                  10
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  21,
+                  22
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  134,
+                  135
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  121
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  105,
+                  106,
+                  107,
+                  108
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  140
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  130,
+                  131
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  126,
+                  127,
+                  128,
+                  129
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "A shadow possibility to examine: Using a rule to end discussion, collecting credentials without practice, or teaching before listening. This is a contrast to test against experience, not a conclusion about your current behavior.",
+          "nodeIds": [
+            "bottom"
+          ],
+          "formulaIds": [
+            "bottom"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  16
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  13,
+                  14
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  122,
+                  123
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  109
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  60,
+                  61,
+                  62,
+                  63,
+                  64
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "title": "Purpose, values, and inner priorities",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Earth=11; Sky=17; personal purpose=10. Paternal=10; maternal=19; social purpose=11. Spiritual purpose=21 combines the two purposes. Each named intermediate value is reduced before the next formula.",
+          "nodeIds": [
+            "earth",
+            "sky",
+            "purpose_personal",
+            "paternal",
+            "maternal",
+            "purpose_social",
+            "purpose_spiritual"
+          ],
+          "formulaIds": [
+            "earth",
+            "sky",
+            "purpose_personal",
+            "paternal",
+            "maternal",
+            "purpose_social",
+            "purpose_spiritual"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  21
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  23,
+                  24
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  130
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  116
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  88,
+                  89,
+                  90,
+                  91,
+                  92
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  137
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  123,
+                  124
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  114,
+                  115,
+                  116,
+                  117
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  24
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  129
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  115
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  84,
+                  85,
+                  86,
+                  87
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  25
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  139
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  128,
+                  129
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  122,
+                  123,
+                  124,
+                  125
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  25,
+                  26
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  27
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  141
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  132
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  130,
+                  131,
+                  132,
+                  133
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Personal purpose [purpose_personal] = 10 — The Wheel of Fortune. Integration of inner and material development. Combine a flexible route with a stable minimum commitment. Adaptation, connecting opportunities, and responding to a changing environment. ",
+          "nodeIds": [
+            "purpose_personal"
+          ],
+          "formulaIds": [
+            "purpose_personal"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  21
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  24
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  129
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  115
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  84,
+                  85,
+                  86,
+                  87
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Social purpose [purpose_social] = 11 — Strength. Contribution and exchange with other people. Practice restraint as deliberately as effort. Persistence, demanding execution, motivation, and steady effort. ",
+          "nodeIds": [
+            "purpose_social"
+          ],
+          "formulaIds": [
+            "purpose_social"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  21
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  25,
+                  26
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  130
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  116
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  88,
+                  89,
+                  90,
+                  91,
+                  92
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Spiritual purpose [purpose_spiritual] = 21 — The World. Integration of personal and social purpose. Complete one local commitment before extending the scope. Cross-cultural communication, systems thinking, and integrating multiple viewpoints. ",
+          "nodeIds": [
+            "purpose_spiritual"
+          ],
+          "formulaIds": [
+            "purpose_spiritual"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  21
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  27
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  141
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  132
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  130,
+                  131,
+                  132,
+                  133
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Heart desire, Earth axis [heart_earth] = 11 — Strength. What feels meaningful in daily material life. The capacity and measured force theme appears again in a different role. ",
+          "nodeIds": [
+            "heart_earth"
+          ],
+          "formulaIds": [
+            "heart_earth"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  38,
+                  39
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  130
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  116
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  88,
+                  89,
+                  90,
+                  91,
+                  92
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "position",
+          "text": "Heart desire, Sky axis [heart_sky] = 5 — The Hierophant. What feels meaningful in inspiration and inner life. A meaningful practice and a community that takes learning seriously. ",
+          "nodeIds": [
+            "heart_sky"
+          ],
+          "formulaIds": [
+            "heart_sky"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  38,
+                  39
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  122,
+                  123
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  109
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  60,
+                  61,
+                  62,
+                  63,
+                  64
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "The source emphasizes personal development around 20–40 and contribution around 40–60 while treating spiritual purpose as lifelong. These are symbolic emphases, not deadlines. A different life sequence does not indicate failure.",
+          "nodeIds": [],
+          "formulaIds": [],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [],
+            "editorialNote": "Original role-based report composition."
+          }
+        }
+      ]
+    },
+    {
+      "id": "integration",
+      "title": "Practical integration",
+      "blocks": [
+        {
+          "kind": "practice",
+          "text": "Personal center [core] = 10 — The Wheel of Fortune: List what can change in your current plan and what must remain dependable. After the experiment, record what you actually did and what you learned. Keep, revise, or discard the interpretation on that basis.",
+          "nodeIds": [
+            "core"
+          ],
+          "formulaIds": [
+            "core"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  17
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  14,
+                  15
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  129
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  115
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  84,
+                  85,
+                  86,
+                  87
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "practice",
+          "text": "Money-channel midpoint [money_center] = 21 — The World: Turn one broad ambition into a defined audience, contribution, and next deliverable. After the experiment, record what you actually did and what you learned. Keep, revise, or discard the interpretation on that basis.",
+          "nodeIds": [
+            "money_center"
+          ],
+          "formulaIds": [
+            "money_center"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  24
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  17,
+                  18
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  40
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  141
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  132
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  130,
+                  131,
+                  132,
+                  133
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "practice",
+          "text": "Relationship-channel midpoint [love_center] = 6 — The Lovers: Choose between two real options using three values that matter to you. After the experiment, record what you actually did and what you learned. Keep, revise, or discard the interpretation on that basis.",
+          "nodeIds": [
+            "love_center"
+          ],
+          "formulaIds": [
+            "love_center"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  24
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  17,
+                  18
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  41
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  124
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  110,
+                  111
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  65,
+                  66,
+                  67,
+                  68
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        }
+      ]
+    },
+    {
+      "id": "reference",
+      "title": "Calculation and methodology reference",
+      "blocks": [
+        {
+          "kind": "calculation_table",
+          "text": "| Formula | Operands | Reduction | Result |\n|---|---|---|---:|\n| day | 9 | 9 | 9 |\n| month | 12 | 12 | 12 |\n| year | 1991 | 20 | 20 |\n| bottom | 9 + 12 + 20 | 41 → 5 | 5 |\n| core | 9 + 12 + 20 + 5 | 46 → 10 | 10 |\n| nw | 9 + 12 | 21 | 21 |\n| ne | 12 + 20 | 32 → 5 | 5 |\n| se | 20 + 5 | 25 → 7 | 7 |\n| sw | 5 + 9 | 14 | 14 |\n| family_center | 21 + 5 + 7 + 14 | 47 → 11 | 11 |\n| day_inner | 9 + 10 | 19 | 19 |\n| day_mid | 9 + 19 | 28 → 10 | 10 |\n| month_inner | 12 + 10 | 22 | 22 |\n| month_mid | 12 + 22 | 34 → 7 | 7 |\n| year_inner | 20 + 10 | 30 → 3 | 3 |\n| year_mid | 20 + 3 | 23 → 5 | 5 |\n| bottom_inner | 5 + 10 | 15 | 15 |\n| bottom_mid | 5 + 15 | 20 | 20 |\n| nw_inner | 21 + 11 | 32 → 5 | 5 |\n| nw_mid | 21 + 5 | 26 → 8 | 8 |\n| ne_inner | 5 + 11 | 16 | 16 |\n| ne_mid | 5 + 16 | 21 | 21 |\n| se_inner | 7 + 11 | 18 | 18 |\n| se_mid | 7 + 18 | 25 → 7 | 7 |\n| sw_inner | 14 + 11 | 25 → 7 | 7 |\n| sw_mid | 14 + 7 | 21 | 21 |\n| heart_earth | 10 + 19 | 29 → 11 | 11 |\n| heart_sky | 10 + 22 | 32 → 5 | 5 |\n| bridge | 3 + 15 | 18 | 18 |\n| money_center | 3 + 18 | 21 | 21 |\n| love_center | 15 + 18 | 33 → 6 | 6 |\n| earth | 9 + 20 | 29 → 11 | 11 |\n| sky | 12 + 5 | 17 | 17 |\n| purpose_personal | 11 + 17 | 28 → 10 | 10 |\n| paternal | 21 + 7 | 28 → 10 | 10 |\n| maternal | 5 + 14 | 19 | 19 |\n| purpose_social | 10 + 19 | 29 → 11 | 11 |\n| purpose_spiritual | 10 + 11 | 21 | 21 |\n",
+          "nodeIds": [
+            "day",
+            "month",
+            "year",
+            "bottom",
+            "core",
+            "nw",
+            "ne",
+            "se",
+            "sw",
+            "family_center",
+            "day_inner",
+            "day_mid",
+            "month_inner",
+            "month_mid",
+            "year_inner",
+            "year_mid",
+            "bottom_inner",
+            "bottom_mid",
+            "nw_inner",
+            "nw_mid",
+            "ne_inner",
+            "ne_mid",
+            "se_inner",
+            "se_mid",
+            "sw_inner",
+            "sw_mid",
+            "heart_earth",
+            "heart_sky",
+            "bridge",
+            "money_center",
+            "love_center",
+            "earth",
+            "sky",
+            "purpose_personal",
+            "paternal",
+            "maternal",
+            "purpose_social",
+            "purpose_spiritual"
+          ],
+          "formulaIds": [
+            "day",
+            "month",
+            "year",
+            "bottom",
+            "core",
+            "nw",
+            "ne",
+            "se",
+            "sw",
+            "family_center",
+            "day_inner",
+            "day_mid",
+            "month_inner",
+            "month_mid",
+            "year_inner",
+            "year_mid",
+            "bottom_inner",
+            "bottom_mid",
+            "nw_inner",
+            "nw_mid",
+            "ne_inner",
+            "ne_mid",
+            "se_inner",
+            "se_mid",
+            "sw_inner",
+            "sw_mid",
+            "heart_earth",
+            "heart_sky",
+            "bridge",
+            "money_center",
+            "love_center",
+            "earth",
+            "sky",
+            "purpose_personal",
+            "paternal",
+            "maternal",
+            "purpose_social",
+            "purpose_spiritual"
+          ],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  14
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  10
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  127,
+                  128
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  114
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  79,
+                  80,
+                  81,
+                  82,
+                  83
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  11,
+                  12
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  131
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  117
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  93,
+                  94,
+                  95,
+                  96,
+                  97
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  15
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  12,
+                  13
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  140
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  130,
+                  131
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  126,
+                  127,
+                  128,
+                  129
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  16
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  13,
+                  14
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  122,
+                  123
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  109
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  60,
+                  61,
+                  62,
+                  63,
+                  64
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  17
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  14,
+                  15
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  129
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  115
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  84,
+                  85,
+                  86,
+                  87
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  18
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  17,
+                  18
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  141
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  132
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  130,
+                  131,
+                  132,
+                  133
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  125
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  112
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  69,
+                  70,
+                  71,
+                  72,
+                  73
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  133
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  119,
+                  120
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  102,
+                  103,
+                  104
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  20,
+                  21
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  130
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  116
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  88,
+                  89,
+                  90,
+                  91,
+                  92
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  25
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  20
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  31,
+                  32
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  139
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  128,
+                  129
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  122,
+                  123,
+                  124,
+                  125
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  23
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  13,
+                  14,
+                  15
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  28,
+                  29
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  142,
+                  143
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  133,
+                  134,
+                  135
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  134,
+                  135,
+                  136,
+                  137,
+                  138
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  24
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  17,
+                  18,
+                  19
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  29,
+                  30
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  119,
+                  120
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  107
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  51,
+                  52,
+                  53,
+                  54
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  22
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  9,
+                  10
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  21,
+                  22
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  134,
+                  135
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  121
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  105,
+                  106,
+                  107,
+                  108
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  33
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  126
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  113
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  74,
+                  75,
+                  76,
+                  77,
+                  78
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  33,
+                  34
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  136
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  122
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  109,
+                  110,
+                  111,
+                  112,
+                  113
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  34,
+                  35
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  33,
+                  34,
+                  35,
+                  36
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  138
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  125,
+                  126,
+                  127
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  118,
+                  119,
+                  120,
+                  121
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  36
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  33,
+                  34,
+                  35,
+                  36,
+                  37
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  37
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  38,
+                  39
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  17
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  39
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  17,
+                  18
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  40
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  41
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  124
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  110,
+                  111
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  65,
+                  66,
+                  67,
+                  68
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  21
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  23,
+                  24
+                ]
+              },
+              {
+                "sourceId": "A",
+                "pdfPages": [
+                  137
+                ]
+              },
+              {
+                "sourceId": "B",
+                "pdfPages": [
+                  123,
+                  124
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  114,
+                  115,
+                  116,
+                  117
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  24
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  25
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  25,
+                  26
+                ]
+              },
+              {
+                "sourceId": "C",
+                "pdfPages": [
+                  27
+                ]
+              }
+            ],
+            "editorialNote": "Original role-based report composition."
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "The source calculation profile is C-family-center-v1. A/B use a different center for ancestral inner points. Generic program headings are not activated because a universal detector remains unresolved. Source citations identify conceptual origin, not scientific validity. Detailed evidence, page coverage and editorial provenance accompany the methodology package.",
+          "nodeIds": [],
+          "formulaIds": [],
+          "ruleIds": [],
+          "provenance": {
+            "classification": "editorial_synthesis",
+            "sourceRefs": [],
+            "editorialNote": "Original role-based report composition."
+          }
+        }
+      ]
+    }
+  ]
+}

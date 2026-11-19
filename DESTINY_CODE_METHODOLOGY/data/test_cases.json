@@ -1,0 +1,8339 @@
+[
+  {
+    "date": "2000-01-01",
+    "calculationProfile": "C-family-center-v1",
+    "methodologyVersion": "dc-symbolic-1.0.0-proposed",
+    "values": {
+      "day": 1,
+      "month": 1,
+      "year": 2,
+      "bottom": 4,
+      "core": 8,
+      "nw": 2,
+      "ne": 3,
+      "se": 6,
+      "sw": 5,
+      "family_center": 16,
+      "day_inner": 9,
+      "day_mid": 10,
+      "month_inner": 9,
+      "month_mid": 10,
+      "year_inner": 10,
+      "year_mid": 12,
+      "bottom_inner": 12,
+      "bottom_mid": 16,
+      "nw_inner": 18,
+      "nw_mid": 20,
+      "ne_inner": 19,
+      "ne_mid": 22,
+      "se_inner": 22,
+      "se_mid": 10,
+      "sw_inner": 21,
+      "sw_mid": 8,
+      "heart_earth": 17,
+      "heart_sky": 17,
+      "bridge": 22,
+      "money_center": 5,
+      "love_center": 7,
+      "earth": 3,
+      "sky": 5,
+      "purpose_personal": 8,
+      "paternal": 8,
+      "maternal": 8,
+      "purpose_social": 16,
+      "purpose_spiritual": 6
+    },
+    "trace": [
+      {
+        "formulaId": "day",
+        "inputs": [
+          "dayOfMonth"
+        ],
+        "operands": [
+          1
+        ],
+        "rawValue": 1,
+        "reductionSteps": [
+          1
+        ],
+        "result": 1
+      },
+      {
+        "formulaId": "month",
+        "inputs": [
+          "monthOfYear"
+        ],
+        "operands": [
+          1
+        ],
+        "rawValue": 1,
+        "reductionSteps": [
+          1
+        ],
+        "result": 1
+      },
+      {
+        "formulaId": "year",
+        "inputs": [
+          "yearNumber"
+        ],
+        "operands": [
+          2000
+        ],
+        "rawValue": 2,
+        "reductionSteps": [
+          2
+        ],
+        "result": 2
+      },
+      {
+        "formulaId": "bottom",
+        "inputs": [
+          "day",
+          "month",
+          "year"
+        ],
+        "operands": [
+          1,
+          1,
+          2
+        ],
+        "rawValue": 4,
+        "reductionSteps": [
+          4
+        ],
+        "result": 4
+      },
+      {
+        "formulaId": "core",
+        "inputs": [
+          "day",
+          "month",
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          1,
+          1,
+          2,
+          4
+        ],
+        "rawValue": 8,
+        "reductionSteps": [
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "nw",
+        "inputs": [
+          "day",
+          "month"
+        ],
+        "operands": [
+          1,
+          1
+        ],
+        "rawValue": 2,
+        "reductionSteps": [
+          2
+        ],
+        "result": 2
+      },
+      {
+        "formulaId": "ne",
+        "inputs": [
+          "month",
+          "year"
+        ],
+        "operands": [
+          1,
+          2
+        ],
+        "rawValue": 3,
+        "reductionSteps": [
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "se",
+        "inputs": [
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          2,
+          4
+        ],
+        "rawValue": 6,
+        "reductionSteps": [
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "sw",
+        "inputs": [
+          "bottom",
+          "day"
+        ],
+        "operands": [
+          4,
+          1
+        ],
+        "rawValue": 5,
+        "reductionSteps": [
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "family_center",
+        "inputs": [
+          "nw",
+          "ne",
+          "se",
+          "sw"
+        ],
+        "operands": [
+          2,
+          3,
+          6,
+          5
+        ],
+        "rawValue": 16,
+        "reductionSteps": [
+          16
+        ],
+        "result": 16
+      },
+      {
+        "formulaId": "day_inner",
+        "inputs": [
+          "day",
+          "core"
+        ],
+        "operands": [
+          1,
+          8
+        ],
+        "rawValue": 9,
+        "reductionSteps": [
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "day_mid",
+        "inputs": [
+          "day",
+          "day_inner"
+        ],
+        "operands": [
+          1,
+          9
+        ],
+        "rawValue": 10,
+        "reductionSteps": [
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "month_inner",
+        "inputs": [
+          "month",
+          "core"
+        ],
+        "operands": [
+          1,
+          8
+        ],
+        "rawValue": 9,
+        "reductionSteps": [
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "month_mid",
+        "inputs": [
+          "month",
+          "month_inner"
+        ],
+        "operands": [
+          1,
+          9
+        ],
+        "rawValue": 10,
+        "reductionSteps": [
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "year_inner",
+        "inputs": [
+          "year",
+          "core"
+        ],
+        "operands": [
+          2,
+          8
+        ],
+        "rawValue": 10,
+        "reductionSteps": [
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "year_mid",
+        "inputs": [
+          "year",
+          "year_inner"
+        ],
+        "operands": [
+          2,
+          10
+        ],
+        "rawValue": 12,
+        "reductionSteps": [
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "bottom_inner",
+        "inputs": [
+          "bottom",
+          "core"
+        ],
+        "operands": [
+          4,
+          8
+        ],
+        "rawValue": 12,
+        "reductionSteps": [
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "bottom_mid",
+        "inputs": [
+          "bottom",
+          "bottom_inner"
+        ],
+        "operands": [
+          4,
+          12
+        ],
+        "rawValue": 16,
+        "reductionSteps": [
+          16
+        ],
+        "result": 16
+      },
+      {
+        "formulaId": "nw_inner",
+        "inputs": [
+          "nw",
+          "family_center"
+        ],
+        "operands": [
+          2,
+          16
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "nw_mid",
+        "inputs": [
+          "nw",
+          "nw_inner"
+        ],
+        "operands": [
+          2,
+          18
+        ],
+        "rawValue": 20,
+        "reductionSteps": [
+          20
+        ],
+        "result": 20
+      },
+      {
+        "formulaId": "ne_inner",
+        "inputs": [
+          "ne",
+          "family_center"
+        ],
+        "operands": [
+          3,
+          16
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "ne_mid",
+        "inputs": [
+          "ne",
+          "ne_inner"
+        ],
+        "operands": [
+          3,
+          19
+        ],
+        "rawValue": 22,
+        "reductionSteps": [
+          22
+        ],
+        "result": 22
+      },
+      {
+        "formulaId": "se_inner",
+        "inputs": [
+          "se",
+          "family_center"
+        ],
+        "operands": [
+          6,
+          16
+        ],
+        "rawValue": 22,
+        "reductionSteps": [
+          22
+        ],
+        "result": 22
+      },
+      {
+        "formulaId": "se_mid",
+        "inputs": [
+          "se",
+          "se_inner"
+        ],
+        "operands": [
+          6,
+          22
+        ],
+        "rawValue": 28,
+        "reductionSteps": [
+          28,
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "sw_inner",
+        "inputs": [
+          "sw",
+          "family_center"
+        ],
+        "operands": [
+          5,
+          16
+        ],
+        "rawValue": 21,
+        "reductionSteps": [
+          21
+        ],
+        "result": 21
+      },
+      {
+        "formulaId": "sw_mid",
+        "inputs": [
+          "sw",
+          "sw_inner"
+        ],
+        "operands": [
+          5,
+          21
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "heart_earth",
+        "inputs": [
+          "core",
+          "day_inner"
+        ],
+        "operands": [
+          8,
+          9
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "heart_sky",
+        "inputs": [
+          "core",
+          "month_inner"
+        ],
+        "operands": [
+          8,
+          9
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "bridge",
+        "inputs": [
+          "year_inner",
+          "bottom_inner"
+        ],
+        "operands": [
+          10,
+          12
+        ],
+        "rawValue": 22,
+        "reductionSteps": [
+          22
+        ],
+        "result": 22
+      },
+      {
+        "formulaId": "money_center",
+        "inputs": [
+          "year_inner",
+          "bridge"
+        ],
+        "operands": [
+          10,
+          22
+        ],
+        "rawValue": 32,
+        "reductionSteps": [
+          32,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "love_center",
+        "inputs": [
+          "bottom_inner",
+          "bridge"
+        ],
+        "operands": [
+          12,
+          22
+        ],
+        "rawValue": 34,
+        "reductionSteps": [
+          34,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "earth",
+        "inputs": [
+          "day",
+          "year"
+        ],
+        "operands": [
+          1,
+          2
+        ],
+        "rawValue": 3,
+        "reductionSteps": [
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "sky",
+        "inputs": [
+          "month",
+          "bottom"
+        ],
+        "operands": [
+          1,
+          4
+        ],
+        "rawValue": 5,
+        "reductionSteps": [
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "purpose_personal",
+        "inputs": [
+          "earth",
+          "sky"
+        ],
+        "operands": [
+          3,
+          5
+        ],
+        "rawValue": 8,
+        "reductionSteps": [
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "paternal",
+        "inputs": [
+          "nw",
+          "se"
+        ],
+        "operands": [
+          2,
+          6
+        ],
+        "rawValue": 8,
+        "reductionSteps": [
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "maternal",
+        "inputs": [
+          "ne",
+          "sw"
+        ],
+        "operands": [
+          3,
+          5
+        ],
+        "rawValue": 8,
+        "reductionSteps": [
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "purpose_social",
+        "inputs": [
+          "paternal",
+          "maternal"
+        ],
+        "operands": [
+          8,
+          8
+        ],
+        "rawValue": 16,
+        "reductionSteps": [
+          16
+        ],
+        "result": 16
+      },
+      {
+        "formulaId": "purpose_spiritual",
+        "inputs": [
+          "purpose_personal",
+          "purpose_social"
+        ],
+        "operands": [
+          8,
+          16
+        ],
+        "rawValue": 24,
+        "reductionSteps": [
+          24,
+          6
+        ],
+        "result": 6
+      }
+    ],
+    "id": "DOB-2000-01-01",
+    "expectedABAncestry": {
+      "nw_inner": 10,
+      "nw_mid": 12,
+      "ne_inner": 11,
+      "ne_mid": 14,
+      "se_inner": 14,
+      "se_mid": 20,
+      "sw_inner": 13,
+      "sw_mid": 18
+    },
+    "primaryRepeats": {
+      "1": [
+        "day",
+        "month"
+      ],
+      "2": [
+        "year",
+        "nw"
+      ]
+    },
+    "fixtureOrigin": "Derived from stated formulas in an independent Python implementation. Cross-check with Node reference is recorded in validation_results.json. A/C source examples additionally have manual book assertions."
+  },
+  {
+    "date": "2000-12-22",
+    "calculationProfile": "C-family-center-v1",
+    "methodologyVersion": "dc-symbolic-1.0.0-proposed",
+    "values": {
+      "day": 22,
+      "month": 12,
+      "year": 2,
+      "bottom": 9,
+      "core": 9,
+      "nw": 7,
+      "ne": 14,
+      "se": 11,
+      "sw": 4,
+      "family_center": 9,
+      "day_inner": 4,
+      "day_mid": 8,
+      "month_inner": 21,
+      "month_mid": 6,
+      "year_inner": 11,
+      "year_mid": 13,
+      "bottom_inner": 18,
+      "bottom_mid": 9,
+      "nw_inner": 16,
+      "nw_mid": 5,
+      "ne_inner": 5,
+      "ne_mid": 19,
+      "se_inner": 20,
+      "se_mid": 4,
+      "sw_inner": 13,
+      "sw_mid": 17,
+      "heart_earth": 13,
+      "heart_sky": 3,
+      "bridge": 11,
+      "money_center": 22,
+      "love_center": 11,
+      "earth": 6,
+      "sky": 21,
+      "purpose_personal": 9,
+      "paternal": 18,
+      "maternal": 18,
+      "purpose_social": 9,
+      "purpose_spiritual": 18
+    },
+    "trace": [
+      {
+        "formulaId": "day",
+        "inputs": [
+          "dayOfMonth"
+        ],
+        "operands": [
+          22
+        ],
+        "rawValue": 22,
+        "reductionSteps": [
+          22
+        ],
+        "result": 22
+      },
+      {
+        "formulaId": "month",
+        "inputs": [
+          "monthOfYear"
+        ],
+        "operands": [
+          12
+        ],
+        "rawValue": 12,
+        "reductionSteps": [
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "year",
+        "inputs": [
+          "yearNumber"
+        ],
+        "operands": [
+          2000
+        ],
+        "rawValue": 2,
+        "reductionSteps": [
+          2
+        ],
+        "result": 2
+      },
+      {
+        "formulaId": "bottom",
+        "inputs": [
+          "day",
+          "month",
+          "year"
+        ],
+        "operands": [
+          22,
+          12,
+          2
+        ],
+        "rawValue": 36,
+        "reductionSteps": [
+          36,
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "core",
+        "inputs": [
+          "day",
+          "month",
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          22,
+          12,
+          2,
+          9
+        ],
+        "rawValue": 45,
+        "reductionSteps": [
+          45,
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "nw",
+        "inputs": [
+          "day",
+          "month"
+        ],
+        "operands": [
+          22,
+          12
+        ],
+        "rawValue": 34,
+        "reductionSteps": [
+          34,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "ne",
+        "inputs": [
+          "month",
+          "year"
+        ],
+        "operands": [
+          12,
+          2
+        ],
+        "rawValue": 14,
+        "reductionSteps": [
+          14
+        ],
+        "result": 14
+      },
+      {
+        "formulaId": "se",
+        "inputs": [
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          2,
+          9
+        ],
+        "rawValue": 11,
+        "reductionSteps": [
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "sw",
+        "inputs": [
+          "bottom",
+          "day"
+        ],
+        "operands": [
+          9,
+          22
+        ],
+        "rawValue": 31,
+        "reductionSteps": [
+          31,
+          4
+        ],
+        "result": 4
+      },
+      {
+        "formulaId": "family_center",
+        "inputs": [
+          "nw",
+          "ne",
+          "se",
+          "sw"
+        ],
+        "operands": [
+          7,
+          14,
+          11,
+          4
+        ],
+        "rawValue": 36,
+        "reductionSteps": [
+          36,
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "day_inner",
+        "inputs": [
+          "day",
+          "core"
+        ],
+        "operands": [
+          22,
+          9
+        ],
+        "rawValue": 31,
+        "reductionSteps": [
+          31,
+          4
+        ],
+        "result": 4
+      },
+      {
+        "formulaId": "day_mid",
+        "inputs": [
+          "day",
+          "day_inner"
+        ],
+        "operands": [
+          22,
+          4
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "month_inner",
+        "inputs": [
+          "month",
+          "core"
+        ],
+        "operands": [
+          12,
+          9
+        ],
+        "rawValue": 21,
+        "reductionSteps": [
+          21
+        ],
+        "result": 21
+      },
+      {
+        "formulaId": "month_mid",
+        "inputs": [
+          "month",
+          "month_inner"
+        ],
+        "operands": [
+          12,
+          21
+        ],
+        "rawValue": 33,
+        "reductionSteps": [
+          33,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "year_inner",
+        "inputs": [
+          "year",
+          "core"
+        ],
+        "operands": [
+          2,
+          9
+        ],
+        "rawValue": 11,
+        "reductionSteps": [
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "year_mid",
+        "inputs": [
+          "year",
+          "year_inner"
+        ],
+        "operands": [
+          2,
+          11
+        ],
+        "rawValue": 13,
+        "reductionSteps": [
+          13
+        ],
+        "result": 13
+      },
+      {
+        "formulaId": "bottom_inner",
+        "inputs": [
+          "bottom",
+          "core"
+        ],
+        "operands": [
+          9,
+          9
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "bottom_mid",
+        "inputs": [
+          "bottom",
+          "bottom_inner"
+        ],
+        "operands": [
+          9,
+          18
+        ],
+        "rawValue": 27,
+        "reductionSteps": [
+          27,
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "nw_inner",
+        "inputs": [
+          "nw",
+          "family_center"
+        ],
+        "operands": [
+          7,
+          9
+        ],
+        "rawValue": 16,
+        "reductionSteps": [
+          16
+        ],
+        "result": 16
+      },
+      {
+        "formulaId": "nw_mid",
+        "inputs": [
+          "nw",
+          "nw_inner"
+        ],
+        "operands": [
+          7,
+          16
+        ],
+        "rawValue": 23,
+        "reductionSteps": [
+          23,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "ne_inner",
+        "inputs": [
+          "ne",
+          "family_center"
+        ],
+        "operands": [
+          14,
+          9
+        ],
+        "rawValue": 23,
+        "reductionSteps": [
+          23,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "ne_mid",
+        "inputs": [
+          "ne",
+          "ne_inner"
+        ],
+        "operands": [
+          14,
+          5
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "se_inner",
+        "inputs": [
+          "se",
+          "family_center"
+        ],
+        "operands": [
+          11,
+          9
+        ],
+        "rawValue": 20,
+        "reductionSteps": [
+          20
+        ],
+        "result": 20
+      },
+      {
+        "formulaId": "se_mid",
+        "inputs": [
+          "se",
+          "se_inner"
+        ],
+        "operands": [
+          11,
+          20
+        ],
+        "rawValue": 31,
+        "reductionSteps": [
+          31,
+          4
+        ],
+        "result": 4
+      },
+      {
+        "formulaId": "sw_inner",
+        "inputs": [
+          "sw",
+          "family_center"
+        ],
+        "operands": [
+          4,
+          9
+        ],
+        "rawValue": 13,
+        "reductionSteps": [
+          13
+        ],
+        "result": 13
+      },
+      {
+        "formulaId": "sw_mid",
+        "inputs": [
+          "sw",
+          "sw_inner"
+        ],
+        "operands": [
+          4,
+          13
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "heart_earth",
+        "inputs": [
+          "core",
+          "day_inner"
+        ],
+        "operands": [
+          9,
+          4
+        ],
+        "rawValue": 13,
+        "reductionSteps": [
+          13
+        ],
+        "result": 13
+      },
+      {
+        "formulaId": "heart_sky",
+        "inputs": [
+          "core",
+          "month_inner"
+        ],
+        "operands": [
+          9,
+          21
+        ],
+        "rawValue": 30,
+        "reductionSteps": [
+          30,
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "bridge",
+        "inputs": [
+          "year_inner",
+          "bottom_inner"
+        ],
+        "operands": [
+          11,
+          18
+        ],
+        "rawValue": 29,
+        "reductionSteps": [
+          29,
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "money_center",
+        "inputs": [
+          "year_inner",
+          "bridge"
+        ],
+        "operands": [
+          11,
+          11
+        ],
+        "rawValue": 22,
+        "reductionSteps": [
+          22
+        ],
+        "result": 22
+      },
+      {
+        "formulaId": "love_center",
+        "inputs": [
+          "bottom_inner",
+          "bridge"
+        ],
+        "operands": [
+          18,
+          11
+        ],
+        "rawValue": 29,
+        "reductionSteps": [
+          29,
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "earth",
+        "inputs": [
+          "day",
+          "year"
+        ],
+        "operands": [
+          22,
+          2
+        ],
+        "rawValue": 24,
+        "reductionSteps": [
+          24,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "sky",
+        "inputs": [
+          "month",
+          "bottom"
+        ],
+        "operands": [
+          12,
+          9
+        ],
+        "rawValue": 21,
+        "reductionSteps": [
+          21
+        ],
+        "result": 21
+      },
+      {
+        "formulaId": "purpose_personal",
+        "inputs": [
+          "earth",
+          "sky"
+        ],
+        "operands": [
+          6,
+          21
+        ],
+        "rawValue": 27,
+        "reductionSteps": [
+          27,
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "paternal",
+        "inputs": [
+          "nw",
+          "se"
+        ],
+        "operands": [
+          7,
+          11
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "maternal",
+        "inputs": [
+          "ne",
+          "sw"
+        ],
+        "operands": [
+          14,
+          4
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "purpose_social",
+        "inputs": [
+          "paternal",
+          "maternal"
+        ],
+        "operands": [
+          18,
+          18
+        ],
+        "rawValue": 36,
+        "reductionSteps": [
+          36,
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "purpose_spiritual",
+        "inputs": [
+          "purpose_personal",
+          "purpose_social"
+        ],
+        "operands": [
+          9,
+          9
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      }
+    ],
+    "id": "DOB-2000-12-22",
+    "expectedABAncestry": {
+      "nw_inner": 16,
+      "nw_mid": 5,
+      "ne_inner": 5,
+      "ne_mid": 19,
+      "se_inner": 20,
+      "se_mid": 4,
+      "sw_inner": 13,
+      "sw_mid": 17
+    },
+    "primaryRepeats": {
+      "9": [
+        "bottom",
+        "core"
+      ]
+    },
+    "fixtureOrigin": "Derived from stated formulas in an independent Python implementation. Cross-check with Node reference is recorded in validation_results.json. A/C source examples additionally have manual book assertions."
+  },
+  {
+    "date": "1987-01-23",
+    "calculationProfile": "C-family-center-v1",
+    "methodologyVersion": "dc-symbolic-1.0.0-proposed",
+    "values": {
+      "day": 5,
+      "month": 1,
+      "year": 7,
+      "bottom": 13,
+      "core": 8,
+      "nw": 6,
+      "ne": 8,
+      "se": 20,
+      "sw": 18,
+      "family_center": 7,
+      "day_inner": 13,
+      "day_mid": 18,
+      "month_inner": 9,
+      "month_mid": 10,
+      "year_inner": 15,
+      "year_mid": 22,
+      "bottom_inner": 21,
+      "bottom_mid": 7,
+      "nw_inner": 13,
+      "nw_mid": 19,
+      "ne_inner": 15,
+      "ne_mid": 5,
+      "se_inner": 9,
+      "se_mid": 11,
+      "sw_inner": 7,
+      "sw_mid": 7,
+      "heart_earth": 21,
+      "heart_sky": 17,
+      "bridge": 9,
+      "money_center": 6,
+      "love_center": 3,
+      "earth": 12,
+      "sky": 14,
+      "purpose_personal": 8,
+      "paternal": 8,
+      "maternal": 8,
+      "purpose_social": 16,
+      "purpose_spiritual": 6
+    },
+    "trace": [
+      {
+        "formulaId": "day",
+        "inputs": [
+          "dayOfMonth"
+        ],
+        "operands": [
+          23
+        ],
+        "rawValue": 23,
+        "reductionSteps": [
+          23,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "month",
+        "inputs": [
+          "monthOfYear"
+        ],
+        "operands": [
+          1
+        ],
+        "rawValue": 1,
+        "reductionSteps": [
+          1
+        ],
+        "result": 1
+      },
+      {
+        "formulaId": "year",
+        "inputs": [
+          "yearNumber"
+        ],
+        "operands": [
+          1987
+        ],
+        "rawValue": 25,
+        "reductionSteps": [
+          25,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "bottom",
+        "inputs": [
+          "day",
+          "month",
+          "year"
+        ],
+        "operands": [
+          5,
+          1,
+          7
+        ],
+        "rawValue": 13,
+        "reductionSteps": [
+          13
+        ],
+        "result": 13
+      },
+      {
+        "formulaId": "core",
+        "inputs": [
+          "day",
+          "month",
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          5,
+          1,
+          7,
+          13
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "nw",
+        "inputs": [
+          "day",
+          "month"
+        ],
+        "operands": [
+          5,
+          1
+        ],
+        "rawValue": 6,
+        "reductionSteps": [
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "ne",
+        "inputs": [
+          "month",
+          "year"
+        ],
+        "operands": [
+          1,
+          7
+        ],
+        "rawValue": 8,
+        "reductionSteps": [
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "se",
+        "inputs": [
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          7,
+          13
+        ],
+        "rawValue": 20,
+        "reductionSteps": [
+          20
+        ],
+        "result": 20
+      },
+      {
+        "formulaId": "sw",
+        "inputs": [
+          "bottom",
+          "day"
+        ],
+        "operands": [
+          13,
+          5
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "family_center",
+        "inputs": [
+          "nw",
+          "ne",
+          "se",
+          "sw"
+        ],
+        "operands": [
+          6,
+          8,
+          20,
+          18
+        ],
+        "rawValue": 52,
+        "reductionSteps": [
+          52,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "day_inner",
+        "inputs": [
+          "day",
+          "core"
+        ],
+        "operands": [
+          5,
+          8
+        ],
+        "rawValue": 13,
+        "reductionSteps": [
+          13
+        ],
+        "result": 13
+      },
+      {
+        "formulaId": "day_mid",
+        "inputs": [
+          "day",
+          "day_inner"
+        ],
+        "operands": [
+          5,
+          13
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "month_inner",
+        "inputs": [
+          "month",
+          "core"
+        ],
+        "operands": [
+          1,
+          8
+        ],
+        "rawValue": 9,
+        "reductionSteps": [
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "month_mid",
+        "inputs": [
+          "month",
+          "month_inner"
+        ],
+        "operands": [
+          1,
+          9
+        ],
+        "rawValue": 10,
+        "reductionSteps": [
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "year_inner",
+        "inputs": [
+          "year",
+          "core"
+        ],
+        "operands": [
+          7,
+          8
+        ],
+        "rawValue": 15,
+        "reductionSteps": [
+          15
+        ],
+        "result": 15
+      },
+      {
+        "formulaId": "year_mid",
+        "inputs": [
+          "year",
+          "year_inner"
+        ],
+        "operands": [
+          7,
+          15
+        ],
+        "rawValue": 22,
+        "reductionSteps": [
+          22
+        ],
+        "result": 22
+      },
+      {
+        "formulaId": "bottom_inner",
+        "inputs": [
+          "bottom",
+          "core"
+        ],
+        "operands": [
+          13,
+          8
+        ],
+        "rawValue": 21,
+        "reductionSteps": [
+          21
+        ],
+        "result": 21
+      },
+      {
+        "formulaId": "bottom_mid",
+        "inputs": [
+          "bottom",
+          "bottom_inner"
+        ],
+        "operands": [
+          13,
+          21
+        ],
+        "rawValue": 34,
+        "reductionSteps": [
+          34,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "nw_inner",
+        "inputs": [
+          "nw",
+          "family_center"
+        ],
+        "operands": [
+          6,
+          7
+        ],
+        "rawValue": 13,
+        "reductionSteps": [
+          13
+        ],
+        "result": 13
+      },
+      {
+        "formulaId": "nw_mid",
+        "inputs": [
+          "nw",
+          "nw_inner"
+        ],
+        "operands": [
+          6,
+          13
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "ne_inner",
+        "inputs": [
+          "ne",
+          "family_center"
+        ],
+        "operands": [
+          8,
+          7
+        ],
+        "rawValue": 15,
+        "reductionSteps": [
+          15
+        ],
+        "result": 15
+      },
+      {
+        "formulaId": "ne_mid",
+        "inputs": [
+          "ne",
+          "ne_inner"
+        ],
+        "operands": [
+          8,
+          15
+        ],
+        "rawValue": 23,
+        "reductionSteps": [
+          23,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "se_inner",
+        "inputs": [
+          "se",
+          "family_center"
+        ],
+        "operands": [
+          20,
+          7
+        ],
+        "rawValue": 27,
+        "reductionSteps": [
+          27,
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "se_mid",
+        "inputs": [
+          "se",
+          "se_inner"
+        ],
+        "operands": [
+          20,
+          9
+        ],
+        "rawValue": 29,
+        "reductionSteps": [
+          29,
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "sw_inner",
+        "inputs": [
+          "sw",
+          "family_center"
+        ],
+        "operands": [
+          18,
+          7
+        ],
+        "rawValue": 25,
+        "reductionSteps": [
+          25,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "sw_mid",
+        "inputs": [
+          "sw",
+          "sw_inner"
+        ],
+        "operands": [
+          18,
+          7
+        ],
+        "rawValue": 25,
+        "reductionSteps": [
+          25,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "heart_earth",
+        "inputs": [
+          "core",
+          "day_inner"
+        ],
+        "operands": [
+          8,
+          13
+        ],
+        "rawValue": 21,
+        "reductionSteps": [
+          21
+        ],
+        "result": 21
+      },
+      {
+        "formulaId": "heart_sky",
+        "inputs": [
+          "core",
+          "month_inner"
+        ],
+        "operands": [
+          8,
+          9
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "bridge",
+        "inputs": [
+          "year_inner",
+          "bottom_inner"
+        ],
+        "operands": [
+          15,
+          21
+        ],
+        "rawValue": 36,
+        "reductionSteps": [
+          36,
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "money_center",
+        "inputs": [
+          "year_inner",
+          "bridge"
+        ],
+        "operands": [
+          15,
+          9
+        ],
+        "rawValue": 24,
+        "reductionSteps": [
+          24,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "love_center",
+        "inputs": [
+          "bottom_inner",
+          "bridge"
+        ],
+        "operands": [
+          21,
+          9
+        ],
+        "rawValue": 30,
+        "reductionSteps": [
+          30,
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "earth",
+        "inputs": [
+          "day",
+          "year"
+        ],
+        "operands": [
+          5,
+          7
+        ],
+        "rawValue": 12,
+        "reductionSteps": [
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "sky",
+        "inputs": [
+          "month",
+          "bottom"
+        ],
+        "operands": [
+          1,
+          13
+        ],
+        "rawValue": 14,
+        "reductionSteps": [
+          14
+        ],
+        "result": 14
+      },
+      {
+        "formulaId": "purpose_personal",
+        "inputs": [
+          "earth",
+          "sky"
+        ],
+        "operands": [
+          12,
+          14
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "paternal",
+        "inputs": [
+          "nw",
+          "se"
+        ],
+        "operands": [
+          6,
+          20
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "maternal",
+        "inputs": [
+          "ne",
+          "sw"
+        ],
+        "operands": [
+          8,
+          18
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "purpose_social",
+        "inputs": [
+          "paternal",
+          "maternal"
+        ],
+        "operands": [
+          8,
+          8
+        ],
+        "rawValue": 16,
+        "reductionSteps": [
+          16
+        ],
+        "result": 16
+      },
+      {
+        "formulaId": "purpose_spiritual",
+        "inputs": [
+          "purpose_personal",
+          "purpose_social"
+        ],
+        "operands": [
+          8,
+          16
+        ],
+        "rawValue": 24,
+        "reductionSteps": [
+          24,
+          6
+        ],
+        "result": 6
+      }
+    ],
+    "id": "DOB-1987-01-23",
+    "expectedABAncestry": {
+      "nw_inner": 14,
+      "nw_mid": 20,
+      "ne_inner": 16,
+      "ne_mid": 6,
+      "se_inner": 10,
+      "se_mid": 3,
+      "sw_inner": 8,
+      "sw_mid": 8
+    },
+    "primaryRepeats": {
+      "8": [
+        "core",
+        "ne"
+      ]
+    },
+    "fixtureOrigin": "Derived from stated formulas in an independent Python implementation. Cross-check with Node reference is recorded in validation_results.json. A/C source examples additionally have manual book assertions."
+  },
+  {
+    "date": "1991-12-09",
+    "calculationProfile": "C-family-center-v1",
+    "methodologyVersion": "dc-symbolic-1.0.0-proposed",
+    "values": {
+      "day": 9,
+      "month": 12,
+      "year": 20,
+      "bottom": 5,
+      "core": 10,
+      "nw": 21,
+      "ne": 5,
+      "se": 7,
+      "sw": 14,
+      "family_center": 11,
+      "day_inner": 19,
+      "day_mid": 10,
+      "month_inner": 22,
+      "month_mid": 7,
+      "year_inner": 3,
+      "year_mid": 5,
+      "bottom_inner": 15,
+      "bottom_mid": 20,
+      "nw_inner": 5,
+      "nw_mid": 8,
+      "ne_inner": 16,
+      "ne_mid": 21,
+      "se_inner": 18,
+      "se_mid": 7,
+      "sw_inner": 7,
+      "sw_mid": 21,
+      "heart_earth": 11,
+      "heart_sky": 5,
+      "bridge": 18,
+      "money_center": 21,
+      "love_center": 6,
+      "earth": 11,
+      "sky": 17,
+      "purpose_personal": 10,
+      "paternal": 10,
+      "maternal": 19,
+      "purpose_social": 11,
+      "purpose_spiritual": 21
+    },
+    "trace": [
+      {
+        "formulaId": "day",
+        "inputs": [
+          "dayOfMonth"
+        ],
+        "operands": [
+          9
+        ],
+        "rawValue": 9,
+        "reductionSteps": [
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "month",
+        "inputs": [
+          "monthOfYear"
+        ],
+        "operands": [
+          12
+        ],
+        "rawValue": 12,
+        "reductionSteps": [
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "year",
+        "inputs": [
+          "yearNumber"
+        ],
+        "operands": [
+          1991
+        ],
+        "rawValue": 20,
+        "reductionSteps": [
+          20
+        ],
+        "result": 20
+      },
+      {
+        "formulaId": "bottom",
+        "inputs": [
+          "day",
+          "month",
+          "year"
+        ],
+        "operands": [
+          9,
+          12,
+          20
+        ],
+        "rawValue": 41,
+        "reductionSteps": [
+          41,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "core",
+        "inputs": [
+          "day",
+          "month",
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          9,
+          12,
+          20,
+          5
+        ],
+        "rawValue": 46,
+        "reductionSteps": [
+          46,
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "nw",
+        "inputs": [
+          "day",
+          "month"
+        ],
+        "operands": [
+          9,
+          12
+        ],
+        "rawValue": 21,
+        "reductionSteps": [
+          21
+        ],
+        "result": 21
+      },
+      {
+        "formulaId": "ne",
+        "inputs": [
+          "month",
+          "year"
+        ],
+        "operands": [
+          12,
+          20
+        ],
+        "rawValue": 32,
+        "reductionSteps": [
+          32,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "se",
+        "inputs": [
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          20,
+          5
+        ],
+        "rawValue": 25,
+        "reductionSteps": [
+          25,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "sw",
+        "inputs": [
+          "bottom",
+          "day"
+        ],
+        "operands": [
+          5,
+          9
+        ],
+        "rawValue": 14,
+        "reductionSteps": [
+          14
+        ],
+        "result": 14
+      },
+      {
+        "formulaId": "family_center",
+        "inputs": [
+          "nw",
+          "ne",
+          "se",
+          "sw"
+        ],
+        "operands": [
+          21,
+          5,
+          7,
+          14
+        ],
+        "rawValue": 47,
+        "reductionSteps": [
+          47,
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "day_inner",
+        "inputs": [
+          "day",
+          "core"
+        ],
+        "operands": [
+          9,
+          10
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "day_mid",
+        "inputs": [
+          "day",
+          "day_inner"
+        ],
+        "operands": [
+          9,
+          19
+        ],
+        "rawValue": 28,
+        "reductionSteps": [
+          28,
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "month_inner",
+        "inputs": [
+          "month",
+          "core"
+        ],
+        "operands": [
+          12,
+          10
+        ],
+        "rawValue": 22,
+        "reductionSteps": [
+          22
+        ],
+        "result": 22
+      },
+      {
+        "formulaId": "month_mid",
+        "inputs": [
+          "month",
+          "month_inner"
+        ],
+        "operands": [
+          12,
+          22
+        ],
+        "rawValue": 34,
+        "reductionSteps": [
+          34,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "year_inner",
+        "inputs": [
+          "year",
+          "core"
+        ],
+        "operands": [
+          20,
+          10
+        ],
+        "rawValue": 30,
+        "reductionSteps": [
+          30,
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "year_mid",
+        "inputs": [
+          "year",
+          "year_inner"
+        ],
+        "operands": [
+          20,
+          3
+        ],
+        "rawValue": 23,
+        "reductionSteps": [
+          23,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "bottom_inner",
+        "inputs": [
+          "bottom",
+          "core"
+        ],
+        "operands": [
+          5,
+          10
+        ],
+        "rawValue": 15,
+        "reductionSteps": [
+          15
+        ],
+        "result": 15
+      },
+      {
+        "formulaId": "bottom_mid",
+        "inputs": [
+          "bottom",
+          "bottom_inner"
+        ],
+        "operands": [
+          5,
+          15
+        ],
+        "rawValue": 20,
+        "reductionSteps": [
+          20
+        ],
+        "result": 20
+      },
+      {
+        "formulaId": "nw_inner",
+        "inputs": [
+          "nw",
+          "family_center"
+        ],
+        "operands": [
+          21,
+          11
+        ],
+        "rawValue": 32,
+        "reductionSteps": [
+          32,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "nw_mid",
+        "inputs": [
+          "nw",
+          "nw_inner"
+        ],
+        "operands": [
+          21,
+          5
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "ne_inner",
+        "inputs": [
+          "ne",
+          "family_center"
+        ],
+        "operands": [
+          5,
+          11
+        ],
+        "rawValue": 16,
+        "reductionSteps": [
+          16
+        ],
+        "result": 16
+      },
+      {
+        "formulaId": "ne_mid",
+        "inputs": [
+          "ne",
+          "ne_inner"
+        ],
+        "operands": [
+          5,
+          16
+        ],
+        "rawValue": 21,
+        "reductionSteps": [
+          21
+        ],
+        "result": 21
+      },
+      {
+        "formulaId": "se_inner",
+        "inputs": [
+          "se",
+          "family_center"
+        ],
+        "operands": [
+          7,
+          11
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "se_mid",
+        "inputs": [
+          "se",
+          "se_inner"
+        ],
+        "operands": [
+          7,
+          18
+        ],
+        "rawValue": 25,
+        "reductionSteps": [
+          25,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "sw_inner",
+        "inputs": [
+          "sw",
+          "family_center"
+        ],
+        "operands": [
+          14,
+          11
+        ],
+        "rawValue": 25,
+        "reductionSteps": [
+          25,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "sw_mid",
+        "inputs": [
+          "sw",
+          "sw_inner"
+        ],
+        "operands": [
+          14,
+          7
+        ],
+        "rawValue": 21,
+        "reductionSteps": [
+          21
+        ],
+        "result": 21
+      },
+      {
+        "formulaId": "heart_earth",
+        "inputs": [
+          "core",
+          "day_inner"
+        ],
+        "operands": [
+          10,
+          19
+        ],
+        "rawValue": 29,
+        "reductionSteps": [
+          29,
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "heart_sky",
+        "inputs": [
+          "core",
+          "month_inner"
+        ],
+        "operands": [
+          10,
+          22
+        ],
+        "rawValue": 32,
+        "reductionSteps": [
+          32,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "bridge",
+        "inputs": [
+          "year_inner",
+          "bottom_inner"
+        ],
+        "operands": [
+          3,
+          15
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "money_center",
+        "inputs": [
+          "year_inner",
+          "bridge"
+        ],
+        "operands": [
+          3,
+          18
+        ],
+        "rawValue": 21,
+        "reductionSteps": [
+          21
+        ],
+        "result": 21
+      },
+      {
+        "formulaId": "love_center",
+        "inputs": [
+          "bottom_inner",
+          "bridge"
+        ],
+        "operands": [
+          15,
+          18
+        ],
+        "rawValue": 33,
+        "reductionSteps": [
+          33,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "earth",
+        "inputs": [
+          "day",
+          "year"
+        ],
+        "operands": [
+          9,
+          20
+        ],
+        "rawValue": 29,
+        "reductionSteps": [
+          29,
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "sky",
+        "inputs": [
+          "month",
+          "bottom"
+        ],
+        "operands": [
+          12,
+          5
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "purpose_personal",
+        "inputs": [
+          "earth",
+          "sky"
+        ],
+        "operands": [
+          11,
+          17
+        ],
+        "rawValue": 28,
+        "reductionSteps": [
+          28,
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "paternal",
+        "inputs": [
+          "nw",
+          "se"
+        ],
+        "operands": [
+          21,
+          7
+        ],
+        "rawValue": 28,
+        "reductionSteps": [
+          28,
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "maternal",
+        "inputs": [
+          "ne",
+          "sw"
+        ],
+        "operands": [
+          5,
+          14
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "purpose_social",
+        "inputs": [
+          "paternal",
+          "maternal"
+        ],
+        "operands": [
+          10,
+          19
+        ],
+        "rawValue": 29,
+        "reductionSteps": [
+          29,
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "purpose_spiritual",
+        "inputs": [
+          "purpose_personal",
+          "purpose_social"
+        ],
+        "operands": [
+          10,
+          11
+        ],
+        "rawValue": 21,
+        "reductionSteps": [
+          21
+        ],
+        "result": 21
+      }
+    ],
+    "id": "DOB-1991-12-09",
+    "expectedABAncestry": {
+      "nw_inner": 4,
+      "nw_mid": 7,
+      "ne_inner": 15,
+      "ne_mid": 20,
+      "se_inner": 17,
+      "se_mid": 6,
+      "sw_inner": 6,
+      "sw_mid": 20
+    },
+    "primaryRepeats": {
+      "5": [
+        "bottom",
+        "ne"
+      ]
+    },
+    "fixtureOrigin": "Derived from stated formulas in an independent Python implementation. Cross-check with Node reference is recorded in validation_results.json. A/C source examples additionally have manual book assertions."
+  },
+  {
+    "date": "2000-02-29",
+    "calculationProfile": "C-family-center-v1",
+    "methodologyVersion": "dc-symbolic-1.0.0-proposed",
+    "values": {
+      "day": 11,
+      "month": 2,
+      "year": 2,
+      "bottom": 15,
+      "core": 3,
+      "nw": 13,
+      "ne": 4,
+      "se": 17,
+      "sw": 8,
+      "family_center": 6,
+      "day_inner": 14,
+      "day_mid": 7,
+      "month_inner": 5,
+      "month_mid": 7,
+      "year_inner": 5,
+      "year_mid": 7,
+      "bottom_inner": 18,
+      "bottom_mid": 6,
+      "nw_inner": 19,
+      "nw_mid": 5,
+      "ne_inner": 10,
+      "ne_mid": 14,
+      "se_inner": 5,
+      "se_mid": 22,
+      "sw_inner": 14,
+      "sw_mid": 22,
+      "heart_earth": 17,
+      "heart_sky": 8,
+      "bridge": 5,
+      "money_center": 10,
+      "love_center": 5,
+      "earth": 13,
+      "sky": 17,
+      "purpose_personal": 3,
+      "paternal": 3,
+      "maternal": 12,
+      "purpose_social": 15,
+      "purpose_spiritual": 18
+    },
+    "trace": [
+      {
+        "formulaId": "day",
+        "inputs": [
+          "dayOfMonth"
+        ],
+        "operands": [
+          29
+        ],
+        "rawValue": 29,
+        "reductionSteps": [
+          29,
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "month",
+        "inputs": [
+          "monthOfYear"
+        ],
+        "operands": [
+          2
+        ],
+        "rawValue": 2,
+        "reductionSteps": [
+          2
+        ],
+        "result": 2
+      },
+      {
+        "formulaId": "year",
+        "inputs": [
+          "yearNumber"
+        ],
+        "operands": [
+          2000
+        ],
+        "rawValue": 2,
+        "reductionSteps": [
+          2
+        ],
+        "result": 2
+      },
+      {
+        "formulaId": "bottom",
+        "inputs": [
+          "day",
+          "month",
+          "year"
+        ],
+        "operands": [
+          11,
+          2,
+          2
+        ],
+        "rawValue": 15,
+        "reductionSteps": [
+          15
+        ],
+        "result": 15
+      },
+      {
+        "formulaId": "core",
+        "inputs": [
+          "day",
+          "month",
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          11,
+          2,
+          2,
+          15
+        ],
+        "rawValue": 30,
+        "reductionSteps": [
+          30,
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "nw",
+        "inputs": [
+          "day",
+          "month"
+        ],
+        "operands": [
+          11,
+          2
+        ],
+        "rawValue": 13,
+        "reductionSteps": [
+          13
+        ],
+        "result": 13
+      },
+      {
+        "formulaId": "ne",
+        "inputs": [
+          "month",
+          "year"
+        ],
+        "operands": [
+          2,
+          2
+        ],
+        "rawValue": 4,
+        "reductionSteps": [
+          4
+        ],
+        "result": 4
+      },
+      {
+        "formulaId": "se",
+        "inputs": [
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          2,
+          15
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "sw",
+        "inputs": [
+          "bottom",
+          "day"
+        ],
+        "operands": [
+          15,
+          11
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "family_center",
+        "inputs": [
+          "nw",
+          "ne",
+          "se",
+          "sw"
+        ],
+        "operands": [
+          13,
+          4,
+          17,
+          8
+        ],
+        "rawValue": 42,
+        "reductionSteps": [
+          42,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "day_inner",
+        "inputs": [
+          "day",
+          "core"
+        ],
+        "operands": [
+          11,
+          3
+        ],
+        "rawValue": 14,
+        "reductionSteps": [
+          14
+        ],
+        "result": 14
+      },
+      {
+        "formulaId": "day_mid",
+        "inputs": [
+          "day",
+          "day_inner"
+        ],
+        "operands": [
+          11,
+          14
+        ],
+        "rawValue": 25,
+        "reductionSteps": [
+          25,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "month_inner",
+        "inputs": [
+          "month",
+          "core"
+        ],
+        "operands": [
+          2,
+          3
+        ],
+        "rawValue": 5,
+        "reductionSteps": [
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "month_mid",
+        "inputs": [
+          "month",
+          "month_inner"
+        ],
+        "operands": [
+          2,
+          5
+        ],
+        "rawValue": 7,
+        "reductionSteps": [
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "year_inner",
+        "inputs": [
+          "year",
+          "core"
+        ],
+        "operands": [
+          2,
+          3
+        ],
+        "rawValue": 5,
+        "reductionSteps": [
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "year_mid",
+        "inputs": [
+          "year",
+          "year_inner"
+        ],
+        "operands": [
+          2,
+          5
+        ],
+        "rawValue": 7,
+        "reductionSteps": [
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "bottom_inner",
+        "inputs": [
+          "bottom",
+          "core"
+        ],
+        "operands": [
+          15,
+          3
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "bottom_mid",
+        "inputs": [
+          "bottom",
+          "bottom_inner"
+        ],
+        "operands": [
+          15,
+          18
+        ],
+        "rawValue": 33,
+        "reductionSteps": [
+          33,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "nw_inner",
+        "inputs": [
+          "nw",
+          "family_center"
+        ],
+        "operands": [
+          13,
+          6
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "nw_mid",
+        "inputs": [
+          "nw",
+          "nw_inner"
+        ],
+        "operands": [
+          13,
+          19
+        ],
+        "rawValue": 32,
+        "reductionSteps": [
+          32,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "ne_inner",
+        "inputs": [
+          "ne",
+          "family_center"
+        ],
+        "operands": [
+          4,
+          6
+        ],
+        "rawValue": 10,
+        "reductionSteps": [
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "ne_mid",
+        "inputs": [
+          "ne",
+          "ne_inner"
+        ],
+        "operands": [
+          4,
+          10
+        ],
+        "rawValue": 14,
+        "reductionSteps": [
+          14
+        ],
+        "result": 14
+      },
+      {
+        "formulaId": "se_inner",
+        "inputs": [
+          "se",
+          "family_center"
+        ],
+        "operands": [
+          17,
+          6
+        ],
+        "rawValue": 23,
+        "reductionSteps": [
+          23,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "se_mid",
+        "inputs": [
+          "se",
+          "se_inner"
+        ],
+        "operands": [
+          17,
+          5
+        ],
+        "rawValue": 22,
+        "reductionSteps": [
+          22
+        ],
+        "result": 22
+      },
+      {
+        "formulaId": "sw_inner",
+        "inputs": [
+          "sw",
+          "family_center"
+        ],
+        "operands": [
+          8,
+          6
+        ],
+        "rawValue": 14,
+        "reductionSteps": [
+          14
+        ],
+        "result": 14
+      },
+      {
+        "formulaId": "sw_mid",
+        "inputs": [
+          "sw",
+          "sw_inner"
+        ],
+        "operands": [
+          8,
+          14
+        ],
+        "rawValue": 22,
+        "reductionSteps": [
+          22
+        ],
+        "result": 22
+      },
+      {
+        "formulaId": "heart_earth",
+        "inputs": [
+          "core",
+          "day_inner"
+        ],
+        "operands": [
+          3,
+          14
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "heart_sky",
+        "inputs": [
+          "core",
+          "month_inner"
+        ],
+        "operands": [
+          3,
+          5
+        ],
+        "rawValue": 8,
+        "reductionSteps": [
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "bridge",
+        "inputs": [
+          "year_inner",
+          "bottom_inner"
+        ],
+        "operands": [
+          5,
+          18
+        ],
+        "rawValue": 23,
+        "reductionSteps": [
+          23,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "money_center",
+        "inputs": [
+          "year_inner",
+          "bridge"
+        ],
+        "operands": [
+          5,
+          5
+        ],
+        "rawValue": 10,
+        "reductionSteps": [
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "love_center",
+        "inputs": [
+          "bottom_inner",
+          "bridge"
+        ],
+        "operands": [
+          18,
+          5
+        ],
+        "rawValue": 23,
+        "reductionSteps": [
+          23,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "earth",
+        "inputs": [
+          "day",
+          "year"
+        ],
+        "operands": [
+          11,
+          2
+        ],
+        "rawValue": 13,
+        "reductionSteps": [
+          13
+        ],
+        "result": 13
+      },
+      {
+        "formulaId": "sky",
+        "inputs": [
+          "month",
+          "bottom"
+        ],
+        "operands": [
+          2,
+          15
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "purpose_personal",
+        "inputs": [
+          "earth",
+          "sky"
+        ],
+        "operands": [
+          13,
+          17
+        ],
+        "rawValue": 30,
+        "reductionSteps": [
+          30,
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "paternal",
+        "inputs": [
+          "nw",
+          "se"
+        ],
+        "operands": [
+          13,
+          17
+        ],
+        "rawValue": 30,
+        "reductionSteps": [
+          30,
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "maternal",
+        "inputs": [
+          "ne",
+          "sw"
+        ],
+        "operands": [
+          4,
+          8
+        ],
+        "rawValue": 12,
+        "reductionSteps": [
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "purpose_social",
+        "inputs": [
+          "paternal",
+          "maternal"
+        ],
+        "operands": [
+          3,
+          12
+        ],
+        "rawValue": 15,
+        "reductionSteps": [
+          15
+        ],
+        "result": 15
+      },
+      {
+        "formulaId": "purpose_spiritual",
+        "inputs": [
+          "purpose_personal",
+          "purpose_social"
+        ],
+        "operands": [
+          3,
+          15
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      }
+    ],
+    "id": "DOB-2000-02-29",
+    "expectedABAncestry": {
+      "nw_inner": 16,
+      "nw_mid": 11,
+      "ne_inner": 7,
+      "ne_mid": 11,
+      "se_inner": 20,
+      "se_mid": 10,
+      "sw_inner": 11,
+      "sw_mid": 19
+    },
+    "primaryRepeats": {
+      "2": [
+        "month",
+        "year"
+      ]
+    },
+    "fixtureOrigin": "Derived from stated formulas in an independent Python implementation. Cross-check with Node reference is recorded in validation_results.json. A/C source examples additionally have manual book assertions."
+  },
+  {
+    "date": "2004-02-29",
+    "calculationProfile": "C-family-center-v1",
+    "methodologyVersion": "dc-symbolic-1.0.0-proposed",
+    "values": {
+      "day": 11,
+      "month": 2,
+      "year": 6,
+      "bottom": 19,
+      "core": 11,
+      "nw": 13,
+      "ne": 8,
+      "se": 7,
+      "sw": 3,
+      "family_center": 4,
+      "day_inner": 22,
+      "day_mid": 6,
+      "month_inner": 13,
+      "month_mid": 15,
+      "year_inner": 17,
+      "year_mid": 5,
+      "bottom_inner": 3,
+      "bottom_mid": 22,
+      "nw_inner": 17,
+      "nw_mid": 3,
+      "ne_inner": 12,
+      "ne_mid": 20,
+      "se_inner": 11,
+      "se_mid": 18,
+      "sw_inner": 7,
+      "sw_mid": 10,
+      "heart_earth": 6,
+      "heart_sky": 6,
+      "bridge": 20,
+      "money_center": 10,
+      "love_center": 5,
+      "earth": 17,
+      "sky": 21,
+      "purpose_personal": 11,
+      "paternal": 20,
+      "maternal": 11,
+      "purpose_social": 4,
+      "purpose_spiritual": 15
+    },
+    "trace": [
+      {
+        "formulaId": "day",
+        "inputs": [
+          "dayOfMonth"
+        ],
+        "operands": [
+          29
+        ],
+        "rawValue": 29,
+        "reductionSteps": [
+          29,
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "month",
+        "inputs": [
+          "monthOfYear"
+        ],
+        "operands": [
+          2
+        ],
+        "rawValue": 2,
+        "reductionSteps": [
+          2
+        ],
+        "result": 2
+      },
+      {
+        "formulaId": "year",
+        "inputs": [
+          "yearNumber"
+        ],
+        "operands": [
+          2004
+        ],
+        "rawValue": 6,
+        "reductionSteps": [
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "bottom",
+        "inputs": [
+          "day",
+          "month",
+          "year"
+        ],
+        "operands": [
+          11,
+          2,
+          6
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "core",
+        "inputs": [
+          "day",
+          "month",
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          11,
+          2,
+          6,
+          19
+        ],
+        "rawValue": 38,
+        "reductionSteps": [
+          38,
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "nw",
+        "inputs": [
+          "day",
+          "month"
+        ],
+        "operands": [
+          11,
+          2
+        ],
+        "rawValue": 13,
+        "reductionSteps": [
+          13
+        ],
+        "result": 13
+      },
+      {
+        "formulaId": "ne",
+        "inputs": [
+          "month",
+          "year"
+        ],
+        "operands": [
+          2,
+          6
+        ],
+        "rawValue": 8,
+        "reductionSteps": [
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "se",
+        "inputs": [
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          6,
+          19
+        ],
+        "rawValue": 25,
+        "reductionSteps": [
+          25,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "sw",
+        "inputs": [
+          "bottom",
+          "day"
+        ],
+        "operands": [
+          19,
+          11
+        ],
+        "rawValue": 30,
+        "reductionSteps": [
+          30,
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "family_center",
+        "inputs": [
+          "nw",
+          "ne",
+          "se",
+          "sw"
+        ],
+        "operands": [
+          13,
+          8,
+          7,
+          3
+        ],
+        "rawValue": 31,
+        "reductionSteps": [
+          31,
+          4
+        ],
+        "result": 4
+      },
+      {
+        "formulaId": "day_inner",
+        "inputs": [
+          "day",
+          "core"
+        ],
+        "operands": [
+          11,
+          11
+        ],
+        "rawValue": 22,
+        "reductionSteps": [
+          22
+        ],
+        "result": 22
+      },
+      {
+        "formulaId": "day_mid",
+        "inputs": [
+          "day",
+          "day_inner"
+        ],
+        "operands": [
+          11,
+          22
+        ],
+        "rawValue": 33,
+        "reductionSteps": [
+          33,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "month_inner",
+        "inputs": [
+          "month",
+          "core"
+        ],
+        "operands": [
+          2,
+          11
+        ],
+        "rawValue": 13,
+        "reductionSteps": [
+          13
+        ],
+        "result": 13
+      },
+      {
+        "formulaId": "month_mid",
+        "inputs": [
+          "month",
+          "month_inner"
+        ],
+        "operands": [
+          2,
+          13
+        ],
+        "rawValue": 15,
+        "reductionSteps": [
+          15
+        ],
+        "result": 15
+      },
+      {
+        "formulaId": "year_inner",
+        "inputs": [
+          "year",
+          "core"
+        ],
+        "operands": [
+          6,
+          11
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "year_mid",
+        "inputs": [
+          "year",
+          "year_inner"
+        ],
+        "operands": [
+          6,
+          17
+        ],
+        "rawValue": 23,
+        "reductionSteps": [
+          23,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "bottom_inner",
+        "inputs": [
+          "bottom",
+          "core"
+        ],
+        "operands": [
+          19,
+          11
+        ],
+        "rawValue": 30,
+        "reductionSteps": [
+          30,
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "bottom_mid",
+        "inputs": [
+          "bottom",
+          "bottom_inner"
+        ],
+        "operands": [
+          19,
+          3
+        ],
+        "rawValue": 22,
+        "reductionSteps": [
+          22
+        ],
+        "result": 22
+      },
+      {
+        "formulaId": "nw_inner",
+        "inputs": [
+          "nw",
+          "family_center"
+        ],
+        "operands": [
+          13,
+          4
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "nw_mid",
+        "inputs": [
+          "nw",
+          "nw_inner"
+        ],
+        "operands": [
+          13,
+          17
+        ],
+        "rawValue": 30,
+        "reductionSteps": [
+          30,
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "ne_inner",
+        "inputs": [
+          "ne",
+          "family_center"
+        ],
+        "operands": [
+          8,
+          4
+        ],
+        "rawValue": 12,
+        "reductionSteps": [
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "ne_mid",
+        "inputs": [
+          "ne",
+          "ne_inner"
+        ],
+        "operands": [
+          8,
+          12
+        ],
+        "rawValue": 20,
+        "reductionSteps": [
+          20
+        ],
+        "result": 20
+      },
+      {
+        "formulaId": "se_inner",
+        "inputs": [
+          "se",
+          "family_center"
+        ],
+        "operands": [
+          7,
+          4
+        ],
+        "rawValue": 11,
+        "reductionSteps": [
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "se_mid",
+        "inputs": [
+          "se",
+          "se_inner"
+        ],
+        "operands": [
+          7,
+          11
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "sw_inner",
+        "inputs": [
+          "sw",
+          "family_center"
+        ],
+        "operands": [
+          3,
+          4
+        ],
+        "rawValue": 7,
+        "reductionSteps": [
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "sw_mid",
+        "inputs": [
+          "sw",
+          "sw_inner"
+        ],
+        "operands": [
+          3,
+          7
+        ],
+        "rawValue": 10,
+        "reductionSteps": [
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "heart_earth",
+        "inputs": [
+          "core",
+          "day_inner"
+        ],
+        "operands": [
+          11,
+          22
+        ],
+        "rawValue": 33,
+        "reductionSteps": [
+          33,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "heart_sky",
+        "inputs": [
+          "core",
+          "month_inner"
+        ],
+        "operands": [
+          11,
+          13
+        ],
+        "rawValue": 24,
+        "reductionSteps": [
+          24,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "bridge",
+        "inputs": [
+          "year_inner",
+          "bottom_inner"
+        ],
+        "operands": [
+          17,
+          3
+        ],
+        "rawValue": 20,
+        "reductionSteps": [
+          20
+        ],
+        "result": 20
+      },
+      {
+        "formulaId": "money_center",
+        "inputs": [
+          "year_inner",
+          "bridge"
+        ],
+        "operands": [
+          17,
+          20
+        ],
+        "rawValue": 37,
+        "reductionSteps": [
+          37,
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "love_center",
+        "inputs": [
+          "bottom_inner",
+          "bridge"
+        ],
+        "operands": [
+          3,
+          20
+        ],
+        "rawValue": 23,
+        "reductionSteps": [
+          23,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "earth",
+        "inputs": [
+          "day",
+          "year"
+        ],
+        "operands": [
+          11,
+          6
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "sky",
+        "inputs": [
+          "month",
+          "bottom"
+        ],
+        "operands": [
+          2,
+          19
+        ],
+        "rawValue": 21,
+        "reductionSteps": [
+          21
+        ],
+        "result": 21
+      },
+      {
+        "formulaId": "purpose_personal",
+        "inputs": [
+          "earth",
+          "sky"
+        ],
+        "operands": [
+          17,
+          21
+        ],
+        "rawValue": 38,
+        "reductionSteps": [
+          38,
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "paternal",
+        "inputs": [
+          "nw",
+          "se"
+        ],
+        "operands": [
+          13,
+          7
+        ],
+        "rawValue": 20,
+        "reductionSteps": [
+          20
+        ],
+        "result": 20
+      },
+      {
+        "formulaId": "maternal",
+        "inputs": [
+          "ne",
+          "sw"
+        ],
+        "operands": [
+          8,
+          3
+        ],
+        "rawValue": 11,
+        "reductionSteps": [
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "purpose_social",
+        "inputs": [
+          "paternal",
+          "maternal"
+        ],
+        "operands": [
+          20,
+          11
+        ],
+        "rawValue": 31,
+        "reductionSteps": [
+          31,
+          4
+        ],
+        "result": 4
+      },
+      {
+        "formulaId": "purpose_spiritual",
+        "inputs": [
+          "purpose_personal",
+          "purpose_social"
+        ],
+        "operands": [
+          11,
+          4
+        ],
+        "rawValue": 15,
+        "reductionSteps": [
+          15
+        ],
+        "result": 15
+      }
+    ],
+    "id": "DOB-2004-02-29",
+    "expectedABAncestry": {
+      "nw_inner": 6,
+      "nw_mid": 19,
+      "ne_inner": 19,
+      "ne_mid": 9,
+      "se_inner": 18,
+      "se_mid": 7,
+      "sw_inner": 14,
+      "sw_mid": 17
+    },
+    "primaryRepeats": {
+      "11": [
+        "day",
+        "core"
+      ]
+    },
+    "fixtureOrigin": "Derived from stated formulas in an independent Python implementation. Cross-check with Node reference is recorded in validation_results.json. A/C source examples additionally have manual book assertions."
+  },
+  {
+    "date": "1999-12-31",
+    "calculationProfile": "C-family-center-v1",
+    "methodologyVersion": "dc-symbolic-1.0.0-proposed",
+    "values": {
+      "day": 4,
+      "month": 12,
+      "year": 10,
+      "bottom": 8,
+      "core": 7,
+      "nw": 16,
+      "ne": 22,
+      "se": 18,
+      "sw": 12,
+      "family_center": 14,
+      "day_inner": 11,
+      "day_mid": 15,
+      "month_inner": 19,
+      "month_mid": 4,
+      "year_inner": 17,
+      "year_mid": 9,
+      "bottom_inner": 15,
+      "bottom_mid": 5,
+      "nw_inner": 3,
+      "nw_mid": 19,
+      "ne_inner": 9,
+      "ne_mid": 4,
+      "se_inner": 5,
+      "se_mid": 5,
+      "sw_inner": 8,
+      "sw_mid": 20,
+      "heart_earth": 18,
+      "heart_sky": 8,
+      "bridge": 5,
+      "money_center": 22,
+      "love_center": 20,
+      "earth": 14,
+      "sky": 20,
+      "purpose_personal": 7,
+      "paternal": 7,
+      "maternal": 7,
+      "purpose_social": 14,
+      "purpose_spiritual": 21
+    },
+    "trace": [
+      {
+        "formulaId": "day",
+        "inputs": [
+          "dayOfMonth"
+        ],
+        "operands": [
+          31
+        ],
+        "rawValue": 31,
+        "reductionSteps": [
+          31,
+          4
+        ],
+        "result": 4
+      },
+      {
+        "formulaId": "month",
+        "inputs": [
+          "monthOfYear"
+        ],
+        "operands": [
+          12
+        ],
+        "rawValue": 12,
+        "reductionSteps": [
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "year",
+        "inputs": [
+          "yearNumber"
+        ],
+        "operands": [
+          1999
+        ],
+        "rawValue": 28,
+        "reductionSteps": [
+          28,
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "bottom",
+        "inputs": [
+          "day",
+          "month",
+          "year"
+        ],
+        "operands": [
+          4,
+          12,
+          10
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "core",
+        "inputs": [
+          "day",
+          "month",
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          4,
+          12,
+          10,
+          8
+        ],
+        "rawValue": 34,
+        "reductionSteps": [
+          34,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "nw",
+        "inputs": [
+          "day",
+          "month"
+        ],
+        "operands": [
+          4,
+          12
+        ],
+        "rawValue": 16,
+        "reductionSteps": [
+          16
+        ],
+        "result": 16
+      },
+      {
+        "formulaId": "ne",
+        "inputs": [
+          "month",
+          "year"
+        ],
+        "operands": [
+          12,
+          10
+        ],
+        "rawValue": 22,
+        "reductionSteps": [
+          22
+        ],
+        "result": 22
+      },
+      {
+        "formulaId": "se",
+        "inputs": [
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          10,
+          8
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "sw",
+        "inputs": [
+          "bottom",
+          "day"
+        ],
+        "operands": [
+          8,
+          4
+        ],
+        "rawValue": 12,
+        "reductionSteps": [
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "family_center",
+        "inputs": [
+          "nw",
+          "ne",
+          "se",
+          "sw"
+        ],
+        "operands": [
+          16,
+          22,
+          18,
+          12
+        ],
+        "rawValue": 68,
+        "reductionSteps": [
+          68,
+          14
+        ],
+        "result": 14
+      },
+      {
+        "formulaId": "day_inner",
+        "inputs": [
+          "day",
+          "core"
+        ],
+        "operands": [
+          4,
+          7
+        ],
+        "rawValue": 11,
+        "reductionSteps": [
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "day_mid",
+        "inputs": [
+          "day",
+          "day_inner"
+        ],
+        "operands": [
+          4,
+          11
+        ],
+        "rawValue": 15,
+        "reductionSteps": [
+          15
+        ],
+        "result": 15
+      },
+      {
+        "formulaId": "month_inner",
+        "inputs": [
+          "month",
+          "core"
+        ],
+        "operands": [
+          12,
+          7
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "month_mid",
+        "inputs": [
+          "month",
+          "month_inner"
+        ],
+        "operands": [
+          12,
+          19
+        ],
+        "rawValue": 31,
+        "reductionSteps": [
+          31,
+          4
+        ],
+        "result": 4
+      },
+      {
+        "formulaId": "year_inner",
+        "inputs": [
+          "year",
+          "core"
+        ],
+        "operands": [
+          10,
+          7
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "year_mid",
+        "inputs": [
+          "year",
+          "year_inner"
+        ],
+        "operands": [
+          10,
+          17
+        ],
+        "rawValue": 27,
+        "reductionSteps": [
+          27,
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "bottom_inner",
+        "inputs": [
+          "bottom",
+          "core"
+        ],
+        "operands": [
+          8,
+          7
+        ],
+        "rawValue": 15,
+        "reductionSteps": [
+          15
+        ],
+        "result": 15
+      },
+      {
+        "formulaId": "bottom_mid",
+        "inputs": [
+          "bottom",
+          "bottom_inner"
+        ],
+        "operands": [
+          8,
+          15
+        ],
+        "rawValue": 23,
+        "reductionSteps": [
+          23,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "nw_inner",
+        "inputs": [
+          "nw",
+          "family_center"
+        ],
+        "operands": [
+          16,
+          14
+        ],
+        "rawValue": 30,
+        "reductionSteps": [
+          30,
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "nw_mid",
+        "inputs": [
+          "nw",
+          "nw_inner"
+        ],
+        "operands": [
+          16,
+          3
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "ne_inner",
+        "inputs": [
+          "ne",
+          "family_center"
+        ],
+        "operands": [
+          22,
+          14
+        ],
+        "rawValue": 36,
+        "reductionSteps": [
+          36,
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "ne_mid",
+        "inputs": [
+          "ne",
+          "ne_inner"
+        ],
+        "operands": [
+          22,
+          9
+        ],
+        "rawValue": 31,
+        "reductionSteps": [
+          31,
+          4
+        ],
+        "result": 4
+      },
+      {
+        "formulaId": "se_inner",
+        "inputs": [
+          "se",
+          "family_center"
+        ],
+        "operands": [
+          18,
+          14
+        ],
+        "rawValue": 32,
+        "reductionSteps": [
+          32,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "se_mid",
+        "inputs": [
+          "se",
+          "se_inner"
+        ],
+        "operands": [
+          18,
+          5
+        ],
+        "rawValue": 23,
+        "reductionSteps": [
+          23,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "sw_inner",
+        "inputs": [
+          "sw",
+          "family_center"
+        ],
+        "operands": [
+          12,
+          14
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "sw_mid",
+        "inputs": [
+          "sw",
+          "sw_inner"
+        ],
+        "operands": [
+          12,
+          8
+        ],
+        "rawValue": 20,
+        "reductionSteps": [
+          20
+        ],
+        "result": 20
+      },
+      {
+        "formulaId": "heart_earth",
+        "inputs": [
+          "core",
+          "day_inner"
+        ],
+        "operands": [
+          7,
+          11
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "heart_sky",
+        "inputs": [
+          "core",
+          "month_inner"
+        ],
+        "operands": [
+          7,
+          19
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "bridge",
+        "inputs": [
+          "year_inner",
+          "bottom_inner"
+        ],
+        "operands": [
+          17,
+          15
+        ],
+        "rawValue": 32,
+        "reductionSteps": [
+          32,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "money_center",
+        "inputs": [
+          "year_inner",
+          "bridge"
+        ],
+        "operands": [
+          17,
+          5
+        ],
+        "rawValue": 22,
+        "reductionSteps": [
+          22
+        ],
+        "result": 22
+      },
+      {
+        "formulaId": "love_center",
+        "inputs": [
+          "bottom_inner",
+          "bridge"
+        ],
+        "operands": [
+          15,
+          5
+        ],
+        "rawValue": 20,
+        "reductionSteps": [
+          20
+        ],
+        "result": 20
+      },
+      {
+        "formulaId": "earth",
+        "inputs": [
+          "day",
+          "year"
+        ],
+        "operands": [
+          4,
+          10
+        ],
+        "rawValue": 14,
+        "reductionSteps": [
+          14
+        ],
+        "result": 14
+      },
+      {
+        "formulaId": "sky",
+        "inputs": [
+          "month",
+          "bottom"
+        ],
+        "operands": [
+          12,
+          8
+        ],
+        "rawValue": 20,
+        "reductionSteps": [
+          20
+        ],
+        "result": 20
+      },
+      {
+        "formulaId": "purpose_personal",
+        "inputs": [
+          "earth",
+          "sky"
+        ],
+        "operands": [
+          14,
+          20
+        ],
+        "rawValue": 34,
+        "reductionSteps": [
+          34,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "paternal",
+        "inputs": [
+          "nw",
+          "se"
+        ],
+        "operands": [
+          16,
+          18
+        ],
+        "rawValue": 34,
+        "reductionSteps": [
+          34,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "maternal",
+        "inputs": [
+          "ne",
+          "sw"
+        ],
+        "operands": [
+          22,
+          12
+        ],
+        "rawValue": 34,
+        "reductionSteps": [
+          34,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "purpose_social",
+        "inputs": [
+          "paternal",
+          "maternal"
+        ],
+        "operands": [
+          7,
+          7
+        ],
+        "rawValue": 14,
+        "reductionSteps": [
+          14
+        ],
+        "result": 14
+      },
+      {
+        "formulaId": "purpose_spiritual",
+        "inputs": [
+          "purpose_personal",
+          "purpose_social"
+        ],
+        "operands": [
+          7,
+          14
+        ],
+        "rawValue": 21,
+        "reductionSteps": [
+          21
+        ],
+        "result": 21
+      }
+    ],
+    "id": "DOB-1999-12-31",
+    "expectedABAncestry": {
+      "nw_inner": 5,
+      "nw_mid": 21,
+      "ne_inner": 11,
+      "ne_mid": 6,
+      "se_inner": 7,
+      "se_mid": 7,
+      "sw_inner": 19,
+      "sw_mid": 4
+    },
+    "primaryRepeats": {
+      "12": [
+        "month",
+        "sw"
+      ]
+    },
+    "fixtureOrigin": "Derived from stated formulas in an independent Python implementation. Cross-check with Node reference is recorded in validation_results.json. A/C source examples additionally have manual book assertions."
+  },
+  {
+    "date": "1900-01-01",
+    "calculationProfile": "C-family-center-v1",
+    "methodologyVersion": "dc-symbolic-1.0.0-proposed",
+    "values": {
+      "day": 1,
+      "month": 1,
+      "year": 10,
+      "bottom": 12,
+      "core": 6,
+      "nw": 2,
+      "ne": 11,
+      "se": 22,
+      "sw": 13,
+      "family_center": 12,
+      "day_inner": 7,
+      "day_mid": 8,
+      "month_inner": 7,
+      "month_mid": 8,
+      "year_inner": 16,
+      "year_mid": 8,
+      "bottom_inner": 18,
+      "bottom_mid": 3,
+      "nw_inner": 14,
+      "nw_mid": 16,
+      "ne_inner": 5,
+      "ne_mid": 16,
+      "se_inner": 7,
+      "se_mid": 11,
+      "sw_inner": 7,
+      "sw_mid": 20,
+      "heart_earth": 13,
+      "heart_sky": 13,
+      "bridge": 7,
+      "money_center": 5,
+      "love_center": 7,
+      "earth": 11,
+      "sky": 13,
+      "purpose_personal": 6,
+      "paternal": 6,
+      "maternal": 6,
+      "purpose_social": 12,
+      "purpose_spiritual": 18
+    },
+    "trace": [
+      {
+        "formulaId": "day",
+        "inputs": [
+          "dayOfMonth"
+        ],
+        "operands": [
+          1
+        ],
+        "rawValue": 1,
+        "reductionSteps": [
+          1
+        ],
+        "result": 1
+      },
+      {
+        "formulaId": "month",
+        "inputs": [
+          "monthOfYear"
+        ],
+        "operands": [
+          1
+        ],
+        "rawValue": 1,
+        "reductionSteps": [
+          1
+        ],
+        "result": 1
+      },
+      {
+        "formulaId": "year",
+        "inputs": [
+          "yearNumber"
+        ],
+        "operands": [
+          1900
+        ],
+        "rawValue": 10,
+        "reductionSteps": [
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "bottom",
+        "inputs": [
+          "day",
+          "month",
+          "year"
+        ],
+        "operands": [
+          1,
+          1,
+          10
+        ],
+        "rawValue": 12,
+        "reductionSteps": [
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "core",
+        "inputs": [
+          "day",
+          "month",
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          1,
+          1,
+          10,
+          12
+        ],
+        "rawValue": 24,
+        "reductionSteps": [
+          24,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "nw",
+        "inputs": [
+          "day",
+          "month"
+        ],
+        "operands": [
+          1,
+          1
+        ],
+        "rawValue": 2,
+        "reductionSteps": [
+          2
+        ],
+        "result": 2
+      },
+      {
+        "formulaId": "ne",
+        "inputs": [
+          "month",
+          "year"
+        ],
+        "operands": [
+          1,
+          10
+        ],
+        "rawValue": 11,
+        "reductionSteps": [
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "se",
+        "inputs": [
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          10,
+          12
+        ],
+        "rawValue": 22,
+        "reductionSteps": [
+          22
+        ],
+        "result": 22
+      },
+      {
+        "formulaId": "sw",
+        "inputs": [
+          "bottom",
+          "day"
+        ],
+        "operands": [
+          12,
+          1
+        ],
+        "rawValue": 13,
+        "reductionSteps": [
+          13
+        ],
+        "result": 13
+      },
+      {
+        "formulaId": "family_center",
+        "inputs": [
+          "nw",
+          "ne",
+          "se",
+          "sw"
+        ],
+        "operands": [
+          2,
+          11,
+          22,
+          13
+        ],
+        "rawValue": 48,
+        "reductionSteps": [
+          48,
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "day_inner",
+        "inputs": [
+          "day",
+          "core"
+        ],
+        "operands": [
+          1,
+          6
+        ],
+        "rawValue": 7,
+        "reductionSteps": [
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "day_mid",
+        "inputs": [
+          "day",
+          "day_inner"
+        ],
+        "operands": [
+          1,
+          7
+        ],
+        "rawValue": 8,
+        "reductionSteps": [
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "month_inner",
+        "inputs": [
+          "month",
+          "core"
+        ],
+        "operands": [
+          1,
+          6
+        ],
+        "rawValue": 7,
+        "reductionSteps": [
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "month_mid",
+        "inputs": [
+          "month",
+          "month_inner"
+        ],
+        "operands": [
+          1,
+          7
+        ],
+        "rawValue": 8,
+        "reductionSteps": [
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "year_inner",
+        "inputs": [
+          "year",
+          "core"
+        ],
+        "operands": [
+          10,
+          6
+        ],
+        "rawValue": 16,
+        "reductionSteps": [
+          16
+        ],
+        "result": 16
+      },
+      {
+        "formulaId": "year_mid",
+        "inputs": [
+          "year",
+          "year_inner"
+        ],
+        "operands": [
+          10,
+          16
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "bottom_inner",
+        "inputs": [
+          "bottom",
+          "core"
+        ],
+        "operands": [
+          12,
+          6
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "bottom_mid",
+        "inputs": [
+          "bottom",
+          "bottom_inner"
+        ],
+        "operands": [
+          12,
+          18
+        ],
+        "rawValue": 30,
+        "reductionSteps": [
+          30,
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "nw_inner",
+        "inputs": [
+          "nw",
+          "family_center"
+        ],
+        "operands": [
+          2,
+          12
+        ],
+        "rawValue": 14,
+        "reductionSteps": [
+          14
+        ],
+        "result": 14
+      },
+      {
+        "formulaId": "nw_mid",
+        "inputs": [
+          "nw",
+          "nw_inner"
+        ],
+        "operands": [
+          2,
+          14
+        ],
+        "rawValue": 16,
+        "reductionSteps": [
+          16
+        ],
+        "result": 16
+      },
+      {
+        "formulaId": "ne_inner",
+        "inputs": [
+          "ne",
+          "family_center"
+        ],
+        "operands": [
+          11,
+          12
+        ],
+        "rawValue": 23,
+        "reductionSteps": [
+          23,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "ne_mid",
+        "inputs": [
+          "ne",
+          "ne_inner"
+        ],
+        "operands": [
+          11,
+          5
+        ],
+        "rawValue": 16,
+        "reductionSteps": [
+          16
+        ],
+        "result": 16
+      },
+      {
+        "formulaId": "se_inner",
+        "inputs": [
+          "se",
+          "family_center"
+        ],
+        "operands": [
+          22,
+          12
+        ],
+        "rawValue": 34,
+        "reductionSteps": [
+          34,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "se_mid",
+        "inputs": [
+          "se",
+          "se_inner"
+        ],
+        "operands": [
+          22,
+          7
+        ],
+        "rawValue": 29,
+        "reductionSteps": [
+          29,
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "sw_inner",
+        "inputs": [
+          "sw",
+          "family_center"
+        ],
+        "operands": [
+          13,
+          12
+        ],
+        "rawValue": 25,
+        "reductionSteps": [
+          25,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "sw_mid",
+        "inputs": [
+          "sw",
+          "sw_inner"
+        ],
+        "operands": [
+          13,
+          7
+        ],
+        "rawValue": 20,
+        "reductionSteps": [
+          20
+        ],
+        "result": 20
+      },
+      {
+        "formulaId": "heart_earth",
+        "inputs": [
+          "core",
+          "day_inner"
+        ],
+        "operands": [
+          6,
+          7
+        ],
+        "rawValue": 13,
+        "reductionSteps": [
+          13
+        ],
+        "result": 13
+      },
+      {
+        "formulaId": "heart_sky",
+        "inputs": [
+          "core",
+          "month_inner"
+        ],
+        "operands": [
+          6,
+          7
+        ],
+        "rawValue": 13,
+        "reductionSteps": [
+          13
+        ],
+        "result": 13
+      },
+      {
+        "formulaId": "bridge",
+        "inputs": [
+          "year_inner",
+          "bottom_inner"
+        ],
+        "operands": [
+          16,
+          18
+        ],
+        "rawValue": 34,
+        "reductionSteps": [
+          34,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "money_center",
+        "inputs": [
+          "year_inner",
+          "bridge"
+        ],
+        "operands": [
+          16,
+          7
+        ],
+        "rawValue": 23,
+        "reductionSteps": [
+          23,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "love_center",
+        "inputs": [
+          "bottom_inner",
+          "bridge"
+        ],
+        "operands": [
+          18,
+          7
+        ],
+        "rawValue": 25,
+        "reductionSteps": [
+          25,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "earth",
+        "inputs": [
+          "day",
+          "year"
+        ],
+        "operands": [
+          1,
+          10
+        ],
+        "rawValue": 11,
+        "reductionSteps": [
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "sky",
+        "inputs": [
+          "month",
+          "bottom"
+        ],
+        "operands": [
+          1,
+          12
+        ],
+        "rawValue": 13,
+        "reductionSteps": [
+          13
+        ],
+        "result": 13
+      },
+      {
+        "formulaId": "purpose_personal",
+        "inputs": [
+          "earth",
+          "sky"
+        ],
+        "operands": [
+          11,
+          13
+        ],
+        "rawValue": 24,
+        "reductionSteps": [
+          24,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "paternal",
+        "inputs": [
+          "nw",
+          "se"
+        ],
+        "operands": [
+          2,
+          22
+        ],
+        "rawValue": 24,
+        "reductionSteps": [
+          24,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "maternal",
+        "inputs": [
+          "ne",
+          "sw"
+        ],
+        "operands": [
+          11,
+          13
+        ],
+        "rawValue": 24,
+        "reductionSteps": [
+          24,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "purpose_social",
+        "inputs": [
+          "paternal",
+          "maternal"
+        ],
+        "operands": [
+          6,
+          6
+        ],
+        "rawValue": 12,
+        "reductionSteps": [
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "purpose_spiritual",
+        "inputs": [
+          "purpose_personal",
+          "purpose_social"
+        ],
+        "operands": [
+          6,
+          12
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      }
+    ],
+    "id": "DOB-1900-01-01",
+    "expectedABAncestry": {
+      "nw_inner": 8,
+      "nw_mid": 10,
+      "ne_inner": 17,
+      "ne_mid": 10,
+      "se_inner": 10,
+      "se_mid": 5,
+      "sw_inner": 19,
+      "sw_mid": 5
+    },
+    "primaryRepeats": {
+      "1": [
+        "day",
+        "month"
+      ]
+    },
+    "fixtureOrigin": "Derived from stated formulas in an independent Python implementation. Cross-check with Node reference is recorded in validation_results.json. A/C source examples additionally have manual book assertions."
+  },
+  {
+    "date": "1988-11-30",
+    "calculationProfile": "C-family-center-v1",
+    "methodologyVersion": "dc-symbolic-1.0.0-proposed",
+    "values": {
+      "day": 3,
+      "month": 11,
+      "year": 8,
+      "bottom": 22,
+      "core": 8,
+      "nw": 14,
+      "ne": 19,
+      "se": 3,
+      "sw": 7,
+      "family_center": 7,
+      "day_inner": 11,
+      "day_mid": 14,
+      "month_inner": 19,
+      "month_mid": 3,
+      "year_inner": 16,
+      "year_mid": 6,
+      "bottom_inner": 3,
+      "bottom_mid": 7,
+      "nw_inner": 21,
+      "nw_mid": 8,
+      "ne_inner": 8,
+      "ne_mid": 9,
+      "se_inner": 10,
+      "se_mid": 13,
+      "sw_inner": 14,
+      "sw_mid": 21,
+      "heart_earth": 19,
+      "heart_sky": 9,
+      "bridge": 19,
+      "money_center": 8,
+      "love_center": 22,
+      "earth": 11,
+      "sky": 6,
+      "purpose_personal": 17,
+      "paternal": 17,
+      "maternal": 8,
+      "purpose_social": 7,
+      "purpose_spiritual": 6
+    },
+    "trace": [
+      {
+        "formulaId": "day",
+        "inputs": [
+          "dayOfMonth"
+        ],
+        "operands": [
+          30
+        ],
+        "rawValue": 30,
+        "reductionSteps": [
+          30,
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "month",
+        "inputs": [
+          "monthOfYear"
+        ],
+        "operands": [
+          11
+        ],
+        "rawValue": 11,
+        "reductionSteps": [
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "year",
+        "inputs": [
+          "yearNumber"
+        ],
+        "operands": [
+          1988
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "bottom",
+        "inputs": [
+          "day",
+          "month",
+          "year"
+        ],
+        "operands": [
+          3,
+          11,
+          8
+        ],
+        "rawValue": 22,
+        "reductionSteps": [
+          22
+        ],
+        "result": 22
+      },
+      {
+        "formulaId": "core",
+        "inputs": [
+          "day",
+          "month",
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          3,
+          11,
+          8,
+          22
+        ],
+        "rawValue": 44,
+        "reductionSteps": [
+          44,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "nw",
+        "inputs": [
+          "day",
+          "month"
+        ],
+        "operands": [
+          3,
+          11
+        ],
+        "rawValue": 14,
+        "reductionSteps": [
+          14
+        ],
+        "result": 14
+      },
+      {
+        "formulaId": "ne",
+        "inputs": [
+          "month",
+          "year"
+        ],
+        "operands": [
+          11,
+          8
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "se",
+        "inputs": [
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          8,
+          22
+        ],
+        "rawValue": 30,
+        "reductionSteps": [
+          30,
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "sw",
+        "inputs": [
+          "bottom",
+          "day"
+        ],
+        "operands": [
+          22,
+          3
+        ],
+        "rawValue": 25,
+        "reductionSteps": [
+          25,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "family_center",
+        "inputs": [
+          "nw",
+          "ne",
+          "se",
+          "sw"
+        ],
+        "operands": [
+          14,
+          19,
+          3,
+          7
+        ],
+        "rawValue": 43,
+        "reductionSteps": [
+          43,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "day_inner",
+        "inputs": [
+          "day",
+          "core"
+        ],
+        "operands": [
+          3,
+          8
+        ],
+        "rawValue": 11,
+        "reductionSteps": [
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "day_mid",
+        "inputs": [
+          "day",
+          "day_inner"
+        ],
+        "operands": [
+          3,
+          11
+        ],
+        "rawValue": 14,
+        "reductionSteps": [
+          14
+        ],
+        "result": 14
+      },
+      {
+        "formulaId": "month_inner",
+        "inputs": [
+          "month",
+          "core"
+        ],
+        "operands": [
+          11,
+          8
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "month_mid",
+        "inputs": [
+          "month",
+          "month_inner"
+        ],
+        "operands": [
+          11,
+          19
+        ],
+        "rawValue": 30,
+        "reductionSteps": [
+          30,
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "year_inner",
+        "inputs": [
+          "year",
+          "core"
+        ],
+        "operands": [
+          8,
+          8
+        ],
+        "rawValue": 16,
+        "reductionSteps": [
+          16
+        ],
+        "result": 16
+      },
+      {
+        "formulaId": "year_mid",
+        "inputs": [
+          "year",
+          "year_inner"
+        ],
+        "operands": [
+          8,
+          16
+        ],
+        "rawValue": 24,
+        "reductionSteps": [
+          24,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "bottom_inner",
+        "inputs": [
+          "bottom",
+          "core"
+        ],
+        "operands": [
+          22,
+          8
+        ],
+        "rawValue": 30,
+        "reductionSteps": [
+          30,
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "bottom_mid",
+        "inputs": [
+          "bottom",
+          "bottom_inner"
+        ],
+        "operands": [
+          22,
+          3
+        ],
+        "rawValue": 25,
+        "reductionSteps": [
+          25,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "nw_inner",
+        "inputs": [
+          "nw",
+          "family_center"
+        ],
+        "operands": [
+          14,
+          7
+        ],
+        "rawValue": 21,
+        "reductionSteps": [
+          21
+        ],
+        "result": 21
+      },
+      {
+        "formulaId": "nw_mid",
+        "inputs": [
+          "nw",
+          "nw_inner"
+        ],
+        "operands": [
+          14,
+          21
+        ],
+        "rawValue": 35,
+        "reductionSteps": [
+          35,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "ne_inner",
+        "inputs": [
+          "ne",
+          "family_center"
+        ],
+        "operands": [
+          19,
+          7
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "ne_mid",
+        "inputs": [
+          "ne",
+          "ne_inner"
+        ],
+        "operands": [
+          19,
+          8
+        ],
+        "rawValue": 27,
+        "reductionSteps": [
+          27,
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "se_inner",
+        "inputs": [
+          "se",
+          "family_center"
+        ],
+        "operands": [
+          3,
+          7
+        ],
+        "rawValue": 10,
+        "reductionSteps": [
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "se_mid",
+        "inputs": [
+          "se",
+          "se_inner"
+        ],
+        "operands": [
+          3,
+          10
+        ],
+        "rawValue": 13,
+        "reductionSteps": [
+          13
+        ],
+        "result": 13
+      },
+      {
+        "formulaId": "sw_inner",
+        "inputs": [
+          "sw",
+          "family_center"
+        ],
+        "operands": [
+          7,
+          7
+        ],
+        "rawValue": 14,
+        "reductionSteps": [
+          14
+        ],
+        "result": 14
+      },
+      {
+        "formulaId": "sw_mid",
+        "inputs": [
+          "sw",
+          "sw_inner"
+        ],
+        "operands": [
+          7,
+          14
+        ],
+        "rawValue": 21,
+        "reductionSteps": [
+          21
+        ],
+        "result": 21
+      },
+      {
+        "formulaId": "heart_earth",
+        "inputs": [
+          "core",
+          "day_inner"
+        ],
+        "operands": [
+          8,
+          11
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "heart_sky",
+        "inputs": [
+          "core",
+          "month_inner"
+        ],
+        "operands": [
+          8,
+          19
+        ],
+        "rawValue": 27,
+        "reductionSteps": [
+          27,
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "bridge",
+        "inputs": [
+          "year_inner",
+          "bottom_inner"
+        ],
+        "operands": [
+          16,
+          3
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "money_center",
+        "inputs": [
+          "year_inner",
+          "bridge"
+        ],
+        "operands": [
+          16,
+          19
+        ],
+        "rawValue": 35,
+        "reductionSteps": [
+          35,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "love_center",
+        "inputs": [
+          "bottom_inner",
+          "bridge"
+        ],
+        "operands": [
+          3,
+          19
+        ],
+        "rawValue": 22,
+        "reductionSteps": [
+          22
+        ],
+        "result": 22
+      },
+      {
+        "formulaId": "earth",
+        "inputs": [
+          "day",
+          "year"
+        ],
+        "operands": [
+          3,
+          8
+        ],
+        "rawValue": 11,
+        "reductionSteps": [
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "sky",
+        "inputs": [
+          "month",
+          "bottom"
+        ],
+        "operands": [
+          11,
+          22
+        ],
+        "rawValue": 33,
+        "reductionSteps": [
+          33,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "purpose_personal",
+        "inputs": [
+          "earth",
+          "sky"
+        ],
+        "operands": [
+          11,
+          6
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "paternal",
+        "inputs": [
+          "nw",
+          "se"
+        ],
+        "operands": [
+          14,
+          3
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "maternal",
+        "inputs": [
+          "ne",
+          "sw"
+        ],
+        "operands": [
+          19,
+          7
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "purpose_social",
+        "inputs": [
+          "paternal",
+          "maternal"
+        ],
+        "operands": [
+          17,
+          8
+        ],
+        "rawValue": 25,
+        "reductionSteps": [
+          25,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "purpose_spiritual",
+        "inputs": [
+          "purpose_personal",
+          "purpose_social"
+        ],
+        "operands": [
+          17,
+          7
+        ],
+        "rawValue": 24,
+        "reductionSteps": [
+          24,
+          6
+        ],
+        "result": 6
+      }
+    ],
+    "id": "DOB-1988-11-30",
+    "expectedABAncestry": {
+      "nw_inner": 22,
+      "nw_mid": 9,
+      "ne_inner": 9,
+      "ne_mid": 10,
+      "se_inner": 11,
+      "se_mid": 14,
+      "sw_inner": 15,
+      "sw_mid": 22
+    },
+    "primaryRepeats": {
+      "3": [
+        "day",
+        "se"
+      ],
+      "8": [
+        "year",
+        "core"
+      ]
+    },
+    "fixtureOrigin": "Derived from stated formulas in an independent Python implementation. Cross-check with Node reference is recorded in validation_results.json. A/C source examples additionally have manual book assertions."
+  },
+  {
+    "date": "2011-11-11",
+    "calculationProfile": "C-family-center-v1",
+    "methodologyVersion": "dc-symbolic-1.0.0-proposed",
+    "values": {
+      "day": 11,
+      "month": 11,
+      "year": 4,
+      "bottom": 8,
+      "core": 7,
+      "nw": 22,
+      "ne": 15,
+      "se": 12,
+      "sw": 19,
+      "family_center": 14,
+      "day_inner": 18,
+      "day_mid": 11,
+      "month_inner": 18,
+      "month_mid": 11,
+      "year_inner": 11,
+      "year_mid": 15,
+      "bottom_inner": 15,
+      "bottom_mid": 5,
+      "nw_inner": 9,
+      "nw_mid": 4,
+      "ne_inner": 11,
+      "ne_mid": 8,
+      "se_inner": 8,
+      "se_mid": 20,
+      "sw_inner": 6,
+      "sw_mid": 7,
+      "heart_earth": 7,
+      "heart_sky": 7,
+      "bridge": 8,
+      "money_center": 19,
+      "love_center": 5,
+      "earth": 15,
+      "sky": 19,
+      "purpose_personal": 7,
+      "paternal": 7,
+      "maternal": 7,
+      "purpose_social": 14,
+      "purpose_spiritual": 21
+    },
+    "trace": [
+      {
+        "formulaId": "day",
+        "inputs": [
+          "dayOfMonth"
+        ],
+        "operands": [
+          11
+        ],
+        "rawValue": 11,
+        "reductionSteps": [
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "month",
+        "inputs": [
+          "monthOfYear"
+        ],
+        "operands": [
+          11
+        ],
+        "rawValue": 11,
+        "reductionSteps": [
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "year",
+        "inputs": [
+          "yearNumber"
+        ],
+        "operands": [
+          2011
+        ],
+        "rawValue": 4,
+        "reductionSteps": [
+          4
+        ],
+        "result": 4
+      },
+      {
+        "formulaId": "bottom",
+        "inputs": [
+          "day",
+          "month",
+          "year"
+        ],
+        "operands": [
+          11,
+          11,
+          4
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "core",
+        "inputs": [
+          "day",
+          "month",
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          11,
+          11,
+          4,
+          8
+        ],
+        "rawValue": 34,
+        "reductionSteps": [
+          34,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "nw",
+        "inputs": [
+          "day",
+          "month"
+        ],
+        "operands": [
+          11,
+          11
+        ],
+        "rawValue": 22,
+        "reductionSteps": [
+          22
+        ],
+        "result": 22
+      },
+      {
+        "formulaId": "ne",
+        "inputs": [
+          "month",
+          "year"
+        ],
+        "operands": [
+          11,
+          4
+        ],
+        "rawValue": 15,
+        "reductionSteps": [
+          15
+        ],
+        "result": 15
+      },
+      {
+        "formulaId": "se",
+        "inputs": [
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          4,
+          8
+        ],
+        "rawValue": 12,
+        "reductionSteps": [
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "sw",
+        "inputs": [
+          "bottom",
+          "day"
+        ],
+        "operands": [
+          8,
+          11
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "family_center",
+        "inputs": [
+          "nw",
+          "ne",
+          "se",
+          "sw"
+        ],
+        "operands": [
+          22,
+          15,
+          12,
+          19
+        ],
+        "rawValue": 68,
+        "reductionSteps": [
+          68,
+          14
+        ],
+        "result": 14
+      },
+      {
+        "formulaId": "day_inner",
+        "inputs": [
+          "day",
+          "core"
+        ],
+        "operands": [
+          11,
+          7
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "day_mid",
+        "inputs": [
+          "day",
+          "day_inner"
+        ],
+        "operands": [
+          11,
+          18
+        ],
+        "rawValue": 29,
+        "reductionSteps": [
+          29,
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "month_inner",
+        "inputs": [
+          "month",
+          "core"
+        ],
+        "operands": [
+          11,
+          7
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "month_mid",
+        "inputs": [
+          "month",
+          "month_inner"
+        ],
+        "operands": [
+          11,
+          18
+        ],
+        "rawValue": 29,
+        "reductionSteps": [
+          29,
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "year_inner",
+        "inputs": [
+          "year",
+          "core"
+        ],
+        "operands": [
+          4,
+          7
+        ],
+        "rawValue": 11,
+        "reductionSteps": [
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "year_mid",
+        "inputs": [
+          "year",
+          "year_inner"
+        ],
+        "operands": [
+          4,
+          11
+        ],
+        "rawValue": 15,
+        "reductionSteps": [
+          15
+        ],
+        "result": 15
+      },
+      {
+        "formulaId": "bottom_inner",
+        "inputs": [
+          "bottom",
+          "core"
+        ],
+        "operands": [
+          8,
+          7
+        ],
+        "rawValue": 15,
+        "reductionSteps": [
+          15
+        ],
+        "result": 15
+      },
+      {
+        "formulaId": "bottom_mid",
+        "inputs": [
+          "bottom",
+          "bottom_inner"
+        ],
+        "operands": [
+          8,
+          15
+        ],
+        "rawValue": 23,
+        "reductionSteps": [
+          23,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "nw_inner",
+        "inputs": [
+          "nw",
+          "family_center"
+        ],
+        "operands": [
+          22,
+          14
+        ],
+        "rawValue": 36,
+        "reductionSteps": [
+          36,
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "nw_mid",
+        "inputs": [
+          "nw",
+          "nw_inner"
+        ],
+        "operands": [
+          22,
+          9
+        ],
+        "rawValue": 31,
+        "reductionSteps": [
+          31,
+          4
+        ],
+        "result": 4
+      },
+      {
+        "formulaId": "ne_inner",
+        "inputs": [
+          "ne",
+          "family_center"
+        ],
+        "operands": [
+          15,
+          14
+        ],
+        "rawValue": 29,
+        "reductionSteps": [
+          29,
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "ne_mid",
+        "inputs": [
+          "ne",
+          "ne_inner"
+        ],
+        "operands": [
+          15,
+          11
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "se_inner",
+        "inputs": [
+          "se",
+          "family_center"
+        ],
+        "operands": [
+          12,
+          14
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "se_mid",
+        "inputs": [
+          "se",
+          "se_inner"
+        ],
+        "operands": [
+          12,
+          8
+        ],
+        "rawValue": 20,
+        "reductionSteps": [
+          20
+        ],
+        "result": 20
+      },
+      {
+        "formulaId": "sw_inner",
+        "inputs": [
+          "sw",
+          "family_center"
+        ],
+        "operands": [
+          19,
+          14
+        ],
+        "rawValue": 33,
+        "reductionSteps": [
+          33,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "sw_mid",
+        "inputs": [
+          "sw",
+          "sw_inner"
+        ],
+        "operands": [
+          19,
+          6
+        ],
+        "rawValue": 25,
+        "reductionSteps": [
+          25,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "heart_earth",
+        "inputs": [
+          "core",
+          "day_inner"
+        ],
+        "operands": [
+          7,
+          18
+        ],
+        "rawValue": 25,
+        "reductionSteps": [
+          25,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "heart_sky",
+        "inputs": [
+          "core",
+          "month_inner"
+        ],
+        "operands": [
+          7,
+          18
+        ],
+        "rawValue": 25,
+        "reductionSteps": [
+          25,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "bridge",
+        "inputs": [
+          "year_inner",
+          "bottom_inner"
+        ],
+        "operands": [
+          11,
+          15
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "money_center",
+        "inputs": [
+          "year_inner",
+          "bridge"
+        ],
+        "operands": [
+          11,
+          8
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "love_center",
+        "inputs": [
+          "bottom_inner",
+          "bridge"
+        ],
+        "operands": [
+          15,
+          8
+        ],
+        "rawValue": 23,
+        "reductionSteps": [
+          23,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "earth",
+        "inputs": [
+          "day",
+          "year"
+        ],
+        "operands": [
+          11,
+          4
+        ],
+        "rawValue": 15,
+        "reductionSteps": [
+          15
+        ],
+        "result": 15
+      },
+      {
+        "formulaId": "sky",
+        "inputs": [
+          "month",
+          "bottom"
+        ],
+        "operands": [
+          11,
+          8
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "purpose_personal",
+        "inputs": [
+          "earth",
+          "sky"
+        ],
+        "operands": [
+          15,
+          19
+        ],
+        "rawValue": 34,
+        "reductionSteps": [
+          34,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "paternal",
+        "inputs": [
+          "nw",
+          "se"
+        ],
+        "operands": [
+          22,
+          12
+        ],
+        "rawValue": 34,
+        "reductionSteps": [
+          34,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "maternal",
+        "inputs": [
+          "ne",
+          "sw"
+        ],
+        "operands": [
+          15,
+          19
+        ],
+        "rawValue": 34,
+        "reductionSteps": [
+          34,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "purpose_social",
+        "inputs": [
+          "paternal",
+          "maternal"
+        ],
+        "operands": [
+          7,
+          7
+        ],
+        "rawValue": 14,
+        "reductionSteps": [
+          14
+        ],
+        "result": 14
+      },
+      {
+        "formulaId": "purpose_spiritual",
+        "inputs": [
+          "purpose_personal",
+          "purpose_social"
+        ],
+        "operands": [
+          7,
+          14
+        ],
+        "rawValue": 21,
+        "reductionSteps": [
+          21
+        ],
+        "result": 21
+      }
+    ],
+    "id": "DOB-2011-11-11",
+    "expectedABAncestry": {
+      "nw_inner": 11,
+      "nw_mid": 6,
+      "ne_inner": 22,
+      "ne_mid": 10,
+      "se_inner": 19,
+      "se_mid": 4,
+      "sw_inner": 8,
+      "sw_mid": 9
+    },
+    "primaryRepeats": {
+      "11": [
+        "day",
+        "month"
+      ]
+    },
+    "fixtureOrigin": "Derived from stated formulas in an independent Python implementation. Cross-check with Node reference is recorded in validation_results.json. A/C source examples additionally have manual book assertions."
+  },
+  {
+    "date": "1900-02-28",
+    "calculationProfile": "C-family-center-v1",
+    "methodologyVersion": "dc-symbolic-1.0.0-proposed",
+    "values": {
+      "day": 10,
+      "month": 2,
+      "year": 10,
+      "bottom": 22,
+      "core": 8,
+      "nw": 12,
+      "ne": 12,
+      "se": 5,
+      "sw": 5,
+      "family_center": 7,
+      "day_inner": 18,
+      "day_mid": 10,
+      "month_inner": 10,
+      "month_mid": 12,
+      "year_inner": 18,
+      "year_mid": 10,
+      "bottom_inner": 3,
+      "bottom_mid": 7,
+      "nw_inner": 19,
+      "nw_mid": 4,
+      "ne_inner": 19,
+      "ne_mid": 4,
+      "se_inner": 12,
+      "se_mid": 17,
+      "sw_inner": 12,
+      "sw_mid": 17,
+      "heart_earth": 8,
+      "heart_sky": 18,
+      "bridge": 21,
+      "money_center": 12,
+      "love_center": 6,
+      "earth": 20,
+      "sky": 6,
+      "purpose_personal": 8,
+      "paternal": 17,
+      "maternal": 17,
+      "purpose_social": 7,
+      "purpose_spiritual": 15
+    },
+    "trace": [
+      {
+        "formulaId": "day",
+        "inputs": [
+          "dayOfMonth"
+        ],
+        "operands": [
+          28
+        ],
+        "rawValue": 28,
+        "reductionSteps": [
+          28,
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "month",
+        "inputs": [
+          "monthOfYear"
+        ],
+        "operands": [
+          2
+        ],
+        "rawValue": 2,
+        "reductionSteps": [
+          2
+        ],
+        "result": 2
+      },
+      {
+        "formulaId": "year",
+        "inputs": [
+          "yearNumber"
+        ],
+        "operands": [
+          1900
+        ],
+        "rawValue": 10,
+        "reductionSteps": [
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "bottom",
+        "inputs": [
+          "day",
+          "month",
+          "year"
+        ],
+        "operands": [
+          10,
+          2,
+          10
+        ],
+        "rawValue": 22,
+        "reductionSteps": [
+          22
+        ],
+        "result": 22
+      },
+      {
+        "formulaId": "core",
+        "inputs": [
+          "day",
+          "month",
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          10,
+          2,
+          10,
+          22
+        ],
+        "rawValue": 44,
+        "reductionSteps": [
+          44,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "nw",
+        "inputs": [
+          "day",
+          "month"
+        ],
+        "operands": [
+          10,
+          2
+        ],
+        "rawValue": 12,
+        "reductionSteps": [
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "ne",
+        "inputs": [
+          "month",
+          "year"
+        ],
+        "operands": [
+          2,
+          10
+        ],
+        "rawValue": 12,
+        "reductionSteps": [
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "se",
+        "inputs": [
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          10,
+          22
+        ],
+        "rawValue": 32,
+        "reductionSteps": [
+          32,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "sw",
+        "inputs": [
+          "bottom",
+          "day"
+        ],
+        "operands": [
+          22,
+          10
+        ],
+        "rawValue": 32,
+        "reductionSteps": [
+          32,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "family_center",
+        "inputs": [
+          "nw",
+          "ne",
+          "se",
+          "sw"
+        ],
+        "operands": [
+          12,
+          12,
+          5,
+          5
+        ],
+        "rawValue": 34,
+        "reductionSteps": [
+          34,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "day_inner",
+        "inputs": [
+          "day",
+          "core"
+        ],
+        "operands": [
+          10,
+          8
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "day_mid",
+        "inputs": [
+          "day",
+          "day_inner"
+        ],
+        "operands": [
+          10,
+          18
+        ],
+        "rawValue": 28,
+        "reductionSteps": [
+          28,
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "month_inner",
+        "inputs": [
+          "month",
+          "core"
+        ],
+        "operands": [
+          2,
+          8
+        ],
+        "rawValue": 10,
+        "reductionSteps": [
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "month_mid",
+        "inputs": [
+          "month",
+          "month_inner"
+        ],
+        "operands": [
+          2,
+          10
+        ],
+        "rawValue": 12,
+        "reductionSteps": [
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "year_inner",
+        "inputs": [
+          "year",
+          "core"
+        ],
+        "operands": [
+          10,
+          8
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "year_mid",
+        "inputs": [
+          "year",
+          "year_inner"
+        ],
+        "operands": [
+          10,
+          18
+        ],
+        "rawValue": 28,
+        "reductionSteps": [
+          28,
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "bottom_inner",
+        "inputs": [
+          "bottom",
+          "core"
+        ],
+        "operands": [
+          22,
+          8
+        ],
+        "rawValue": 30,
+        "reductionSteps": [
+          30,
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "bottom_mid",
+        "inputs": [
+          "bottom",
+          "bottom_inner"
+        ],
+        "operands": [
+          22,
+          3
+        ],
+        "rawValue": 25,
+        "reductionSteps": [
+          25,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "nw_inner",
+        "inputs": [
+          "nw",
+          "family_center"
+        ],
+        "operands": [
+          12,
+          7
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "nw_mid",
+        "inputs": [
+          "nw",
+          "nw_inner"
+        ],
+        "operands": [
+          12,
+          19
+        ],
+        "rawValue": 31,
+        "reductionSteps": [
+          31,
+          4
+        ],
+        "result": 4
+      },
+      {
+        "formulaId": "ne_inner",
+        "inputs": [
+          "ne",
+          "family_center"
+        ],
+        "operands": [
+          12,
+          7
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "ne_mid",
+        "inputs": [
+          "ne",
+          "ne_inner"
+        ],
+        "operands": [
+          12,
+          19
+        ],
+        "rawValue": 31,
+        "reductionSteps": [
+          31,
+          4
+        ],
+        "result": 4
+      },
+      {
+        "formulaId": "se_inner",
+        "inputs": [
+          "se",
+          "family_center"
+        ],
+        "operands": [
+          5,
+          7
+        ],
+        "rawValue": 12,
+        "reductionSteps": [
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "se_mid",
+        "inputs": [
+          "se",
+          "se_inner"
+        ],
+        "operands": [
+          5,
+          12
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "sw_inner",
+        "inputs": [
+          "sw",
+          "family_center"
+        ],
+        "operands": [
+          5,
+          7
+        ],
+        "rawValue": 12,
+        "reductionSteps": [
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "sw_mid",
+        "inputs": [
+          "sw",
+          "sw_inner"
+        ],
+        "operands": [
+          5,
+          12
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "heart_earth",
+        "inputs": [
+          "core",
+          "day_inner"
+        ],
+        "operands": [
+          8,
+          18
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "heart_sky",
+        "inputs": [
+          "core",
+          "month_inner"
+        ],
+        "operands": [
+          8,
+          10
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "bridge",
+        "inputs": [
+          "year_inner",
+          "bottom_inner"
+        ],
+        "operands": [
+          18,
+          3
+        ],
+        "rawValue": 21,
+        "reductionSteps": [
+          21
+        ],
+        "result": 21
+      },
+      {
+        "formulaId": "money_center",
+        "inputs": [
+          "year_inner",
+          "bridge"
+        ],
+        "operands": [
+          18,
+          21
+        ],
+        "rawValue": 39,
+        "reductionSteps": [
+          39,
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "love_center",
+        "inputs": [
+          "bottom_inner",
+          "bridge"
+        ],
+        "operands": [
+          3,
+          21
+        ],
+        "rawValue": 24,
+        "reductionSteps": [
+          24,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "earth",
+        "inputs": [
+          "day",
+          "year"
+        ],
+        "operands": [
+          10,
+          10
+        ],
+        "rawValue": 20,
+        "reductionSteps": [
+          20
+        ],
+        "result": 20
+      },
+      {
+        "formulaId": "sky",
+        "inputs": [
+          "month",
+          "bottom"
+        ],
+        "operands": [
+          2,
+          22
+        ],
+        "rawValue": 24,
+        "reductionSteps": [
+          24,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "purpose_personal",
+        "inputs": [
+          "earth",
+          "sky"
+        ],
+        "operands": [
+          20,
+          6
+        ],
+        "rawValue": 26,
+        "reductionSteps": [
+          26,
+          8
+        ],
+        "result": 8
+      },
+      {
+        "formulaId": "paternal",
+        "inputs": [
+          "nw",
+          "se"
+        ],
+        "operands": [
+          12,
+          5
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "maternal",
+        "inputs": [
+          "ne",
+          "sw"
+        ],
+        "operands": [
+          12,
+          5
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "purpose_social",
+        "inputs": [
+          "paternal",
+          "maternal"
+        ],
+        "operands": [
+          17,
+          17
+        ],
+        "rawValue": 34,
+        "reductionSteps": [
+          34,
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "purpose_spiritual",
+        "inputs": [
+          "purpose_personal",
+          "purpose_social"
+        ],
+        "operands": [
+          8,
+          7
+        ],
+        "rawValue": 15,
+        "reductionSteps": [
+          15
+        ],
+        "result": 15
+      }
+    ],
+    "id": "DOB-1900-02-28",
+    "expectedABAncestry": {
+      "nw_inner": 20,
+      "nw_mid": 5,
+      "ne_inner": 20,
+      "ne_mid": 5,
+      "se_inner": 13,
+      "se_mid": 18,
+      "sw_inner": 13,
+      "sw_mid": 18
+    },
+    "primaryRepeats": {
+      "5": [
+        "se",
+        "sw"
+      ],
+      "10": [
+        "day",
+        "year"
+      ],
+      "12": [
+        "nw",
+        "ne"
+      ]
+    },
+    "fixtureOrigin": "Derived from stated formulas in an independent Python implementation. Cross-check with Node reference is recorded in validation_results.json. A/C source examples additionally have manual book assertions."
+  },
+  {
+    "date": "1983-11-07",
+    "calculationProfile": "C-family-center-v1",
+    "methodologyVersion": "dc-symbolic-1.0.0-proposed",
+    "values": {
+      "day": 7,
+      "month": 11,
+      "year": 21,
+      "bottom": 12,
+      "core": 6,
+      "nw": 18,
+      "ne": 5,
+      "se": 6,
+      "sw": 19,
+      "family_center": 12,
+      "day_inner": 13,
+      "day_mid": 20,
+      "month_inner": 17,
+      "month_mid": 10,
+      "year_inner": 9,
+      "year_mid": 3,
+      "bottom_inner": 18,
+      "bottom_mid": 3,
+      "nw_inner": 3,
+      "nw_mid": 21,
+      "ne_inner": 17,
+      "ne_mid": 22,
+      "se_inner": 18,
+      "se_mid": 6,
+      "sw_inner": 4,
+      "sw_mid": 5,
+      "heart_earth": 19,
+      "heart_sky": 5,
+      "bridge": 9,
+      "money_center": 18,
+      "love_center": 9,
+      "earth": 10,
+      "sky": 5,
+      "purpose_personal": 15,
+      "paternal": 6,
+      "maternal": 6,
+      "purpose_social": 12,
+      "purpose_spiritual": 9
+    },
+    "trace": [
+      {
+        "formulaId": "day",
+        "inputs": [
+          "dayOfMonth"
+        ],
+        "operands": [
+          7
+        ],
+        "rawValue": 7,
+        "reductionSteps": [
+          7
+        ],
+        "result": 7
+      },
+      {
+        "formulaId": "month",
+        "inputs": [
+          "monthOfYear"
+        ],
+        "operands": [
+          11
+        ],
+        "rawValue": 11,
+        "reductionSteps": [
+          11
+        ],
+        "result": 11
+      },
+      {
+        "formulaId": "year",
+        "inputs": [
+          "yearNumber"
+        ],
+        "operands": [
+          1983
+        ],
+        "rawValue": 21,
+        "reductionSteps": [
+          21
+        ],
+        "result": 21
+      },
+      {
+        "formulaId": "bottom",
+        "inputs": [
+          "day",
+          "month",
+          "year"
+        ],
+        "operands": [
+          7,
+          11,
+          21
+        ],
+        "rawValue": 39,
+        "reductionSteps": [
+          39,
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "core",
+        "inputs": [
+          "day",
+          "month",
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          7,
+          11,
+          21,
+          12
+        ],
+        "rawValue": 51,
+        "reductionSteps": [
+          51,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "nw",
+        "inputs": [
+          "day",
+          "month"
+        ],
+        "operands": [
+          7,
+          11
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "ne",
+        "inputs": [
+          "month",
+          "year"
+        ],
+        "operands": [
+          11,
+          21
+        ],
+        "rawValue": 32,
+        "reductionSteps": [
+          32,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "se",
+        "inputs": [
+          "year",
+          "bottom"
+        ],
+        "operands": [
+          21,
+          12
+        ],
+        "rawValue": 33,
+        "reductionSteps": [
+          33,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "sw",
+        "inputs": [
+          "bottom",
+          "day"
+        ],
+        "operands": [
+          12,
+          7
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "family_center",
+        "inputs": [
+          "nw",
+          "ne",
+          "se",
+          "sw"
+        ],
+        "operands": [
+          18,
+          5,
+          6,
+          19
+        ],
+        "rawValue": 48,
+        "reductionSteps": [
+          48,
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "day_inner",
+        "inputs": [
+          "day",
+          "core"
+        ],
+        "operands": [
+          7,
+          6
+        ],
+        "rawValue": 13,
+        "reductionSteps": [
+          13
+        ],
+        "result": 13
+      },
+      {
+        "formulaId": "day_mid",
+        "inputs": [
+          "day",
+          "day_inner"
+        ],
+        "operands": [
+          7,
+          13
+        ],
+        "rawValue": 20,
+        "reductionSteps": [
+          20
+        ],
+        "result": 20
+      },
+      {
+        "formulaId": "month_inner",
+        "inputs": [
+          "month",
+          "core"
+        ],
+        "operands": [
+          11,
+          6
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "month_mid",
+        "inputs": [
+          "month",
+          "month_inner"
+        ],
+        "operands": [
+          11,
+          17
+        ],
+        "rawValue": 28,
+        "reductionSteps": [
+          28,
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "year_inner",
+        "inputs": [
+          "year",
+          "core"
+        ],
+        "operands": [
+          21,
+          6
+        ],
+        "rawValue": 27,
+        "reductionSteps": [
+          27,
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "year_mid",
+        "inputs": [
+          "year",
+          "year_inner"
+        ],
+        "operands": [
+          21,
+          9
+        ],
+        "rawValue": 30,
+        "reductionSteps": [
+          30,
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "bottom_inner",
+        "inputs": [
+          "bottom",
+          "core"
+        ],
+        "operands": [
+          12,
+          6
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "bottom_mid",
+        "inputs": [
+          "bottom",
+          "bottom_inner"
+        ],
+        "operands": [
+          12,
+          18
+        ],
+        "rawValue": 30,
+        "reductionSteps": [
+          30,
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "nw_inner",
+        "inputs": [
+          "nw",
+          "family_center"
+        ],
+        "operands": [
+          18,
+          12
+        ],
+        "rawValue": 30,
+        "reductionSteps": [
+          30,
+          3
+        ],
+        "result": 3
+      },
+      {
+        "formulaId": "nw_mid",
+        "inputs": [
+          "nw",
+          "nw_inner"
+        ],
+        "operands": [
+          18,
+          3
+        ],
+        "rawValue": 21,
+        "reductionSteps": [
+          21
+        ],
+        "result": 21
+      },
+      {
+        "formulaId": "ne_inner",
+        "inputs": [
+          "ne",
+          "family_center"
+        ],
+        "operands": [
+          5,
+          12
+        ],
+        "rawValue": 17,
+        "reductionSteps": [
+          17
+        ],
+        "result": 17
+      },
+      {
+        "formulaId": "ne_mid",
+        "inputs": [
+          "ne",
+          "ne_inner"
+        ],
+        "operands": [
+          5,
+          17
+        ],
+        "rawValue": 22,
+        "reductionSteps": [
+          22
+        ],
+        "result": 22
+      },
+      {
+        "formulaId": "se_inner",
+        "inputs": [
+          "se",
+          "family_center"
+        ],
+        "operands": [
+          6,
+          12
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "se_mid",
+        "inputs": [
+          "se",
+          "se_inner"
+        ],
+        "operands": [
+          6,
+          18
+        ],
+        "rawValue": 24,
+        "reductionSteps": [
+          24,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "sw_inner",
+        "inputs": [
+          "sw",
+          "family_center"
+        ],
+        "operands": [
+          19,
+          12
+        ],
+        "rawValue": 31,
+        "reductionSteps": [
+          31,
+          4
+        ],
+        "result": 4
+      },
+      {
+        "formulaId": "sw_mid",
+        "inputs": [
+          "sw",
+          "sw_inner"
+        ],
+        "operands": [
+          19,
+          4
+        ],
+        "rawValue": 23,
+        "reductionSteps": [
+          23,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "heart_earth",
+        "inputs": [
+          "core",
+          "day_inner"
+        ],
+        "operands": [
+          6,
+          13
+        ],
+        "rawValue": 19,
+        "reductionSteps": [
+          19
+        ],
+        "result": 19
+      },
+      {
+        "formulaId": "heart_sky",
+        "inputs": [
+          "core",
+          "month_inner"
+        ],
+        "operands": [
+          6,
+          17
+        ],
+        "rawValue": 23,
+        "reductionSteps": [
+          23,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "bridge",
+        "inputs": [
+          "year_inner",
+          "bottom_inner"
+        ],
+        "operands": [
+          9,
+          18
+        ],
+        "rawValue": 27,
+        "reductionSteps": [
+          27,
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "money_center",
+        "inputs": [
+          "year_inner",
+          "bridge"
+        ],
+        "operands": [
+          9,
+          9
+        ],
+        "rawValue": 18,
+        "reductionSteps": [
+          18
+        ],
+        "result": 18
+      },
+      {
+        "formulaId": "love_center",
+        "inputs": [
+          "bottom_inner",
+          "bridge"
+        ],
+        "operands": [
+          18,
+          9
+        ],
+        "rawValue": 27,
+        "reductionSteps": [
+          27,
+          9
+        ],
+        "result": 9
+      },
+      {
+        "formulaId": "earth",
+        "inputs": [
+          "day",
+          "year"
+        ],
+        "operands": [
+          7,
+          21
+        ],
+        "rawValue": 28,
+        "reductionSteps": [
+          28,
+          10
+        ],
+        "result": 10
+      },
+      {
+        "formulaId": "sky",
+        "inputs": [
+          "month",
+          "bottom"
+        ],
+        "operands": [
+          11,
+          12
+        ],
+        "rawValue": 23,
+        "reductionSteps": [
+          23,
+          5
+        ],
+        "result": 5
+      },
+      {
+        "formulaId": "purpose_personal",
+        "inputs": [
+          "earth",
+          "sky"
+        ],
+        "operands": [
+          10,
+          5
+        ],
+        "rawValue": 15,
+        "reductionSteps": [
+          15
+        ],
+        "result": 15
+      },
+      {
+        "formulaId": "paternal",
+        "inputs": [
+          "nw",
+          "se"
+        ],
+        "operands": [
+          18,
+          6
+        ],
+        "rawValue": 24,
+        "reductionSteps": [
+          24,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "maternal",
+        "inputs": [
+          "ne",
+          "sw"
+        ],
+        "operands": [
+          5,
+          19
+        ],
+        "rawValue": 24,
+        "reductionSteps": [
+          24,
+          6
+        ],
+        "result": 6
+      },
+      {
+        "formulaId": "purpose_social",
+        "inputs": [
+          "paternal",
+          "maternal"
+        ],
+        "operands": [
+          6,
+          6
+        ],
+        "rawValue": 12,
+        "reductionSteps": [
+          12
+        ],
+        "result": 12
+      },
+      {
+        "formulaId": "purpose_spiritual",
+        "inputs": [
+          "purpose_personal",
+          "purpose_social"
+        ],
+        "operands": [
+          15,
+          12
+        ],
+        "rawValue": 27,
+        "reductionSteps": [
+          27,
+          9
+        ],
+        "result": 9
+      }
+    ],
+    "id": "DOB-1983-11-07",
+    "expectedABAncestry": {
+      "nw_inner": 6,
+      "nw_mid": 6,
+      "ne_inner": 11,
+      "ne_mid": 16,
+      "se_inner": 12,
+      "se_mid": 18,
+      "sw_inner": 7,
+      "sw_mid": 8
+    },
+    "primaryRepeats": {
+      "6": [
+        "core",
+        "se"
+      ]
+    },
+    "fixtureOrigin": "Derived from stated formulas in an independent Python implementation. Cross-check with Node reference is recorded in validation_results.json. A/C source examples additionally have manual book assertions."
+  }
+]

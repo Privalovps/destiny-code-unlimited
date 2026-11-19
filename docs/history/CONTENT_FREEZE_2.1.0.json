@@ -1,0 +1,30 @@
+{
+  "contentVersion": "en-US-role-editorial-2.1.0",
+  "methodologyVersion": "dc-symbolic-1.0.0-proposed",
+  "calculationProfile": "C-family-center-v1",
+  "reportSchemaVersion": "1.0.0",
+  "locale": "en-US",
+  "status": "ready_for_product_owner_review",
+  "productionApproved": false,
+  "reviewDate": "2026-11-18",
+  "sampleDate": "1991-12-09",
+  "sampleSemanticHash": "c7b756b8ffd17e05dcf1916055624a42837a224b361a9f2cc0f1bc30c8f756d5",
+  "sampleNarrativeWords": 12630,
+  "files": {
+    "src/lib/methodology/report.ts": "6701f7c428d20e62ebad41c7ef4ff09f93d6db1604f65a2725c22cfb8f317c45",
+    "src/lib/methodology/depth.ts": "ae9a2feb9ada025439f6c438a4c70d2d7723dde41466e17144e9219aa0df54c7",
+    "src/lib/methodology/literary-frames.ts": "37042871e5d4720731a8437958370d3f1b48a444dc83200b63a101837a4df817",
+    "src/lib/methodology/symbolic-reading.ts": "1edb5cb639fa2348c3814aa7694c7825b5a9b6de2de6b790048c6ecf14973267",
+    "src/lib/methodology/depth-library.ts": "4731e1e8c410049a2878c5fbfac2d25ede6fa9e5dbf78be493d628d53ec5ecee",
+    "src/lib/methodology/editorial-context.ts": "4db366897f5d23bf3c1bb56b3c3810ee1c17fe2cd4f6bdad5f538ed5d371704a",
+    "src/lib/methodology/public.ts": "c489fc97c2e9a11250e972b062bd83cb9b02d385b91b39ae1d2e6cf0c2f0a0c8",
+    "src/lib/methodology/narrative-metrics.ts": "85783cd5a929c72d93fd4be8ba4d0991a709172cd17eed973aaa1f442474e30b",
+    "src/lib/methodology/history/editorial-v2/depth-library.ts": "4731e1e8c410049a2878c5fbfac2d25ede6fa9e5dbf78be493d628d53ec5ecee",
+    "src/lib/methodology/history/editorial-v2/depth.ts": "0eb643129acbd0e0e43010f33161c976206aa7a76b4ea9d05838b5b72ae77c59",
+    "src/lib/methodology/history/editorial-v2/editorial-context.ts": "fa2e8daf61577544710fb74f15b1e7d883a239cb217b3b984815b79e8295d7b2",
+    "src/lib/methodology/history/editorial-v2/narrative-metrics.ts": "85783cd5a929c72d93fd4be8ba4d0991a709172cd17eed973aaa1f442474e30b",
+    "src/lib/methodology/history/editorial-v2/report.ts": "230eb012945098b88255f49014cac0472e870c416e62b72aceb69848221295cc",
+    "src/lib/methodology/history/editorial-v2/symbolic-reading.ts": "1edb5cb639fa2348c3814aa7694c7825b5a9b6de2de6b790048c6ecf14973267"
+  },
+  "sourceDataHash": "f3730f94445d7ec73ee808f2e2edb33692f0489f77f299de50893210eba16286"
+}

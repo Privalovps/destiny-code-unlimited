@@ -1,0 +1,23 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.env*
+!.env.example
+
+# Hosting state and local credentials
+.vercel/
+.DS_Store
+*.log
+*.pem
+*.key
+# Never commit generated/private customer reports or personal test exports
+*.pdf
+private/
+private-reports/
+generated-reports/
+artifacts/
+coverage/
+.tmp/
+tmp/
+*.private.json

@@ -1,0 +1,155 @@
+[
+  {
+    "id": "COM-CHANNEL",
+    "classification": "editorial_synthesis",
+    "inputs": [
+      "declaredChannel",
+      "nodeValues",
+      "domainReadings"
+    ],
+    "applicability": "Only channels.json entries, not arbitrary visually adjacent triples.",
+    "logic": "State the anchor/entry theme, then the supporting or balancing theme, then the channel-specific midpoint. All nodes retain their role. Avoid repeating a whole archetype profile.",
+    "sourceRefs": [
+      {
+        "sourceId": "A",
+        "pdfPages": [
+          89
+        ]
+      },
+      {
+        "sourceId": "A",
+        "pdfPages": [
+          93
+        ]
+      },
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          140,
+          141
+        ]
+      }
+    ],
+    "example": "A 3 entry suggests examining tangible care and resources; a 21 midpoint adds broad or cross-context work settings; an 18 bridge calls for clarifying assumptions between partnership and money.",
+    "exceptions": [
+      "This is original report composition. It does not certify a named traditional program."
+    ]
+  },
+  {
+    "id": "COM-REPEAT",
+    "classification": "editorial_synthesis",
+    "inputs": [
+      "primaryNodeIds",
+      "nodeValues"
+    ],
+    "applicability": "The nine primary nodes only: day, month, year, bottom, core, nw, ne, se, sw.",
+    "logic": "Group equal values across distinct nodes. Mention at most two recurring themes, with every contributing node listed. Interpret as structural recurrence; dependent sums are not independent evidence. Do not count channels, report occurrences, family_center or purposes as more primary observations.",
+    "sourceRefs": [],
+    "example": "The same 5 appears at bottom and ne. Learning appears both as a personal challenge theme and a maternal upper-branch theme. This does not show that your mother had that trait.",
+    "exceptions": [
+      "No power score, multiplier, probability or diagnosis."
+    ]
+  },
+  {
+    "id": "COM-CONTRAST",
+    "classification": "editorial_synthesis",
+    "inputs": [
+      "explicitContrastPairs",
+      "selectedNodeValues"
+    ],
+    "applicability": "Only the listed pairs in contrast_pairs.json and only within one section's declared nodes.",
+    "logic": "Present two useful preferences and a tradeoff; offer a conditional behavior example and a practical agreement. Never decide that one cancels the other. Use at most one contrast per section.",
+    "sourceRefs": [],
+    "example": "Structure (4) and exploration (22) can be negotiated through stable commitments and a bounded experiment.",
+    "exceptions": [
+      "No conflict score and no claim that a person actually experiences the tradeoff."
+    ]
+  },
+  {
+    "id": "COM-BALANCE",
+    "classification": "editorial_synthesis",
+    "inputs": [
+      "year_inner",
+      "money_center",
+      "bridge",
+      "bottom_inner",
+      "love_center"
+    ],
+    "applicability": "The shared relationship–money bridge.",
+    "logic": "Explain the bridge once as the place where resource and relationship commitments meet; link back to it in both sections.",
+    "sourceRefs": [
+      {
+        "sourceId": "A",
+        "pdfPages": [
+          89
+        ]
+      },
+      {
+        "sourceId": "A",
+        "pdfPages": [
+          99
+        ]
+      },
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          39,
+          40,
+          41,
+          42
+        ]
+      }
+    ],
+    "example": "If uncertainty is the bridge theme, distinguish the shared facts about time and money from expectations each person assumed.",
+    "exceptions": [
+      "No wealth forecast or meeting-place prediction."
+    ]
+  },
+  {
+    "id": "COM-TAIL-C",
+    "classification": "source_specific",
+    "inputs": [
+      "bottom",
+      "bottom_inner",
+      "bottom_mid"
+    ],
+    "applicability": "Exact ordered C key only.",
+    "logic": "Look up karmic_patterns.json by the three named roles in calculation order. If absent, use the bottom archetype as a general learning theme and explicitly state that no named pattern was matched.",
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          226
+        ]
+      }
+    ],
+    "example": "For 1991-12-09, 5-15-20 matches TAIL-C-5-15-20. Physical order 5-20-15 is different and is not a lookup key.",
+    "exceptions": [
+      "No sorting, reversing, or multiset matching. No literal accusation about a past life."
+    ]
+  },
+  {
+    "id": "COM-TALENT-WORK",
+    "classification": "editorial_synthesis",
+    "inputs": [
+      "month",
+      "month_inner",
+      "month_mid",
+      "money_center"
+    ],
+    "applicability": "Talents and work chapter.",
+    "logic": "Offer one practical work experiment joining a talent-related practice with the resource midpoint theme; display both underlying roles.",
+    "sourceRefs": [
+      {
+        "sourceId": "B",
+        "pdfPages": [
+          22
+        ]
+      }
+    ],
+    "example": "Expression through service (12) with a broad coordination theme (21) could be explored by making one useful guide for a specific new audience.",
+    "exceptions": [
+      "An exploration, not an assurance of income or professional fit."
+    ]
+  }
+]

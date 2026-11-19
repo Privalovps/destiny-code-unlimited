@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "C-CODE-3-17-14",
+    "valuesAsPrinted": [
+      3,
+      17,
+      14
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          141
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-3-18-15",
+    "valuesAsPrinted": [
+      3,
+      18,
+      15
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          142
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-4-19-15",
+    "valuesAsPrinted": [
+      4,
+      19,
+      15
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          144
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-5-7-20",
+    "valuesAsPrinted": [
+      5,
+      7,
+      20
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          146
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-5-17-12",
+    "valuesAsPrinted": [
+      5,
+      17,
+      12
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          148
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-5-19-14",
+    "valuesAsPrinted": [
+      5,
+      19,
+      14
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          149
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-6-7-17",
+    "valuesAsPrinted": [
+      6,
+      7,
+      17
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          150
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": false
+  },
+  {
+    "id": "C-CODE-6-22-16",
+    "valuesAsPrinted": [
+      6,
+      22,
+      16
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          151
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-7-8-17",
+    "valuesAsPrinted": [
+      7,
+      8,
+      17
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          153
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": false
+  },
+  {
+    "id": "C-CODE-7-21-14",
+    "valuesAsPrinted": [
+      7,
+      21,
+      14
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          154
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-9-13-4",
+    "valuesAsPrinted": [
+      9,
+      13,
+      4
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          155
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-9-14-5",
+    "valuesAsPrinted": [
+      9,
+      14,
+      5
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          156
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": true,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-9-6-15",
+    "valuesAsPrinted": [
+      9,
+      6,
+      15
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          157
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": true,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-9-16-7",
+    "valuesAsPrinted": [
+      9,
+      16,
+      7
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          159
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": true,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-9-17-8",
+    "valuesAsPrinted": [
+      9,
+      17,
+      8
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          160
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": true,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-9-19-10",
+    "valuesAsPrinted": [
+      9,
+      19,
+      10
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          161
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": true,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-9-20-11",
+    "valuesAsPrinted": [
+      9,
+      20,
+      11
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          162
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": true,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-9-22-13",
+    "valuesAsPrinted": [
+      9,
+      22,
+      13
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          163
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-10-5-22",
+    "valuesAsPrinted": [
+      10,
+      5,
+      22
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          164
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-10-8-16",
+    "valuesAsPrinted": [
+      10,
+      8,
+      16
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          166
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-10-11-19",
+    "valuesAsPrinted": [
+      10,
+      11,
+      19
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          167
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-10-15-5",
+    "valuesAsPrinted": [
+      10,
+      15,
+      5
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          168
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-11-3-19",
+    "valuesAsPrinted": [
+      11,
+      3,
+      19
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          169
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-11-6-22",
+    "valuesAsPrinted": [
+      11,
+      6,
+      22
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          171
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-11-9-16",
+    "valuesAsPrinted": [
+      11,
+      9,
+      16
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          172
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-11-16-5",
+    "valuesAsPrinted": [
+      11,
+      16,
+      5
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          173
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-12-11-17",
+    "valuesAsPrinted": [
+      12,
+      11,
+      17
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          174
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-13-16-3",
+    "valuesAsPrinted": [
+      13,
+      16,
+      3
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          175
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-13-18-5",
+    "valuesAsPrinted": [
+      13,
+      18,
+      5
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          176
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-13-19-6",
+    "valuesAsPrinted": [
+      13,
+      19,
+      6
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          178
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-13-20-7",
+    "valuesAsPrinted": [
+      13,
+      20,
+      7
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          179
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-13-21-8",
+    "valuesAsPrinted": [
+      13,
+      21,
+      8
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          181
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-14-22-8",
+    "valuesAsPrinted": [
+      14,
+      22,
+      8
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          182
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-15-21-6",
+    "valuesAsPrinted": [
+      15,
+      21,
+      6
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          183
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-15-22-7",
+    "valuesAsPrinted": [
+      15,
+      22,
+      7
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          184
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-16-5-7",
+    "valuesAsPrinted": [
+      16,
+      5,
+      7
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          185
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-16-8-6",
+    "valuesAsPrinted": [
+      16,
+      8,
+      6
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          187
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": true,
+    "matchesAnchorPlusMidEqualsInner": false
+  },
+  {
+    "id": "C-CODE-16-21-5",
+    "valuesAsPrinted": [
+      16,
+      21,
+      5
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          188
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-17-5-6",
+    "valuesAsPrinted": [
+      17,
+      5,
+      6
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          190
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-17-22-5",
+    "valuesAsPrinted": [
+      17,
+      22,
+      5
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          191
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-18-5-5",
+    "valuesAsPrinted": [
+      18,
+      5,
+      5
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          192
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": true,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-18-6-12",
+    "valuesAsPrinted": [
+      18,
+      6,
+      12
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          194
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": false
+  },
+  {
+    "id": "C-CODE-18-7-7",
+    "valuesAsPrinted": [
+      18,
+      7,
+      7
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          195
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": true,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-18-8-8",
+    "valuesAsPrinted": [
+      18,
+      8,
+      8
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          197
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": true,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-18-10-10",
+    "valuesAsPrinted": [
+      18,
+      10,
+      10
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          198
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": true,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-18-11-11",
+    "valuesAsPrinted": [
+      18,
+      11,
+      11
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          200
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": true,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-19-5-4",
+    "valuesAsPrinted": [
+      19,
+      5,
+      4
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          201
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-19-7-6",
+    "valuesAsPrinted": [
+      19,
+      7,
+      6
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          202
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-19-8-7",
+    "valuesAsPrinted": [
+      19,
+      8,
+      7
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          203
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-19-9-8",
+    "valuesAsPrinted": [
+      19,
+      9,
+      8
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          204
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-19-9-10",
+    "valuesAsPrinted": [
+      19,
+      9,
+      10
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          206
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": true,
+    "matchesAnchorPlusMidEqualsInner": false
+  },
+  {
+    "id": "C-CODE-20-3-10",
+    "valuesAsPrinted": [
+      20,
+      3,
+      10
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          207
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-20-5-3",
+    "valuesAsPrinted": [
+      20,
+      5,
+      3
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          209
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-20-9-7",
+    "valuesAsPrinted": [
+      20,
+      9,
+      7
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          211
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-20-4-11",
+    "valuesAsPrinted": [
+      20,
+      4,
+      11
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          212
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-21-5-11",
+    "valuesAsPrinted": [
+      21,
+      5,
+      11
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          213
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-21-8-5",
+    "valuesAsPrinted": [
+      21,
+      8,
+      5
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          214
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-21-9-6",
+    "valuesAsPrinted": [
+      21,
+      9,
+      6
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          216
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-22-3-8",
+    "valuesAsPrinted": [
+      22,
+      3,
+      8
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          217
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-22-22-8",
+    "valuesAsPrinted": [
+      22,
+      22,
+      8
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          218
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": true,
+    "matchesAnchorPlusMidEqualsInner": false
+  },
+  {
+    "id": "C-CODE-22-4-9",
+    "valuesAsPrinted": [
+      22,
+      4,
+      9
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          219
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-22-11-7",
+    "valuesAsPrinted": [
+      22,
+      11,
+      7
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          221
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": false,
+    "matchesAnchorPlusMidEqualsInner": true
+  },
+  {
+    "id": "C-CODE-22-17-12",
+    "valuesAsPrinted": [
+      22,
+      17,
+      12
+    ],
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          222
+        ]
+      }
+    ],
+    "automaticMatchingEnabled": false,
+    "reason": "Source provides prose but not an unambiguous universal detector over all chart triplets. Code reading order and eligibility need placement-specific review.",
+    "matchesAnchorPlusInnerEqualsMid": true,
+    "matchesAnchorPlusMidEqualsInner": false
+  }
+]

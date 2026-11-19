@@ -1,0 +1,24 @@
+{
+  "status": "passed",
+  "checks": [
+    "All JSON files parse",
+    "JSON schema: arcana",
+    "JSON schema: calculation_rules",
+    "JSON schema: combination_rules",
+    "JSON schema: karmic_patterns",
+    "JSON schema: positions",
+    "JSON schema: report_sections",
+    "JSON schema: test_cases",
+    "All source IDs and page ranges resolve",
+    "Formula DAG, positions, channels and section-rule references resolve",
+    "Every archetype covers every active domain",
+    "630 unique page records; extraction not mislabeled exhaustive semantic review",
+    "26 stable exact-tail pattern IDs",
+    "Sample model uses selected profile and38-value contract"
+  ],
+  "limitations": [
+    "No full line-by-line reading claim",
+    "No target repository integration",
+    "No actual PDF rendering or entitlement tests"
+  ]
+}

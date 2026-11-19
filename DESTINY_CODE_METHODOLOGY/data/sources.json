@@ -1,0 +1,46 @@
+[
+  {
+    "id": "A",
+    "file": "матрица судьбы 3(1).pdf",
+    "author": "Альбина Матрикс",
+    "title": "Матрица судьбы. От А до Я",
+    "publisher": "Автор",
+    "year": 2022,
+    "pages": 143,
+    "isbn": null,
+    "basis": "Image title and copyright, PDF pp. 2–3. Not three independent schools: this volume overlaps B and says it includes earlier parts.",
+    "extraction": "rus+eng Tesseract OCR from original embedded page image; layout shows three placements of the same scan.",
+    "sha256": "80c260eeffe79aeb20b8236903c90ebf985bc2a5ef6f4e19fcdb863d4cb08398",
+    "pagination": "References are 1-based PDF page numbers, including cover/title pages. Printed page numbers agree on inspected numbered pages; no blanket offset assumed."
+  },
+  {
+    "id": "B",
+    "file": "матрица судьбы 2(1).pdf",
+    "author": "Альбина Матрикс",
+    "title": "Матрица судьбы. Дополнительные ключи",
+    "publisher": "Автор",
+    "year": 2022,
+    "pages": 135,
+    "isbn": null,
+    "basis": "Image title and copyright, PDF pp. 1–3; cover calls this an updated part 2. No independently verified edition number.",
+    "extraction": "rus+eng Tesseract OCR from original embedded page image; layout shows three placements of the same scan.",
+    "sha256": "11fece9a2c0eab7667647f62441184fd718e6d5591529ca530318834f96fa215",
+    "pagination": "References are 1-based PDF page numbers, including cover/title pages. Printed page numbers agree on inspected numbered pages; no blanket offset assumed."
+  },
+  {
+    "id": "C",
+    "file": "матрица судьбы 4(1).pdf",
+    "author": "Мария Приемыхова",
+    "title": "Обучение методу «Матрица судьбы». Полное руководство: от построения матрицы до анализа кармических хвостов. Авторская трактовка",
+    "publisher": "Издательство АСТ, Москва",
+    "year": 2025,
+    "copyrightYear": 2024,
+    "series": "Путь гармонии",
+    "pages": 352,
+    "isbn": "978-5-17-168359-7",
+    "basis": "PDF pp. 2 and 352; print signed 31 January 2025. Metadata title 884871.indd is not the book title.",
+    "extraction": "Native text extraction with PyMuPDF; formula diagrams inspected separately.",
+    "sha256": "c52a9c8c5d98c202e9e5115ef06b95ccde83b0a0e8c71016d95628ce9b473208",
+    "pagination": "References are 1-based PDF page numbers, including cover/title pages. Printed page numbers agree on inspected numbered pages; no blanket offset assumed."
+  }
+]

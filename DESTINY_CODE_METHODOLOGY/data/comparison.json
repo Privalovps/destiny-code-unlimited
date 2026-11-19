@@ -1,0 +1,202 @@
+[
+  {
+    "subject": "Reduction",
+    "A": "A:11,14–17: digit sum above 22",
+    "B": "B:9–21 examples use the same operation",
+    "C": "C:8: same explicit threshold",
+    "classification": "A Shared",
+    "resolution": "Retain 1–22; repeat digit-sum only above 22."
+  },
+  {
+    "subject": "Numbering",
+    "A": "A:126 Justice 8;130 Strength 11",
+    "B": "B:113 Justice 8;115–116 Strength 11",
+    "C": "C:74 Justice 8;88 Strength 11",
+    "classification": "A Shared",
+    "resolution": "Use 8 Justice / 11 Strength / 22 Fool; never substitute a deck numbering silently."
+  },
+  {
+    "subject": "Personal center",
+    "A": "A:17 sum of four reduced cardinal values",
+    "B": "B assumes core 8 in worked chart",
+    "C": "C:14–15 same four-value sum",
+    "classification": "A Shared",
+    "resolution": "A and C explicitly establish the formula; B illustrates its use."
+  },
+  {
+    "subject": "Four outer ancestral corners",
+    "A": "A:18 sum adjacent cardinal values",
+    "B": "B assumes established corners",
+    "C": "C:17–18 same",
+    "classification": "A Shared",
+    "resolution": "Retain the same outer corners in both ancestry profiles."
+  },
+  {
+    "subject": "Cardinal inner/middle points",
+    "A": "A:22–25 outer+core, then outer+inner",
+    "B": "B:9–20 same",
+    "C": "C:21–22,28–32 same",
+    "classification": "A Shared",
+    "resolution": "Separate node location from reading order."
+  },
+  {
+    "subject": "Family aggregate",
+    "A": "Not used in inspected construction",
+    "B": "Not used in inspected construction",
+    "C": "C:20–21 sum of four corners",
+    "classification": "B Source-specific",
+    "resolution": "A separate C value; do not replace the personal center."
+  },
+  {
+    "subject": "Ancestral inner points",
+    "A": "A:26 corner+personal center",
+    "B": "B:21 corner+personal center",
+    "C": "C:33–37 corner+family aggregate",
+    "classification": "C Conflicting",
+    "resolution": "Choose complete C branch convention; preserve A/B as a separate comparison profile. Review before production migration."
+  },
+  {
+    "subject": "Earth/Sky purposes",
+    "A": "A:21,33 explicit endpoints and reduced aggregates",
+    "B": "B:6 references purposes; no independent procedure in chapter 1",
+    "C": "C:23–27 explicit same procedure",
+    "classification": "A Shared",
+    "resolution": "Use the named intermediate aggregates, not a flattened sum."
+  },
+  {
+    "subject": "Planetary purpose",
+    "A": "Not part of inspected procedure",
+    "B": "B:6 names a fourth purpose",
+    "C": "No reproducible formula in construction",
+    "classification": "E Unsupported",
+    "resolution": "Do not calculate a planetary-purpose number."
+  },
+  {
+    "subject": "Money / love midpoint",
+    "A": "A:24,89,93 entry+connector",
+    "B": "B:17–18 same numeric roles",
+    "C": "C:39–42 same",
+    "classification": "A Shared",
+    "resolution": "Use formula identity; B icons can mislead."
+  },
+  {
+    "subject": "Heart-desire points",
+    "A": "No explicit formula located",
+    "B": "No explicit formula located",
+    "C": "C:38–39 center+left/top inner",
+    "classification": "B Source-specific",
+    "resolution": "Include as C extensions, explicitly symbolic."
+  },
+  {
+    "subject": "Talent subroles",
+    "A": "A:23 physical order spiritual/intellect/expression",
+    "B": "B:12 similar; B:22 offers a different role wording",
+    "C": "C:28–29 inner expression; middle skill",
+    "classification": "C Conflicting",
+    "resolution": "Select C role vocabulary for baseline. Do not claim all three agree on detailed labels."
+  },
+  {
+    "subject": "Parent-channel subroles",
+    "A": "A:44 physical order day/task/errors",
+    "B": "B:27–41 distinct role chapters",
+    "C": "C:31–32 broader overview",
+    "classification": "B Source-specific",
+    "resolution": "Keep A/B exact subrole mapping in research; baseline uses C overview and explicitly editorial composition."
+  },
+  {
+    "subject": "Karmic-tail lookup order",
+    "A": "A:22 example bottom/middle/inner; catalog often reverse orientation",
+    "B": "B:10 same example; catalog not a universal ordering specification",
+    "C": "C:226 explicitly bottom/inner/middle",
+    "classification": "C Conflicting",
+    "resolution": "Match C exact calculation-order keys; never sort or borrow a label by multiset."
+  },
+  {
+    "subject": "9/9/18 variants",
+    "A": "A:69 groups three variants",
+    "B": "B:51 groups variants",
+    "C": "C:332,336,341 treats three separately",
+    "classification": "C Conflicting",
+    "resolution": "Retain three separate C keys and separate English reflections."
+  },
+  {
+    "subject": "Generic named programs",
+    "A": "Topic-specific rules and tail catalog",
+    "B": "Topic-specific rules and tail catalog",
+    "C": "C:139–223 separate catalog",
+    "classification": "B Source-specific",
+    "resolution": "Catalogue evidence; detector stays disabled pending placement and orientation resolution."
+  },
+  {
+    "subject": "Center proximity / hierarchy",
+    "A": "A:28 emphasizes center; A:68 starts with tail",
+    "B": "B has no validated numeric weight",
+    "C": "C:140 says central programs stronger",
+    "classification": "D Editorial synthesis",
+    "resolution": "Use reader-friendly priority and disclosed recurrence scope; no invented numeric strength weights."
+  },
+  {
+    "subject": "Repeated archetypes",
+    "A": "Repeated values occur in examples",
+    "B": "Repeated values occur in examples",
+    "C": "Repeated values occur in examples",
+    "classification": "D Editorial synthesis",
+    "resolution": "Explain recurrence across distinct primary positions, without a multiplier or probability."
+  },
+  {
+    "subject": "Two-number interactions",
+    "A": "No exhaustive pairwise algorithm located",
+    "B": "No exhaustive pairwise algorithm located",
+    "C": "Root-first triples and programs, not a complete pair table",
+    "classification": "D Editorial synthesis",
+    "resolution": "Only disclosed composition rules and a small explicit contrast list; no universal pair predictions."
+  },
+  {
+    "subject": "Constructive/shadow state",
+    "A": "A:11 and29 give qualitative framing",
+    "B": "B:89 acknowledges present state unknown",
+    "C": "C:21,225 assigns source-level starting shadow to tail",
+    "classification": "D Editorial synthesis",
+    "resolution": "Do not diagnose current state; present constructive and shadow possibilities together."
+  },
+  {
+    "subject": "Age emphasis",
+    "A": "A:30 discusses20–40/40–60 and lifelong spiritual value",
+    "B": "B:6 similar",
+    "C": "C:24–27 similar",
+    "classification": "A Shared",
+    "resolution": "Explain source framing as emphasis, never a deadline, punishment or predicted crisis."
+  },
+  {
+    "subject": "Varna annex",
+    "A": "A:111 digit-root,40/10/10/40,birth-time exception",
+    "B": "B:95–103 separate caste chapter",
+    "C": "Not in C construction",
+    "classification": "B Source-specific",
+    "resolution": "Keep out of this matrix engine; record the separate domain and exception."
+  },
+  {
+    "subject": "Health and causal outcomes",
+    "A": "Source makes causal claims",
+    "B": "Source makes causal claims",
+    "C": "Source makes causal claims",
+    "classification": "E Unsupported as factual outputs",
+    "resolution": "No empirically supported diagnosis, financial guarantee, or factual past-life reconstruction follows from these materials."
+  },
+  {
+    "subject": "Compatibility statistics",
+    "A": "No verified predictive dataset located",
+    "B": "No verified predictive dataset located",
+    "C": "C:41 states60%",
+    "classification": "E Unsupported as probability",
+    "resolution": "No numeric compatibility score or claim of predicted success."
+  },
+  {
+    "subject": "English gender-neutral practical examples",
+    "A": "Not supplied",
+    "B": "Not supplied",
+    "C": "Not supplied",
+    "classification": "D Editorial synthesis",
+    "resolution": "Original editorial layer. Do not represent inclusive adaptations as literal source translations."
+  }
+]

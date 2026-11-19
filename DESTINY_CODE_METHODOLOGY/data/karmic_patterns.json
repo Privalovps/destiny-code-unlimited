@@ -1,0 +1,953 @@
+[
+  {
+    "id": "TAIL-C-6-18-6",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        6,
+        18,
+        6
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Connection and uncertainty",
+    "symbolicReading": "Notice when longing for closeness turns ambiguity into a story about rejection.",
+    "practice": "Ask for a clear answer before seeking another reassurance.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-5-15-20",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        5,
+        15,
+        20
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Knowledge, influence, and belonging",
+    "symbolicReading": "Consider whether teaching becomes a way to control approval or defend a family expectation.",
+    "practice": "Share what you know while allowing a listener to disagree.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            232,
+            233,
+            234,
+            235,
+            236,
+            237
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-8-15-5",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        8,
+        15,
+        5
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Fairness and influence",
+    "symbolicReading": "Examine whether a principle is being used to justify pressure or an unequal bargain.",
+    "practice": "State the agreement and apply its standard to your own actions too.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-12-18-3",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        12,
+        18,
+        3
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Care with clear boundaries",
+    "symbolicReading": "Separate a helpful contribution from an imagined duty to make everyone comfortable.",
+    "practice": "Ask what help is wanted and name what you can freely offer.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            243,
+            244,
+            245,
+            246,
+            247
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-6-9-15",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        6,
+        9,
+        15
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Closeness and private intensity",
+    "symbolicReading": "Notice whether a compelling inner story prevents direct contact with another person.",
+    "practice": "Compare your interpretation with an actual conversation.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            247,
+            248,
+            249,
+            250,
+            251,
+            252
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-11-6-17",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        11,
+        6,
+        17
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Effort and visible expression",
+    "symbolicReading": "Explore the tension between disciplined practice and wanting a talent to earn approval immediately.",
+    "practice": "Show a small finished piece without making its reception a verdict on your worth.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            252,
+            253,
+            254,
+            255,
+            256,
+            257
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-7-12-19",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        7,
+        12,
+        19
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Direction without overcontrol",
+    "symbolicReading": "Consider how a drive to lead can become overhelping or a need to own the group result.",
+    "practice": "Agree on the destination and give others authority over their contribution.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            257,
+            258,
+            259,
+            260
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-3-9-12",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        3,
+        9,
+        12
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Care and independent space",
+    "symbolicReading": "Look at whether caring for someone leaves room for separate interests and solitude.",
+    "practice": "Give support without making availability unlimited.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            260,
+            261,
+            262,
+            263,
+            264
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-19-3-22",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        19,
+        3,
+        22
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Visibility with responsibility",
+    "symbolicReading": "Explore how enthusiasm and generosity can coexist with keeping practical commitments.",
+    "practice": "Before expanding an idea, name who will deliver each promise.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            264,
+            265,
+            266,
+            267,
+            268,
+            269
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-10-21-4",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        10,
+        21,
+        4
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Opportunity and a workable framework",
+    "symbolicReading": "Notice whether broad possibilities lead to a stable contribution or repeated changes of direction.",
+    "practice": "Choose one opening and define its practical responsibilities.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            269,
+            270,
+            271,
+            272,
+            273
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-4-12-16",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        4,
+        12,
+        16
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Authority and reconsideration",
+    "symbolicReading": "Question a rule that makes help conditional on obedience.",
+    "practice": "Revise one agreement with the people affected by it.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            273,
+            274,
+            275,
+            276,
+            277
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-16-21-10",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        16,
+        21,
+        10
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Rebuilding and adaptation",
+    "symbolicReading": "Consider whether changing an assumption opens a useful route or merely creates another restart.",
+    "practice": "Preserve a stable commitment while testing a different method.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            277,
+            278,
+            279,
+            280,
+            281
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-20-6-8",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        20,
+        6,
+        8
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Belonging and reciprocal agreements",
+    "symbolicReading": "Explore the boundary between loyalty and a relationship that depends on pleasing everyone.",
+    "practice": "Name a family expectation and decide whether you personally agree to it.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-22-3-7",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        22,
+        3,
+        7
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Freedom and follow-through",
+    "symbolicReading": "Look at how a wish for freedom interacts with care and a chosen direction.",
+    "practice": "Design an experiment whose practical cost you can carry yourself.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            287,
+            288,
+            289,
+            290,
+            291,
+            292
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-21-9-3",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        21,
+        9,
+        3
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Breadth without domination",
+    "symbolicReading": "Consider whether a broad perspective leaves room for the local knowledge and needs of others.",
+    "practice": "Ask the people receiving your idea how it would work for them.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            292,
+            293,
+            294,
+            295
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-17-6-5",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        17,
+        6,
+        5
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Expression without approval dependence",
+    "symbolicReading": "Notice whether sharing your craft becomes an attempt to earn permission or prove a doctrine.",
+    "practice": "Explain your work clearly and allow different responses.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            295,
+            296,
+            297,
+            298,
+            299
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-13-21-7",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        13,
+        21,
+        7
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Transition with direction",
+    "symbolicReading": "Explore whether a decisive ending serves a real destination or substitutes movement for clarity.",
+    "practice": "Define what will continue before removing an old commitment.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            299,
+            300,
+            301,
+            302,
+            303,
+            304
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-11-15-8",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        11,
+        15,
+        8
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Power and accountable restraint",
+    "symbolicReading": "Examine how determination and incentives can create pressure in an agreement.",
+    "practice": "Make it possible for the other person to refuse without penalty.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            304,
+            305,
+            306,
+            307,
+            308
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-15-18-6",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        15,
+        18,
+        6
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Intensity with clarity",
+    "symbolicReading": "Notice when attraction and imagination make an uncertain connection seem inevitable.",
+    "practice": "Discuss consent, expectations, and facts before deepening a commitment.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            308,
+            309,
+            310,
+            311,
+            312,
+            313
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-14-6-20",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        14,
+        6,
+        20
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Connection across different expectations",
+    "symbolicReading": "Consider whether keeping family peace requires you to conceal an important preference.",
+    "practice": "Express one difference respectfully without asking for everyone's approval.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            313,
+            314,
+            315,
+            316,
+            317,
+            318
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-7-21-10",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        7,
+        21,
+        10
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Direction with openness",
+    "symbolicReading": "Explore whether certainty about a goal leaves room for other people's beliefs and ways of working.",
+    "practice": "Invite a useful alternative before deciding the route.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            318,
+            319,
+            320,
+            321,
+            322
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-10-3-13",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        10,
+        3,
+        13
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Agency during transition",
+    "symbolicReading": "Consider which small choices remain available when a familiar arrangement no longer works.",
+    "practice": "Choose one practical next action and ask for support where needed.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            322,
+            323,
+            324,
+            325,
+            326,
+            327
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-8-6-14",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        8,
+        6,
+        14
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Fairness without control",
+    "symbolicReading": "Notice whether a wish for an orderly relationship makes compromise feel like a loss of authority.",
+    "practice": "Agree on a boundary that applies to both people.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            327,
+            328,
+            329,
+            330,
+            331,
+            332
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-18-9-9",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        18,
+        9,
+        9
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Imagination brought into conversation",
+    "symbolicReading": "Explore whether private knowledge remains hidden because uncertain reactions feel threatening.",
+    "practice": "Share a limited, concrete insight with someone who can respond thoughtfully.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            332,
+            333,
+            334,
+            335,
+            336
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-9-9-18",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        9,
+        9,
+        18
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Reflection checked against reality",
+    "symbolicReading": "Notice when thinking more deeply becomes another way to delay checking an assumption.",
+    "practice": "Set a point at which you will ask a question or test your interpretation.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            336,
+            337,
+            338,
+            339,
+            340,
+            341
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  },
+  {
+    "id": "TAIL-C-9-18-9",
+    "match": {
+      "channelId": "karmic_tail",
+      "orderedValues": [
+        9,
+        18,
+        9
+      ],
+      "nodeOrder": [
+        "bottom",
+        "bottom_inner",
+        "bottom_mid"
+      ]
+    },
+    "title": "Solitude with a bridge outward",
+    "symbolicReading": "Consider whether a rich private world leaves enough space for reciprocal contact.",
+    "practice": "Keep a period of solitude and arrange one intentional conversation.",
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            341,
+            342,
+            343,
+            344,
+            345
+          ]
+        }
+      ],
+      "editorialNote": "Neutral original titles and present-life reflection replace literal source stories. The numerical key is source-specific. No permutation matching."
+    },
+    "literalSourceLabelIncluded": false
+  }
+]

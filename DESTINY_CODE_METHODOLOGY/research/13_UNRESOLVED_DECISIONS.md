@@ -1,0 +1,18 @@
+# Decisions and limitations
+
+The selected profile is a concrete research recommendation. This package neither changes an application nor authorizes a silent recalculation of existing paid reports.
+
+| ID | Issue | Status | Recommended handling | Impact |
+|---|---|---|---|---|
+| DEC-ANCESTRY | Which numerical ancestry convention should a release adopt? | recommended_not_production_approved | C-family-center-v1 as one complete construction system. | Eight ancestral inner/middle values and related prose differ; common cardinal points and purpose endpoints are unchanged. |
+| DEC-TALENT-ROLES | Detailed top-arm role labels differ. | resolved_for_proposal | C inner=self-expression; middle=skills. Retain A/B alternate subrole terminology only in comparative research. | Meaning changes without a number changing. |
+| DEC-TAIL-ORDER | Physical order and catalog conventions differ. | resolved_for_C_proposal | Exact calculation-order C keys; do not translate A/B labels by a tuple multiset. | Named pattern identity and reading. |
+| DEC-GENERIC-PROGRAMS | No sufficiently explicit universal eligible-triplet detector and orientation mapping. | blocked | Keep source_code_catalog.json as research evidence with every automatic matcher disabled. | Generic named code narratives remain excluded; exact C-tail keys are a separate supported catalog. |
+| DEC-PLANETARY | A fourth purpose is mentioned without a verified construction rule. | excluded_unsupported | Do not invent a planetary-purpose value. | No such output exists in the 38-value baseline. |
+| DEC-COVERAGE | All pages processed, but exhaustive semantic review of all prose was not completed. | open | Treat source extraction, targeted methodological verification and original editorial synthesis as separate achievements. Review indexed-only passages before claiming a comprehensive book-by-book critical edition. | Do not market this package as an exhaustive reconstruction of all narrative programs in all 630 pages. |
+| DEC-EDITORIAL | Source text contains literal causal, gendered and historical assertions. | resolved_for_proposal | Use original neutral symbolic reflections with both constructive/shadow possibilities, not factual diagnoses or past-life stories. | An explicit original editorial framework, not a faithful translation or official school. |
+| DEC-REPOSITORY | Current code and saved-report schema were not supplied. | implementation_discovery_required | Inspect ~/Desktop/Isoteric before choosing actual paths, migrations or active-version switch. | No verified old/new code diff or completed integration test is claimed. |
+| DEC-SAMPLE | Actual existing public sample date is unknown. | recommended_not_production_approved | Use source-verified1991-12-09 or retain the current sample date with shared-engine fixtures. | All sample surfaces and downloads must be regenerated together. |
+| DEC-RIGHTS | Original prose does not grant a license to redistribute source books, illustrations or distinctive course material. | limited_scope | Package original English prose, general symbolic concepts and bibliographic/page attribution only. Do not redistribute scans or OCR chapters. | No representation of legal clearance, official affiliation or exclusive ownership of a traditional number system. |
+
+An open item does not authorize an implementation agent to invent a rule. The numerical baseline and original English library can be implemented as a reviewable versioned candidate while blocked modules remain disabled. A production calculation change must respect the existing approval and release process. No further confirmation is needed to read and evaluate this package.

@@ -1,0 +1,840 @@
+[
+  {
+    "id": "day_triad",
+    "name": "Parent–child reflection",
+    "physicalOrder": [
+      "day",
+      "day_mid",
+      "day_inner"
+    ],
+    "interpretationOrder": [
+      "day",
+      "day_inner",
+      "day_mid"
+    ],
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            25
+          ]
+        },
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            43,
+            44
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            31,
+            32
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "month_triad",
+    "name": "Talents and expression",
+    "physicalOrder": [
+      "month",
+      "month_mid",
+      "month_inner"
+    ],
+    "interpretationOrder": [
+      "month",
+      "month_inner",
+      "month_mid"
+    ],
+    "provenance": {
+      "classification": "conflicting",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            23
+          ]
+        },
+        {
+          "sourceId": "B",
+          "pdfPages": [
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            28,
+            29
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "year_triad",
+    "name": "Material patterns",
+    "physicalOrder": [
+      "year",
+      "year_mid",
+      "year_inner"
+    ],
+    "interpretationOrder": [
+      "year",
+      "year_inner",
+      "year_mid"
+    ],
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "B",
+          "pdfPages": [
+            19
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            29,
+            30
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "bottom_triad",
+    "name": "Karmic learning pattern",
+    "physicalOrder": [
+      "bottom",
+      "bottom_mid",
+      "bottom_inner"
+    ],
+    "interpretationOrder": [
+      "bottom",
+      "bottom_inner",
+      "bottom_mid"
+    ],
+    "provenance": {
+      "classification": "conflicting",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            22
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            21,
+            22
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            226
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "nw_triad",
+    "name": "NW lineage triad",
+    "physicalOrder": [
+      "nw",
+      "nw_mid",
+      "nw_inner"
+    ],
+    "interpretationOrder": [
+      "nw",
+      "nw_inner",
+      "nw_mid"
+    ],
+    "provenance": {
+      "classification": "conflicting",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "ne_triad",
+    "name": "NE lineage triad",
+    "physicalOrder": [
+      "ne",
+      "ne_mid",
+      "ne_inner"
+    ],
+    "interpretationOrder": [
+      "ne",
+      "ne_inner",
+      "ne_mid"
+    ],
+    "provenance": {
+      "classification": "conflicting",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "se_triad",
+    "name": "SE lineage triad",
+    "physicalOrder": [
+      "se",
+      "se_mid",
+      "se_inner"
+    ],
+    "interpretationOrder": [
+      "se",
+      "se_inner",
+      "se_mid"
+    ],
+    "provenance": {
+      "classification": "conflicting",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "sw_triad",
+    "name": "SW lineage triad",
+    "physicalOrder": [
+      "sw",
+      "sw_mid",
+      "sw_inner"
+    ],
+    "interpretationOrder": [
+      "sw",
+      "sw_inner",
+      "sw_mid"
+    ],
+    "provenance": {
+      "classification": "conflicting",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "money",
+    "name": "Money and work",
+    "physicalOrder": [
+      "year_inner",
+      "money_center",
+      "bridge"
+    ],
+    "interpretationOrder": [
+      "year_inner",
+      "money_center",
+      "bridge"
+    ],
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            24
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            39,
+            40
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "relationships",
+    "name": "Partnership",
+    "physicalOrder": [
+      "bottom_inner",
+      "love_center",
+      "bridge"
+    ],
+    "interpretationOrder": [
+      "bottom_inner",
+      "love_center",
+      "bridge"
+    ],
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            24
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            41,
+            42
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {
+      "bottom_inner": "relationship"
+    }
+  },
+  {
+    "id": "wellbeing",
+    "name": "Relationship–money line",
+    "physicalOrder": [
+      "bottom_inner",
+      "love_center",
+      "bridge",
+      "money_center",
+      "year_inner"
+    ],
+    "interpretationOrder": [
+      "bottom_inner",
+      "love_center",
+      "bridge",
+      "money_center",
+      "year_inner"
+    ],
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            39,
+            40,
+            41,
+            42
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "paternal_axis",
+    "name": "Paternal axis",
+    "physicalOrder": [
+      "nw",
+      "core",
+      "se"
+    ],
+    "interpretationOrder": [
+      "nw",
+      "se"
+    ],
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            21
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            17,
+            18,
+            19
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "maternal_axis",
+    "name": "Maternal axis",
+    "physicalOrder": [
+      "ne",
+      "core",
+      "sw"
+    ],
+    "interpretationOrder": [
+      "ne",
+      "sw"
+    ],
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            21
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            18,
+            19,
+            20
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "earth_axis",
+    "name": "Earth axis",
+    "physicalOrder": [
+      "day",
+      "day_mid",
+      "day_inner",
+      "heart_earth",
+      "core",
+      "year_inner",
+      "year_mid",
+      "year"
+    ],
+    "interpretationOrder": [
+      "day",
+      "year"
+    ],
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            23
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            38,
+            39
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "sky_axis",
+    "name": "Sky axis",
+    "physicalOrder": [
+      "month",
+      "month_mid",
+      "month_inner",
+      "heart_sky",
+      "core",
+      "bottom_inner",
+      "bottom_mid",
+      "bottom"
+    ],
+    "interpretationOrder": [
+      "month",
+      "bottom"
+    ],
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            23
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            38,
+            39
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "karmic_tail",
+    "name": "Karmic learning triad",
+    "physicalOrder": [
+      "bottom",
+      "bottom_mid",
+      "bottom_inner"
+    ],
+    "interpretationOrder": [
+      "bottom",
+      "bottom_inner",
+      "bottom_mid"
+    ],
+    "provenance": {
+      "classification": "source_specific",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            21,
+            22
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            226
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "nw_family",
+    "name": "Family branch nw",
+    "physicalOrder": [
+      "nw",
+      "nw_mid",
+      "nw_inner"
+    ],
+    "interpretationOrder": [
+      "nw",
+      "nw_inner",
+      "nw_mid"
+    ],
+    "provenance": {
+      "classification": "source_specific",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "ne_family",
+    "name": "Family branch ne",
+    "physicalOrder": [
+      "ne",
+      "ne_mid",
+      "ne_inner"
+    ],
+    "interpretationOrder": [
+      "ne",
+      "ne_inner",
+      "ne_mid"
+    ],
+    "provenance": {
+      "classification": "source_specific",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "se_family",
+    "name": "Family branch se",
+    "physicalOrder": [
+      "se",
+      "se_mid",
+      "se_inner"
+    ],
+    "interpretationOrder": [
+      "se",
+      "se_inner",
+      "se_mid"
+    ],
+    "provenance": {
+      "classification": "source_specific",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "sw_family",
+    "name": "Family branch sw",
+    "physicalOrder": [
+      "sw",
+      "sw_mid",
+      "sw_inner"
+    ],
+    "interpretationOrder": [
+      "sw",
+      "sw_inner",
+      "sw_mid"
+    ],
+    "provenance": {
+      "classification": "source_specific",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "money",
+    "name": "Money channel",
+    "physicalOrder": [
+      "year_inner",
+      "money_center",
+      "bridge"
+    ],
+    "interpretationOrder": [
+      "year_inner",
+      "bridge",
+      "money_center"
+    ],
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            93
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            39,
+            40
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "relationships",
+    "name": "Relationship channel",
+    "physicalOrder": [
+      "bottom_inner",
+      "love_center",
+      "bridge"
+    ],
+    "interpretationOrder": [
+      "bottom_inner",
+      "bridge",
+      "love_center"
+    ],
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            89
+          ]
+        },
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            41,
+            42
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {
+      "bottom_inner": "relationship"
+    }
+  },
+  {
+    "id": "earth_axis",
+    "name": "Earth axis",
+    "physicalOrder": [
+      "day",
+      "core",
+      "year"
+    ],
+    "interpretationOrder": [
+      "day",
+      "year",
+      "earth"
+    ],
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            23,
+            24
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  },
+  {
+    "id": "sky_axis",
+    "name": "Sky axis",
+    "physicalOrder": [
+      "month",
+      "core",
+      "bottom"
+    ],
+    "interpretationOrder": [
+      "month",
+      "bottom",
+      "sky"
+    ],
+    "provenance": {
+      "classification": "shared",
+      "sourceRefs": [
+        {
+          "sourceId": "C",
+          "pdfPages": [
+            23,
+            24
+          ]
+        }
+      ],
+      "editorialNote": ""
+    },
+    "repetitionRule": "Count distinct node IDs, not repeated appearances of the same node in several channels. No multiplier or intensity score.",
+    "contextualDomainOverrides": {}
+  }
+]

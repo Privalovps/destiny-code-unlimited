@@ -1,0 +1,111 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "minItems": 38,
+  "maxItems": 38,
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "displayName",
+      "formulaId",
+      "domain",
+      "diagramCoordinates",
+      "role",
+      "provenance"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "minLength": 1
+      },
+      "formulaId": {
+        "type": "string",
+        "minLength": 1
+      },
+      "domain": {
+        "enum": [
+          "balance",
+          "core",
+          "desire",
+          "family",
+          "growth",
+          "money",
+          "portrait",
+          "purpose",
+          "relationship",
+          "talent"
+        ]
+      },
+      "diagramCoordinates": {
+        "oneOf": [
+          {
+            "type": "null"
+          },
+          {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "items": {
+              "type": "number",
+              "minimum": -1,
+              "maximum": 1
+            }
+          }
+        ]
+      },
+      "provenance": {
+        "type": "object",
+        "required": [
+          "classification",
+          "sourceRefs",
+          "editorialNote"
+        ],
+        "properties": {
+          "classification": {
+            "enum": [
+              "shared",
+              "source_specific",
+              "conflicting",
+              "editorial_synthesis",
+              "unsupported"
+            ]
+          },
+          "sourceRefs": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "sourceId",
+                "pdfPages"
+              ],
+              "properties": {
+                "sourceId": {
+                  "enum": [
+                    "A",
+                    "B",
+                    "C"
+                  ]
+                },
+                "pdfPages": {
+                  "type": "array",
+                  "minItems": 1,
+                  "items": {
+                    "type": "integer",
+                    "minimum": 1,
+                    "maximum": 352
+                  }
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "editorialNote": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "orientation",
+    "order": 1,
+    "title": "How to read this matrix",
+    "positionIds": [],
+    "combinationRuleIds": [],
+    "purpose": "Explain the symbolic framework, constructive/shadow alternatives, selected profile, and limits. Show the full numerical diagram and the difference between nodes and aggregates.",
+    "access": "paid",
+    "beginnerLayer": "Explain the role and its calculated archetype in ordinary English; use conditional examples, not a biography.",
+    "advancedLayer": "Show the same node IDs, actual values, formula IDs, source references and editorial rule IDs.",
+    "forbiddenInferences": [
+      "Unobserved personal history",
+      "Current shadow/constructive diagnosis",
+      "Future health, wealth, partner, or crisis outcome"
+    ],
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [],
+      "editorialNote": "Report organization is a product decision made after methodology research."
+    }
+  },
+  {
+    "id": "core",
+    "order": 2,
+    "title": "Core patterns and outward expression",
+    "positionIds": [
+      "core",
+      "day"
+    ],
+    "combinationRuleIds": [
+      "COM-CONTRAST",
+      "COM-REPEAT"
+    ],
+    "purpose": "Distinguish the organizing center from the day portrait. Give one concrete contrast if an explicit pair applies.",
+    "access": "paid",
+    "beginnerLayer": "Explain the role and its calculated archetype in ordinary English; use conditional examples, not a biography.",
+    "advancedLayer": "Show the same node IDs, actual values, formula IDs, source references and editorial rule IDs.",
+    "forbiddenInferences": [
+      "Unobserved personal history",
+      "Current shadow/constructive diagnosis",
+      "Future health, wealth, partner, or crisis outcome"
+    ],
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [],
+      "editorialNote": "Report organization is a product decision made after methodology research."
+    }
+  },
+  {
+    "id": "talents",
+    "order": 3,
+    "title": "Talents, skills, and expression",
+    "positionIds": [
+      "month",
+      "month_inner",
+      "month_mid",
+      "money_center"
+    ],
+    "combinationRuleIds": [
+      "COM-CHANNEL",
+      "COM-TALENT-WORK"
+    ],
+    "purpose": "Read top anchor, expression, and skill roles separately; connect one practice to a work experiment without promising suitability or income.",
+    "access": "paid",
+    "beginnerLayer": "Explain the role and its calculated archetype in ordinary English; use conditional examples, not a biography.",
+    "advancedLayer": "Show the same node IDs, actual values, formula IDs, source references and editorial rule IDs.",
+    "forbiddenInferences": [
+      "Unobserved personal history",
+      "Current shadow/constructive diagnosis",
+      "Future health, wealth, partner, or crisis outcome"
+    ],
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [],
+      "editorialNote": "Report organization is a product decision made after methodology research."
+    }
+  },
+  {
+    "id": "relationships",
+    "order": 4,
+    "title": "Love and reciprocal partnership",
+    "positionIds": [
+      "bottom_inner",
+      "love_center",
+      "bridge"
+    ],
+    "combinationRuleIds": [
+      "COM-CHANNEL",
+      "COM-BALANCE"
+    ],
+    "purpose": "Describe entry practice, valued partnership qualities and a resource/relationship negotiation. Do not identify a future partner.",
+    "access": "paid",
+    "beginnerLayer": "Explain the role and its calculated archetype in ordinary English; use conditional examples, not a biography.",
+    "advancedLayer": "Show the same node IDs, actual values, formula IDs, source references and editorial rule IDs.",
+    "forbiddenInferences": [
+      "Unobserved personal history",
+      "Current shadow/constructive diagnosis",
+      "Future health, wealth, partner, or crisis outcome"
+    ],
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [],
+      "editorialNote": "Report organization is a product decision made after methodology research."
+    }
+  },
+  {
+    "id": "resources",
+    "order": 5,
+    "title": "Money, work, and material habits",
+    "positionIds": [
+      "year",
+      "year_inner",
+      "year_mid",
+      "money_center",
+      "bridge"
+    ],
+    "combinationRuleIds": [
+      "COM-CHANNEL",
+      "COM-BALANCE"
+    ],
+    "purpose": "Distinguish the right material triad from the current money channel. Career settings are examples for exploration, not forecasts.",
+    "access": "paid",
+    "beginnerLayer": "Explain the role and its calculated archetype in ordinary English; use conditional examples, not a biography.",
+    "advancedLayer": "Show the same node IDs, actual values, formula IDs, source references and editorial rule IDs.",
+    "forbiddenInferences": [
+      "Unobserved personal history",
+      "Current shadow/constructive diagnosis",
+      "Future health, wealth, partner, or crisis outcome"
+    ],
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [],
+      "editorialNote": "Report organization is a product decision made after methodology research."
+    }
+  },
+  {
+    "id": "parenting",
+    "order": 6,
+    "title": "Parents, children, and daily family patterns",
+    "positionIds": [
+      "day",
+      "day_inner",
+      "day_mid",
+      "heart_earth"
+    ],
+    "combinationRuleIds": [
+      "COM-CHANNEL"
+    ],
+    "purpose": "Use the left arm as a reflective family theme. Do not infer the customer has children or an abusive history.",
+    "access": "paid",
+    "beginnerLayer": "Explain the role and its calculated archetype in ordinary English; use conditional examples, not a biography.",
+    "advancedLayer": "Show the same node IDs, actual values, formula IDs, source references and editorial rule IDs.",
+    "forbiddenInferences": [
+      "Unobserved personal history",
+      "Current shadow/constructive diagnosis",
+      "Future health, wealth, partner, or crisis outcome"
+    ],
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [],
+      "editorialNote": "Report organization is a product decision made after methodology research."
+    }
+  },
+  {
+    "id": "ancestry",
+    "order": 7,
+    "title": "Family branches and inherited stories",
+    "positionIds": [
+      "family_center",
+      "nw",
+      "nw_inner",
+      "nw_mid",
+      "ne",
+      "ne_inner",
+      "ne_mid",
+      "se",
+      "se_inner",
+      "se_mid",
+      "sw",
+      "sw_inner",
+      "sw_mid"
+    ],
+    "combinationRuleIds": [
+      "COM-CHANNEL"
+    ],
+    "purpose": "Keep four branches separate and show which center generated them. Symbols do not prove events or traits in relatives.",
+    "access": "paid",
+    "beginnerLayer": "Explain the role and its calculated archetype in ordinary English; use conditional examples, not a biography.",
+    "advancedLayer": "Show the same node IDs, actual values, formula IDs, source references and editorial rule IDs.",
+    "forbiddenInferences": [
+      "Unobserved personal history",
+      "Current shadow/constructive diagnosis",
+      "Future health, wealth, partner, or crisis outcome"
+    ],
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [],
+      "editorialNote": "Report organization is a product decision made after methodology research."
+    }
+  },
+  {
+    "id": "learning",
+    "order": 8,
+    "title": "Recurring lessons and the ordered tail",
+    "positionIds": [
+      "bottom",
+      "bottom_inner",
+      "bottom_mid"
+    ],
+    "combinationRuleIds": [
+      "COM-TAIL-C"
+    ],
+    "purpose": "Show the exact tuple, source convention and named-key status; provide neutral present-life reflection, not a literal past-life story.",
+    "access": "paid",
+    "beginnerLayer": "Explain the role and its calculated archetype in ordinary English; use conditional examples, not a biography.",
+    "advancedLayer": "Show the same node IDs, actual values, formula IDs, source references and editorial rule IDs.",
+    "forbiddenInferences": [
+      "Unobserved personal history",
+      "Current shadow/constructive diagnosis",
+      "Future health, wealth, partner, or crisis outcome"
+    ],
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [],
+      "editorialNote": "Report organization is a product decision made after methodology research."
+    }
+  },
+  {
+    "id": "purpose",
+    "order": 9,
+    "title": "Purpose, values, and inner priorities",
+    "positionIds": [
+      "earth",
+      "sky",
+      "purpose_personal",
+      "paternal",
+      "maternal",
+      "purpose_social",
+      "purpose_spiritual",
+      "heart_earth",
+      "heart_sky"
+    ],
+    "combinationRuleIds": [
+      "COM-CHANNEL"
+    ],
+    "purpose": "Explain grouped arithmetic, symbolic life-stage emphasis, and both desire points; never prescribe a compulsory life timetable.",
+    "access": "paid",
+    "beginnerLayer": "Explain the role and its calculated archetype in ordinary English; use conditional examples, not a biography.",
+    "advancedLayer": "Show the same node IDs, actual values, formula IDs, source references and editorial rule IDs.",
+    "forbiddenInferences": [
+      "Unobserved personal history",
+      "Current shadow/constructive diagnosis",
+      "Future health, wealth, partner, or crisis outcome"
+    ],
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [],
+      "editorialNote": "Report organization is a product decision made after methodology research."
+    }
+  },
+  {
+    "id": "integration",
+    "order": 10,
+    "title": "Practical integration",
+    "positionIds": [
+      "core",
+      "day",
+      "money_center",
+      "love_center",
+      "bottom"
+    ],
+    "combinationRuleIds": [
+      "COM-REPEAT",
+      "COM-CONTRAST"
+    ],
+    "purpose": "Choose no more than three distinct practices linked to actual nodes, with a small observable experiment for each.",
+    "access": "paid",
+    "beginnerLayer": "Explain the role and its calculated archetype in ordinary English; use conditional examples, not a biography.",
+    "advancedLayer": "Show the same node IDs, actual values, formula IDs, source references and editorial rule IDs.",
+    "forbiddenInferences": [
+      "Unobserved personal history",
+      "Current shadow/constructive diagnosis",
+      "Future health, wealth, partner, or crisis outcome"
+    ],
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [],
+      "editorialNote": "Report organization is a product decision made after methodology research."
+    }
+  },
+  {
+    "id": "reference",
+    "order": 11,
+    "title": "Calculation and methodology reference",
+    "positionIds": [
+      "day",
+      "month",
+      "year",
+      "bottom",
+      "core",
+      "nw",
+      "ne",
+      "se",
+      "sw",
+      "family_center",
+      "day_inner",
+      "day_mid",
+      "month_inner",
+      "month_mid",
+      "year_inner",
+      "year_mid",
+      "bottom_inner",
+      "bottom_mid",
+      "nw_inner",
+      "nw_mid",
+      "ne_inner",
+      "ne_mid",
+      "se_inner",
+      "se_mid",
+      "sw_inner",
+      "sw_mid",
+      "heart_earth",
+      "heart_sky",
+      "bridge",
+      "money_center",
+      "love_center",
+      "earth",
+      "sky",
+      "purpose_personal",
+      "paternal",
+      "maternal",
+      "purpose_social",
+      "purpose_spiritual"
+    ],
+    "combinationRuleIds": [],
+    "purpose": "Appendix: every value and reduction, version, role glossary, source references and clearly identified editorial additions.",
+    "access": "paid",
+    "beginnerLayer": "Explain the role and its calculated archetype in ordinary English; use conditional examples, not a biography.",
+    "advancedLayer": "Show the same node IDs, actual values, formula IDs, source references and editorial rule IDs.",
+    "forbiddenInferences": [
+      "Unobserved personal history",
+      "Current shadow/constructive diagnosis",
+      "Future health, wealth, partner, or crisis outcome"
+    ],
+    "provenance": {
+      "classification": "editorial_synthesis",
+      "sourceRefs": [],
+      "editorialNote": "Report organization is a product decision made after methodology research."
+    }
+  }
+]

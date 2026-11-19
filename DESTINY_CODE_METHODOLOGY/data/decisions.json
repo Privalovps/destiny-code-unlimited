@@ -1,0 +1,254 @@
+[
+  {
+    "id": "DEC-ANCESTRY",
+    "issue": "Which numerical ancestry convention should a release adopt?",
+    "status": "recommended_not_production_approved",
+    "recommendation": "C-family-center-v1 as one complete construction system.",
+    "alternatives": [
+      "AB-personal-center-v1 as a distinct method version"
+    ],
+    "impact": "Eight ancestral inner/middle values and related prose differ; common cardinal points and purpose endpoints are unchanged.",
+    "sourceRefs": [
+      {
+        "sourceId": "A",
+        "pdfPages": [
+          26
+        ]
+      },
+      {
+        "sourceId": "B",
+        "pdfPages": [
+          21
+        ]
+      },
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          33,
+          34,
+          35,
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "id": "DEC-TALENT-ROLES",
+    "issue": "Detailed top-arm role labels differ.",
+    "status": "resolved_for_proposal",
+    "recommendation": "C inner=self-expression; middle=skills. Retain A/B alternate subrole terminology only in comparative research.",
+    "impact": "Meaning changes without a number changing.",
+    "sourceRefs": [
+      {
+        "sourceId": "A",
+        "pdfPages": [
+          23
+        ]
+      },
+      {
+        "sourceId": "B",
+        "pdfPages": [
+          12
+        ]
+      },
+      {
+        "sourceId": "B",
+        "pdfPages": [
+          22
+        ]
+      },
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  {
+    "id": "DEC-TAIL-ORDER",
+    "issue": "Physical order and catalog conventions differ.",
+    "status": "resolved_for_C_proposal",
+    "recommendation": "Exact calculation-order C keys; do not translate A/B labels by a tuple multiset.",
+    "impact": "Named pattern identity and reading.",
+    "sourceRefs": [
+      {
+        "sourceId": "A",
+        "pdfPages": [
+          22
+        ]
+      },
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          226
+        ]
+      },
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          332
+        ]
+      },
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          336
+        ]
+      },
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          341
+        ]
+      }
+    ]
+  },
+  {
+    "id": "DEC-GENERIC-PROGRAMS",
+    "issue": "No sufficiently explicit universal eligible-triplet detector and orientation mapping.",
+    "status": "blocked",
+    "recommendation": "Keep source_code_catalog.json as research evidence with every automatic matcher disabled.",
+    "impact": "Generic named code narratives remain excluded; exact C-tail keys are a separate supported catalog.",
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          140,
+          141,
+          142
+        ]
+      }
+    ]
+  },
+  {
+    "id": "DEC-PLANETARY",
+    "issue": "A fourth purpose is mentioned without a verified construction rule.",
+    "status": "excluded_unsupported",
+    "recommendation": "Do not invent a planetary-purpose value.",
+    "impact": "No such output exists in the38-value baseline.",
+    "sourceRefs": [
+      {
+        "sourceId": "B",
+        "pdfPages": [
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "id": "DEC-COVERAGE",
+    "issue": "All pages processed, but exhaustive semantic review of all prose was not completed.",
+    "status": "open",
+    "recommendation": "Treat source extraction, targeted methodological verification and original editorial synthesis as separate achievements. Review indexed-only passages before claiming a comprehensive book-by-book critical edition.",
+    "impact": "Do not market this package as an exhaustive reconstruction of all narrative programs in all630 pages.",
+    "sourceRefs": []
+  },
+  {
+    "id": "DEC-EDITORIAL",
+    "issue": "Source text contains literal causal, gendered and historical assertions.",
+    "status": "resolved_for_proposal",
+    "recommendation": "Use original neutral symbolic reflections with both constructive/shadow possibilities, not factual diagnoses or past-life stories.",
+    "impact": "An explicit original editorial framework, not a faithful translation or official school.",
+    "sourceRefs": [
+      {
+        "sourceId": "A",
+        "pdfPages": [
+          11
+        ]
+      },
+      {
+        "sourceId": "A",
+        "pdfPages": [
+          89
+        ]
+      },
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          12,
+          13
+        ]
+      },
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          41
+        ]
+      },
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          225,
+          226
+        ]
+      }
+    ]
+  },
+  {
+    "id": "DEC-REPOSITORY",
+    "issue": "Current code and saved-report schema were not supplied.",
+    "status": "implementation_discovery_required",
+    "recommendation": "Inspect ~/Desktop/Isoteric before choosing actual paths, migrations or active-version switch.",
+    "impact": "No verified old/new code diff or completed integration test is claimed.",
+    "sourceRefs": []
+  },
+  {
+    "id": "DEC-SAMPLE",
+    "issue": "Actual existing public sample date is unknown.",
+    "status": "recommended_not_production_approved",
+    "recommendation": "Use source-verified1991-12-09 or retain the current sample date with shared-engine fixtures.",
+    "impact": "All sample surfaces and downloads must be regenerated together.",
+    "sourceRefs": [
+      {
+        "sourceId": "C",
+        "pdfPages": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "id": "DEC-RIGHTS",
+    "issue": "Original prose does not grant a license to redistribute source books, illustrations or distinctive course material.",
+    "status": "limited_scope",
+    "recommendation": "Package original English prose, general symbolic concepts and bibliographic/page attribution only. Do not redistribute scans or OCR chapters.",
+    "impact": "No representation of legal clearance, official affiliation or exclusive ownership of a traditional number system.",
+    "sourceRefs": []
+  }
+]

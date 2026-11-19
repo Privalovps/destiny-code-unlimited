@@ -1,0 +1,1221 @@
+{
+  "id": "C-family-center-v1",
+  "version": "dc-symbolic-1.0.0-proposed",
+  "status": "research_candidate",
+  "dateInput": {
+    "format": "YYYY-MM-DD",
+    "calendar": "Gregorian",
+    "minYear": 1,
+    "maxYear": 9999,
+    "timezoneAdjustment": false
+  },
+  "reduction": {
+    "id": "R22",
+    "condition": "while value > 22",
+    "operation": "decimal digit sum",
+    "preserve": [
+      1,
+      22
+    ],
+    "partialSums": "never reduce partial additions inside a formula"
+  },
+  "rules": [
+    {
+      "id": "day",
+      "name": "Birth-day portrait",
+      "inputs": [
+        "dayOfMonth"
+      ],
+      "operation": "reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              14
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              10
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "month",
+      "name": "Month / spiritual inspiration",
+      "inputs": [
+        "monthOfYear"
+      ],
+      "operation": "identity",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              14
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              11,
+              12
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "year",
+      "name": "Year / material learning",
+      "inputs": [
+        "yearNumber"
+      ],
+      "operation": "digit_sum_then_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              15
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              12,
+              13
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "bottom",
+      "name": "Main learning point",
+      "inputs": [
+        "day",
+        "month",
+        "year"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              16
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              13,
+              14
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "core",
+      "name": "Personal center",
+      "inputs": [
+        "day",
+        "month",
+        "year",
+        "bottom"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              17
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              14,
+              15
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "nw",
+      "name": "Paternal upper corner",
+      "inputs": [
+        "day",
+        "month"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              18
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              17,
+              18
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "ne",
+      "name": "Maternal upper corner",
+      "inputs": [
+        "month",
+        "year"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              18
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              17,
+              18
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "se",
+      "name": "Paternal lower corner",
+      "inputs": [
+        "year",
+        "bottom"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              18
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              17,
+              18
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "sw",
+      "name": "Maternal lower corner",
+      "inputs": [
+        "bottom",
+        "day"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              18
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              17,
+              18
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "family_center",
+      "name": "Ancestral resource aggregate",
+      "inputs": [
+        "nw",
+        "ne",
+        "se",
+        "sw"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "source_specific",
+        "sourceRefs": [
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              20,
+              21
+            ]
+          }
+        ],
+        "editorialNote": "Separate from core, even when numerical values coincide. Not the social-purpose calculation: grouping and intermediate reduction differ."
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "day_inner",
+      "name": "Family relationship inner point",
+      "inputs": [
+        "day",
+        "core"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              25
+            ]
+          },
+          {
+            "sourceId": "B",
+            "pdfPages": [
+              20
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              31,
+              32
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "day_mid",
+      "name": "Family relationship middle point",
+      "inputs": [
+        "day",
+        "day_inner"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              25
+            ]
+          },
+          {
+            "sourceId": "B",
+            "pdfPages": [
+              20
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              31,
+              32
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "month_inner",
+      "name": "Talent inner point",
+      "inputs": [
+        "month",
+        "core"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              23
+            ]
+          },
+          {
+            "sourceId": "B",
+            "pdfPages": [
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              28,
+              29
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "month_mid",
+      "name": "Talent middle point",
+      "inputs": [
+        "month",
+        "month_inner"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              23
+            ]
+          },
+          {
+            "sourceId": "B",
+            "pdfPages": [
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              28,
+              29
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "year_inner",
+      "name": "Material pattern inner point",
+      "inputs": [
+        "year",
+        "core"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              24
+            ]
+          },
+          {
+            "sourceId": "B",
+            "pdfPages": [
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              29,
+              30
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "year_mid",
+      "name": "Material pattern middle point",
+      "inputs": [
+        "year",
+        "year_inner"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              24
+            ]
+          },
+          {
+            "sourceId": "B",
+            "pdfPages": [
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              29,
+              30
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "bottom_inner",
+      "name": "Karmic pattern inner point",
+      "inputs": [
+        "bottom",
+        "core"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              22
+            ]
+          },
+          {
+            "sourceId": "B",
+            "pdfPages": [
+              9,
+              10
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              21,
+              22
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "bottom_mid",
+      "name": "Karmic pattern middle point",
+      "inputs": [
+        "bottom",
+        "bottom_inner"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              22
+            ]
+          },
+          {
+            "sourceId": "B",
+            "pdfPages": [
+              9,
+              10
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              21,
+              22
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "nw_inner",
+      "name": "Paternal upper inner point",
+      "inputs": [
+        "nw",
+        "family_center"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "conflicting",
+        "sourceRefs": [
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              33
+            ]
+          }
+        ],
+        "editorialNote": "C profile. A:26 and B:21 use core instead. Never silently substitute the other center."
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "nw_mid",
+      "name": "Paternal upper middle point",
+      "inputs": [
+        "nw",
+        "nw_inner"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "conflicting",
+        "sourceRefs": [
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              33
+            ]
+          }
+        ],
+        "editorialNote": "Middle derived from already selected branch; preserve the profile throughout."
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "ne_inner",
+      "name": "Maternal upper inner point",
+      "inputs": [
+        "ne",
+        "family_center"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "conflicting",
+        "sourceRefs": [
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              33,
+              34
+            ]
+          }
+        ],
+        "editorialNote": "C profile. A:26 and B:21 use core instead. Never silently substitute the other center."
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "ne_mid",
+      "name": "Maternal upper middle point",
+      "inputs": [
+        "ne",
+        "ne_inner"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "conflicting",
+        "sourceRefs": [
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              34,
+              35
+            ]
+          }
+        ],
+        "editorialNote": "Middle derived from already selected branch; preserve the profile throughout."
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "se_inner",
+      "name": "Paternal lower inner point",
+      "inputs": [
+        "se",
+        "family_center"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "conflicting",
+        "sourceRefs": [
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              33,
+              34,
+              35,
+              36
+            ]
+          }
+        ],
+        "editorialNote": "C profile. A:26 and B:21 use core instead. Never silently substitute the other center."
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "se_mid",
+      "name": "Paternal lower middle point",
+      "inputs": [
+        "se",
+        "se_inner"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "conflicting",
+        "sourceRefs": [
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              36
+            ]
+          }
+        ],
+        "editorialNote": "Middle derived from already selected branch; preserve the profile throughout."
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "sw_inner",
+      "name": "Maternal lower inner point",
+      "inputs": [
+        "sw",
+        "family_center"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "conflicting",
+        "sourceRefs": [
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              33,
+              34,
+              35,
+              36,
+              37
+            ]
+          }
+        ],
+        "editorialNote": "C profile. A:26 and B:21 use core instead. Never silently substitute the other center."
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "sw_mid",
+      "name": "Maternal lower middle point",
+      "inputs": [
+        "sw",
+        "sw_inner"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "conflicting",
+        "sourceRefs": [
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              37
+            ]
+          }
+        ],
+        "editorialNote": "Middle derived from already selected branch; preserve the profile throughout."
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "heart_earth",
+      "name": "Heart desire, Earth axis",
+      "inputs": [
+        "core",
+        "day_inner"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "source_specific",
+        "sourceRefs": [
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              38,
+              39
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "heart_sky",
+      "name": "Heart desire, Sky axis",
+      "inputs": [
+        "core",
+        "month_inner"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "source_specific",
+        "sourceRefs": [
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              38,
+              39
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "bridge",
+      "name": "Relationship–money bridge",
+      "inputs": [
+        "year_inner",
+        "bottom_inner"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              24
+            ]
+          },
+          {
+            "sourceId": "B",
+            "pdfPages": [
+              17
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              39
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "money_center",
+      "name": "Money-channel midpoint",
+      "inputs": [
+        "year_inner",
+        "bridge"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              24
+            ]
+          },
+          {
+            "sourceId": "B",
+            "pdfPages": [
+              17,
+              18
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              40
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "love_center",
+      "name": "Relationship-channel midpoint",
+      "inputs": [
+        "bottom_inner",
+        "bridge"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              24
+            ]
+          },
+          {
+            "sourceId": "B",
+            "pdfPages": [
+              17,
+              18
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              41
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "earth",
+      "name": "Earth aggregate",
+      "inputs": [
+        "day",
+        "year"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              21
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              23,
+              24
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "sky",
+      "name": "Sky aggregate",
+      "inputs": [
+        "month",
+        "bottom"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              21
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              23,
+              24
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "purpose_personal",
+      "name": "Personal purpose",
+      "inputs": [
+        "earth",
+        "sky"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              21
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              24
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "paternal",
+      "name": "Paternal aggregate",
+      "inputs": [
+        "nw",
+        "se"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              21
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              25
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "maternal",
+      "name": "Maternal aggregate",
+      "inputs": [
+        "ne",
+        "sw"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              21
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              25
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "purpose_social",
+      "name": "Social purpose",
+      "inputs": [
+        "paternal",
+        "maternal"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              21
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              25,
+              26
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    },
+    {
+      "id": "purpose_spiritual",
+      "name": "Spiritual purpose",
+      "inputs": [
+        "purpose_personal",
+        "purpose_social"
+      ],
+      "operation": "sum_reduce",
+      "reduction": "R22 after the full sum of the specified inputs, never after partial additions",
+      "provenance": {
+        "classification": "shared",
+        "sourceRefs": [
+          {
+            "sourceId": "A",
+            "pdfPages": [
+              21
+            ]
+          },
+          {
+            "sourceId": "C",
+            "pdfPages": [
+              27
+            ]
+          }
+        ],
+        "editorialNote": ""
+      },
+      "status": "verified_for_proposed_C_profile"
+    }
+  ],
+  "alternateProfiles": [
+    {
+      "id": "AB-personal-center-v1",
+      "overrides": {
+        "nw_inner": {
+          "inputs": [
+            "nw",
+            "core"
+          ],
+          "operation": "sum_reduce"
+        },
+        "ne_inner": {
+          "inputs": [
+            "ne",
+            "core"
+          ],
+          "operation": "sum_reduce"
+        },
+        "se_inner": {
+          "inputs": [
+            "se",
+            "core"
+          ],
+          "operation": "sum_reduce"
+        },
+        "sw_inner": {
+          "inputs": [
+            "sw",
+            "core"
+          ],
+          "operation": "sum_reduce"
+        }
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "A",
+          "pdfPages": [
+            26
+          ]
+        },
+        {
+          "sourceId": "B",
+          "pdfPages": [
+            21
+          ]
+        }
+      ],
+      "productionEnabled": false
+    }
+  ]
+}

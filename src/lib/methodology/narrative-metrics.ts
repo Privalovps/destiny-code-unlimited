@@ -1,0 +1,5 @@
+import type { CandidateReport } from './report';
+export const countWords=(text:string)=>text.trim()?text.trim().split(/\s+/).length:0;
+/** Narrative only: no orientation disclaimer, cover, headings, navigation, details or formula tables. */
+export function narrativeWordCount(report:CandidateReport){return report.sections.filter(s=>s.id!=='reference'&&s.id!=='orientation').reduce((sum,s)=>sum+s.blocks.filter(b=>b.kind!=='calculation_table').reduce((n,b)=>n+countWords(b.text),0),0);}
+export function narrativeCoverage(report:CandidateReport){return report.sections.filter(s=>s.id!=='reference').map(s=>({chapter:s.id,words:s.id==='orientation'?0:s.blocks.filter(b=>b.kind!=='calculation_table').reduce((n,b)=>n+countWords(b.text),0),positions:[...new Set(s.blocks.filter(b=>b.kind==='position').flatMap(b=>b.nodeIds))].map(id=>({id,words:s.blocks.filter(b=>b.kind==='position'&&b.nodeIds.length===1&&b.nodeIds[0]===id).reduce((n,b)=>n+countWords(b.text),0)})),syntheses:s.blocks.filter(b=>b.ruleIds.length>0).map(b=>({title:b.heading??'',ruleIds:b.ruleIds,positions:b.nodeIds,words:countWords(b.text)}))}));}

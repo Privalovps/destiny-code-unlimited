@@ -1,0 +1,57 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "name": "Reducer threshold, preserved multi-digit values, repeated digit sum",
+      "status": "passed"
+    },
+    {
+      "name": "Strict Gregorian dates and no timestamp coercion",
+      "status": "passed"
+    },
+    {
+      "name": "Twelve independent Python arithmetic fixtures and full traces",
+      "status": "passed"
+    },
+    {
+      "name": "A/B ancestry convention is a separate profile for all twelve dates",
+      "status": "passed"
+    },
+    {
+      "name": "Manual book-example assertions for A/B and C",
+      "status": "passed"
+    },
+    {
+      "name": "38 formula IDs, 30 chart nodes, 22 distinct correctly numbered archetypes",
+      "status": "passed"
+    },
+    {
+      "name": "All exact C tail keys are distinct, arithmetic-consistent and order-sensitive",
+      "status": "passed"
+    },
+    {
+      "name": "Generic code catalog remains disabled",
+      "status": "passed"
+    },
+    {
+      "name": "Repetition cannot count a shared node twice",
+      "status": "passed"
+    },
+    {
+      "name": "Varna annex does not override the 22-range year or input date",
+      "status": "passed"
+    },
+    {
+      "name": "Sample and second-date report use same roles with different actual values",
+      "status": "passed"
+    },
+    {
+      "name": "Portable free DTO contains only the declared limited fields",
+      "status": "passed"
+    }
+  ],
+  "sourceExamples": 2,
+  "fixtureDates": 12,
+  "profileComparisons": 12,
+  "scope": "Portable package only. No application, payment, browser, or PDF integration tests were run."
+}

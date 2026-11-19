@@ -1,0 +1,5 @@
+import { ImageResponse } from 'next/og';
+export const alt='DESTINY CODE — Your numbers. A new perspective.';
+export const size={width:1200,height:630};
+export const contentType='image/png';
+export default function Image(){return new ImageResponse(<div style={{background:'#130D1B',color:'#F5ECDF',width:'100%',height:'100%',display:'flex',flexDirection:'column',justifyContent:'center',alignItems:'center',border:'24px solid #26172E'}}><div style={{display:'flex',alignItems:'center',gap:18,color:'#D8B977',fontSize:24,letterSpacing:10}}><svg width="28" height="28" viewBox="0 0 28 28"><path d="M14 1L17 11L27 14L17 17L14 27L11 17L1 14L11 11Z" fill="none" stroke="#D8B977" strokeWidth="1.5"/></svg>DESTINY CODE</div><div style={{fontFamily:'serif',fontSize:80,marginTop:45}}>There’s more to your story.</div><div style={{color:'#D8B977',fontSize:26,marginTop:28}}>Your numbers. A new perspective.</div><div style={{fontSize:16,marginTop:60,color:'#b9adbf'}}>Symbolic numerology for entertainment and self-reflection</div></div>,size);}
